@@ -3798,6 +3798,10 @@ file = "scripts/magictiers.zs"
 hash = "c491585d02e2c8e7b12329d068c75777e79fe3781053cf131da018d9485b40b6"
 
 [[files]]
+file = "scripts/omegafixes.zs"
+hash = "7f34b8146dac9b25d5d30b3cab29ab8c8f8d919624a071daae79af29d2aa4d06"
+
+[[files]]
 file = "scripts/powertiers.zs"
 hash = "af5ef7ef2bc605b5768e0f4c3288078890209a0ca8edc7b61f585d4e532aa8fd"
 
@@ -3828,7 +3832,3 @@ hash = "7c3690cb7774f3919255264db12a7af246f539fe57b443a39fa5e5e3a06b8c2e"
 [[files]]
 file = "scripts/zero_thaumcraftloot.zs"
 hash = "94f288843c1f2ebff00ced1c27a51cdfc4a91ccadf6838293dac040ba8da53e1"
-
-[[files]]
-file = "scripts/Ωfixes.zs"
-hash = "7f34b8146dac9b25d5d30b3cab29ab8c8f8d919624a071daae79af29d2aa4d06"
