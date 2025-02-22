@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "66b79da7b3e6191eff4d36a4d1ad7ed8ff40375b4babb3dd81ef7e1925e4930f"
-
-[[files]]
 file = "config/AE2Stuff/readme.txt"
 hash = "0267af34c1928a0ff3a23a40546dbd457eea83726cb4a8cb96ac9340fe9343f0"
 
@@ -3759,10 +3755,6 @@ file = "scripts/MineTweakerRecipeMaker/scripts/Crafting.zs"
 hash = "d7f0a2de4e8db37ea5cea8aab8d75b353b7e9e353f3f0cbc0e4ebfc97d81fc59"
 
 [[files]]
-file = "scripts/NewRecipes.zs"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "scripts/batterygating.zs"
 hash = "e2db0e0355115038f3ff2a31ac9a78def3db612d4f7fe4f9a11deead573dd934"
 
@@ -3771,20 +3763,8 @@ file = "scripts/computercraft.zs"
 hash = "e90baf0efe3c3d1e8444859b119adac22dca8805d2e6c1ffad6e377517d5bd38"
 
 [[files]]
-file = "scripts/computercraft.zs.bak"
-hash = "a16024b3d9f552470a5e6099a8195ab3cde12d7df661ad0d426a3e8db10e9dc9"
-
-[[files]]
-file = "scripts/computercraft.zsold"
-hash = "2cf5a91c0a69d837621b3914756f18b3cb7d9049f1008335be0fac93c97b099b"
-
-[[files]]
 file = "scripts/duplicates.zs"
 hash = "10d940f6e21c4b3d71e44d6df6f94742048971204f5d59de5446fc6b756bc10a"
-
-[[files]]
-file = "scripts/duplicates.zs.bak"
-hash = "15f6acbeb30a3c9b10965d19ba2a412dc87586e285914baf3711fba9dcec4901"
 
 [[files]]
 file = "scripts/geochisel.zs"
@@ -3795,10 +3775,6 @@ file = "scripts/ic2.zs"
 hash = "d99810da730a16e5b5b64da7ed803985590aac43dcf7cf3468bda92c514b5fe0"
 
 [[files]]
-file = "scripts/ic2.zs.bak"
-hash = "97240325b8d334f0c7bf98283a893c793815ed7d891777e27616f9b781185ad9"
-
-[[files]]
 file = "scripts/loot.zs"
 hash = "ffa52731e76bc00976d7198edf1b63fdf7ac25665cea2524532b4e80d35fd82e"
 
@@ -3807,20 +3783,8 @@ file = "scripts/magictiers.zs"
 hash = "c491585d02e2c8e7b12329d068c75777e79fe3781053cf131da018d9485b40b6"
 
 [[files]]
-file = "scripts/magictiers.zs.bak"
-hash = "4c0154b5833e047723b06d8d118bfcf78d2b8a545602a51e0017238b1cbf7bf2"
-
-[[files]]
 file = "scripts/powertiers.zs"
 hash = "af5ef7ef2bc605b5768e0f4c3288078890209a0ca8edc7b61f585d4e532aa8fd"
-
-[[files]]
-file = "scripts/powertiers.zs.bak"
-hash = "23d0b3a3499b313ef1f8cf4c7c7192baae70660be7549e4f4506eda056260c35"
-
-[[files]]
-file = "scripts/resources.zs"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/tankgating.zs"
@@ -3833,10 +3797,6 @@ hash = "20bada15259f69f4ea3417857380f7c5c3ac917784160113909102da4b77589f"
 [[files]]
 file = "scripts/tweaks.zs"
 hash = "21afe24dc93de14cc0f5270ab7864f6b39e1d0350b9e794bd468b0087734e9c7"
-
-[[files]]
-file = "scripts/tweaks.zs.bak"
-hash = "7c756ad716a357b71718082af0f571ff08abb3bb750a89602ba9865125aa21ef"
 
 [[files]]
 file = "scripts/uncrafting.zs"
