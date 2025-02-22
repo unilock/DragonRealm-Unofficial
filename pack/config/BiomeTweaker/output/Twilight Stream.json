@@ -1,0 +1,42 @@
+
+{
+  "ID": 95,
+  "Name": "Twilight Stream",
+  "Class": "twilightforest.biomes.TFBiomeStream",
+  "Color": 3298231,
+  "Root Height": -0.5,
+  "Height Variation": 0.0,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.5,
+  "Humidity": 1.0,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "RIVER"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "twilightforest.entity.passive.EntityTFMobileFirefly",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

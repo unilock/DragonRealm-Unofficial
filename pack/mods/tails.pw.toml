@@ -1,0 +1,13 @@
+name = "Tails"
+filename = "Tails-1.7.10-1.4.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15ac616dae9a8c4a3e534f85575e31cfa01e5464"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2254706
+project-id = 223584

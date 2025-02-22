@@ -1,0 +1,44 @@
+{
+	type = "crates"
+	tier = 1
+	min_size = 1
+	max_size = 3
+	weight = 10
+	items = {
+		{
+			item = "Forestry:cratedObsidian"
+			relative_weight = 0.25
+		}
+		{
+			item = "Forestry:cratedPeat"
+		}
+		{
+			item = "Forestry:cratedCarrots"
+		}
+		{
+			item = "Forestry:cratedPotatoes"
+		}
+		{
+			item = "Forestry:cratedRubber"
+			relative_weight = 0.5
+		}
+		{
+			item = "Forestry:cratedFertilizer"
+			relative_weight = 0.75
+		}
+		{
+			item = "Forestry:cratedChestnut"
+		}
+		{
+			item = "Forestry:cratedMycelium"
+			relative_weight = 0.4
+		}
+		{
+			item = "Forestry:cratedMulch"
+		}
+		{
+			item = "Forestry:cratedCharcoal"
+			relative_weight = 0.9
+		}
+	}
+}

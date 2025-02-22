@@ -1,0 +1,57 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "default",
+      "base_rate": 0.2,
+      "multiplier": 1.1,
+      "item": {
+        "ore": null,
+        "comment": "Rotten Flesh",
+        "mod_id": "minecraft",
+        "name": "rotten_flesh",
+        "amount": 1,
+        "meta": 0
+      }
+    },
+	{
+      "comment": "",
+      "base_rate": 0.3,
+      "multiplier": 1.25,
+      "item": {
+        "ore": null,
+        "comment": "Nature Fiber",
+        "mod_id": "Chromaticraft",
+        "name": "chromaticraft_item_crafting",
+        "amount": 1,
+        "meta": 31
+      }
+    },
+	{
+      "comment": "",
+      "base_rate": 0.5,
+      "multiplier": 1.5,
+      "item": {
+        "ore": null,
+        "comment": "Bees",
+        "mod_id": "Forestry",
+        "name": "beeDroneGE",
+        "amount": 1,
+        "meta": 0
+      }
+    },
+	{
+      "comment": "",
+      "base_rate": 0.75,
+      "multiplier": 1.75,
+      "item": {
+        "ore": null,
+        "comment": "Triple Meat Treat",
+        "mod_id": "Thaumcraft",
+        "name": "TripleMeatTreat",
+        "amount": 1,
+        "meta": 0
+      }
+    }
+  ]
+}

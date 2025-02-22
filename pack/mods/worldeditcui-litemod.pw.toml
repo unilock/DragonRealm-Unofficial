@@ -1,0 +1,8 @@
+name = "WorldeditCUI-litemod"
+filename = "mod_worldeditcui_1.7.10_00_mc1.7.10.litemod"
+side = "client"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/blob/main/1.7.10/jars/mod_worldeditcui_1.7.10_00_mc1.7.10.litemod"
+hash-format = "sha256"
+hash = "c04f2e5e36e9b7495ceba4bd93b3a2ef5c904fd68a29c75c9dedc8066d876417"

@@ -1,0 +1,13 @@
+name = "BinniePatcher"
+filename = "Binnie Patcher 1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f6f8e76581cee05153ed62bdbcb13516ae96279"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2300907
+project-id = 242276

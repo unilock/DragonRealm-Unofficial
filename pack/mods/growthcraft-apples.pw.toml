@@ -1,0 +1,7 @@
+name = "Growthcraft-apples"
+filename = "growthcraft-1.7.10-2.7.2-complete-apples.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/growthcraft-1.7.10-2.7.2-complete-apples.jar"
+hash-format = "sha256"
+hash = "ea34d4ab74856a09531c6a7fcc3c5ebea66134842885e78d517491250e7fb50e"

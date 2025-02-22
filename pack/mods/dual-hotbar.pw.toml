@@ -1,0 +1,13 @@
+name = "Dual Hotbar"
+filename = "dualhotbar-1.7.10-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c51c8af597cba6e013f07f28e027c32fb0f284f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2212352
+project-id = 223272

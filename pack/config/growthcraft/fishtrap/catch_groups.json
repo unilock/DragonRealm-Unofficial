@@ -1,0 +1,25 @@
+{
+  "comment": "",
+  "data": {
+    "mineral": {
+      "comment": "Ingots and other metallic stuff",
+      "weight": 50
+    },
+    "legendary": {
+      "comment": "Stuff you probably would never find on average",
+      "weight": 2
+    },
+    "fish": {
+      "comment": "Fishes",
+      "weight": 500
+    },
+    "treasure": {
+      "comment": "Fancy Stuff",
+      "weight": 50
+    },
+    "junk": {
+      "comment": "Useless Stuff",
+      "weight": 100
+    }
+  }
+}

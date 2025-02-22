@@ -1,0 +1,45 @@
+HiveGen Rock {
+    SpawnChance 3
+	Replace B:stone
+	Near B:stone
+	Drops {
+	95% "gendustry.bee.rocky" (10% ignoble) + I:Forestry:beeCombs @ 0
+	5% "forestry.speciesValiant" + I:Forestry:beeCombs @ 0
+	}
+	TopTexture "tweakfix:hive/rock.1"
+	BottomTexture "tweakfix:hive/rock.1"
+	SideTexture "tweakfix:hive/rock.0"
+	//LightLevel 15
+}
+
+HiveGen Water {
+    SpawnChance 4
+	//Biome Ocean, FrozenOcean, "Ocean Oil Field", River, FrozenRiver, Swampland, "Swampland M", Beach, "Stone Beach", MushroomIslandShore
+	Near B:dirt, B:sand, B:gravel
+	Under B:water
+	Replace B:water
+	Drops {
+	95% "gendustry.bee.water" (10% ignoble) + I:Forestry:beeCombs @ 0
+	5% "forestry.speciesValiant" + I:Forestry:beeCombs @ 0
+	}
+	TopTexture "tweakfix:hive/water.1"
+	BottomTexture "tweakfix:hive/water.1"
+	SideTexture "tweakfix:hive/water.0"
+	//LightLevel 15
+}
+
+HiveGen Nether {
+    SpawnChance 3
+	Biome Hell
+	Replace B:netherrack
+	Near B:netherrack
+	Drops {
+	95% "gendustry.bee.embittered" (10% ignoble) + I:Forestry:beeCombs @ 0
+	5% "forestry.speciesValiant" + I:Forestry:beeCombs @ 0
+	}
+	TopTexture "tweakfix:hive/nether.1"
+	BottomTexture "tweakfix:hive/nether.1"
+	SideTexture "tweakfix:hive/nether.0"
+	//LightLevel 15
+}
+

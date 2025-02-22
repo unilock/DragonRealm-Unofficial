@@ -1,0 +1,55 @@
+{
+	type = "nobauble1"
+	operation = "remove"
+	item = "Thaumcraft:ItemBaubleBlanks"
+}
+{
+	type = "nobauble2"
+	operation = "remove"
+	item = "Thaumcraft:ItemBaubleBlanks:1"
+}
+{
+	type = "nobauble3"
+	operation = "remove"
+	item = "Thaumcraft:ItemBaubleBlanks:2"
+}
+{
+	type = "nobauble4"
+	operation = "remove"
+	item = "Thaumcraft:ItemAmuletVis"
+}
+{
+	type = "nothaumhoe"
+	operation = "remove"
+	item = "Thaumcraft:ItemHoeThaumium"
+}
+{
+	type = "nobook1"
+	operation = "remove"
+	item = "ChromatiCraft:chromaticraft_item_help"
+}
+{
+	type = "nobook2"
+	operation = "remove"
+	item = "Botania:lexicon"
+}
+{
+	type = "noboparmor"
+	operation = "remove"
+	item = "BiomesOPlenty:wadingBoots"
+}
+{
+	type = "noboparmor2"
+	operation = "remove"
+	item = "BiomesOPlenty:flippers"
+}
+{
+	type = "notravelstaff"
+	operation = "remove"
+	item = "EnderIO:itemTravelStaff:16"
+}
+{
+	type = "notravelstaff2"
+	operation = "remove"
+	item = "EnderIO:itemTravelStaff"
+}

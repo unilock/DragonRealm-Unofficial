@@ -1,0 +1,13 @@
+name = "Thaumcraft NEI Plugin"
+filename = "thaumcraftneiplugin-1.7.10-1.7a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cad010865aa455cc5eafbffc4ef915ac4ab2ecc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2241913
+project-id = 225095

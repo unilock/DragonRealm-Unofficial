@@ -1,0 +1,13 @@
+name = "Forge Multi Part"
+filename = "ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34d4354ef1692be305511537c6a9b2ac18b69d7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2242993
+project-id = 229323

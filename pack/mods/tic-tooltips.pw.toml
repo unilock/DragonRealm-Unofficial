@@ -1,0 +1,13 @@
+name = "TiC Tooltips"
+filename = "TiCTooltips-mc1.7.10-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a3b97262bd10cf639974251bfda1a35f4b61127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2246472
+project-id = 76845

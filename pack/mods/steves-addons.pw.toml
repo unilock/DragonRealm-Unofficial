@@ -1,0 +1,13 @@
+name = "Steve's Addons"
+filename = "StevesAddons-1.7.10-0.10.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a377175ef96f5490d2f68c15d76e8a11ef2deffc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2249705
+project-id = 226067

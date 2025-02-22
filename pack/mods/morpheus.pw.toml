@@ -1,0 +1,13 @@
+name = "Morpheus"
+filename = "Morpheus-1.7.10-1.6.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6f94b849d8a4a106f4aca32a9d1ede9b55cc5c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280761
+project-id = 69118

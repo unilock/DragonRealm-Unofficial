@@ -1,0 +1,36 @@
+{
+	type = "batchadd"
+	operation = "batch"
+	entry = "additions_generic"
+}
+{
+	type = "batchadd"
+	operation = "batch"
+	entry = "additions_tech_t1"
+}
+{
+	type = "batchremove"
+	operation = "batch"
+	entry = "removals"
+}
+{
+	type = "batchtweak"
+	operation = "batch"
+	entry = "tweaks"
+}
+{
+	type = "batcharmor"
+	operation = "batch"
+	entry = "toolsarmor"
+}
+{
+	type = "removegating"
+	operation = "removetier"
+    tier = "gating"
+}
+{
+	type = "morediamonds"
+	operation = "changeweight"
+	item = "minecraft:diamond"
+	relative_weight = 1.2
+}

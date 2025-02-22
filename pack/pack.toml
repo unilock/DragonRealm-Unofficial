@@ -1,0 +1,13 @@
+name = "Dragonrealm Unofficial"
+author = "ReikaKaleski"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23c1faef005249e6f0f9b76a959f8a929b9b1603cf69ea2c840c588b949a535d"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

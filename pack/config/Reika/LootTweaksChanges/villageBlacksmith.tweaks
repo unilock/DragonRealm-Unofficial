@@ -1,0 +1,26 @@
+{
+	type = "batchremove"
+	operation = "batch"
+	entry = "removals"
+}
+{
+	type = "batchtweak"
+	operation = "batch"
+	entry = "tweaks"
+}
+{
+	type = "batcharmor"
+	operation = "batch"
+	entry = "toolsarmor"
+}
+{
+	type = "removegating"
+	operation = "removetier"
+    tier = "gating"
+}
+{
+	type = "moreobsidian"
+	operation = "changeweight"
+	item = "minecraft:obsidian"
+	relative_weight = 1.8
+}

@@ -1,0 +1,13 @@
+name = "Thaumcraft Node Tracker"
+filename = "tcnodetracker-1.7.10-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71b6f5d0c31f9f737a2ec790d6b4023b09ad18f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2247224
+project-id = 227328

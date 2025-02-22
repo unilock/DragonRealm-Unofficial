@@ -1,0 +1,399 @@
+{
+  "_name": "mineshaftCorridor",
+  "min": 4,
+  "max": 9,
+  "loot": [
+    {
+      "weight": 10,
+      "id": "minecraft:iron_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:gold_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:redstone",
+      "damage": 0,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:diamond",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:coal",
+      "damage": 0,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:rail",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:melon_seeds",
+      "damage": 0,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:pumpkin_seeds",
+      "damage": 0,
+      "min": 2,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:saddle",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:enchanted_book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 8,
+      "id": "IC2:itemTinCanFilled",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 8,
+      "id": "IC2:itemShardIridium",
+      "damage": 0,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "weight": 6,
+      "id": "Botania:blackLotus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+	{
+      "weight": 3,
+      "id": "Botania:blackLotus",
+      "damage": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 2,
+      "id": "Botania:overgrowthSeed",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:fluid.creosote.bottle",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "Railcraft:tool.crowbar",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.steel.shears",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.steel.shovel",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.steel.pickaxe",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.steel.axe",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:chest_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:tnt_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 30,
+      "id": "minecraft:rail",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:hopper_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.tie",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:fuel.coke",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:part.gear",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:cube",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 8,
+      "id": "Railcraft:cart.work",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_fragment",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "keep": "iguanaman.iguanatweakstconstruct.worldgen.RandomWeaponChestContent",
+      "id": "TConstruct:broadsword",
+      "damage": 0,
+      "nbt": false,
+      "count": 1
+    },
+    {
+      "weight": 15,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemSwordThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemPickThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemAxeThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemShovelThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemRingRunic",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Automagy:baubleEnderDisjunction",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "Automagy:phialExtra",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedObsidian",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedChestnut",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedFertilizer",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedMycelium",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedMulch",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedRubber",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedPotatoes",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedCarrots",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedPeat",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+	{
+      "weight": 5,
+      "id": "Forestry:cratedCharcoal",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:divisionSigil",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

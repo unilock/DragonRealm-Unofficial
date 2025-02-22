@@ -1,0 +1,7 @@
+name = "Streams"
+filename = "Streams-0.1.6.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Streams-0.1.6.jar"
+hash-format = "sha256"
+hash = "9ba97cde762c4889be906e7245fd8468ba9d03daf80ffef4f1fa20cf2ab37769"

@@ -1,0 +1,13 @@
+name = "Chisel"
+filename = "Chisel-2.9.5.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9e4b54913bbd38543ab873043145e3b4992bf95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287442
+project-id = 235279

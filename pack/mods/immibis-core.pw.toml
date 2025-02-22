@@ -1,0 +1,13 @@
+name = "Immibis Core"
+filename = "immibis-core-59.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iwfxqPXL/versions/QlL6BVEI/immibis-core-59.1.4.jar"
+hash-format = "sha512"
+hash = "7a0ae3858106272b351bb1ad2acb88f5107f2c0d560a18e1d90de4984ac4d475e4b910634230dc65420cbf049f00ea59db3e8c1fe701d45daaaf58c2c289d6c7"
+
+[update]
+[update.modrinth]
+mod-id = "iwfxqPXL"
+version = "QlL6BVEI"

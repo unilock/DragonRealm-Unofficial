@@ -1,0 +1,7 @@
+name = "Twilight-Forest"
+filename = "twilightforest-1.7.10-2.3.8dev.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/twilightforest-1.7.10-2.3.8dev.jar"
+hash-format = "sha256"
+hash = "cc52a653fd4aceb0ec5f199a7fe84d649949c80153c35615561455af6db17f69"

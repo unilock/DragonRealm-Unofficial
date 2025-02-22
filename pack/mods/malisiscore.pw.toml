@@ -1,0 +1,13 @@
+name = "MalisisCore"
+filename = "malisiscore-1.7.10-0.14.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb0b67c3606735da9a04545091128c882deb38a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2283267
+project-id = 223896

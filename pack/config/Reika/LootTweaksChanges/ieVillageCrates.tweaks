@@ -1,0 +1,20 @@
+{
+	type = "batchremove"
+	operation = "batch"
+	entry = "removals"
+}
+{
+	type = "batcharmor"
+	operation = "batch"
+	entry = "toolsarmor"
+}
+{
+	type = "removegating"
+	operation = "removetier"
+    tier = "gating"
+}
+{
+	type = "batchadd"
+	operation = "batch"
+	entry = "additions_tech_t0"
+}

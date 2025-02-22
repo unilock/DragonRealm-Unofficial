@@ -1,0 +1,13 @@
+name = "Iguanas Tinker Tweaks"
+filename = "IguanaTinkerTweaks-1.7.10-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a7446ad042d8e8b80dde7ffb1ca1dad80bf2de5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288329
+project-id = 223248

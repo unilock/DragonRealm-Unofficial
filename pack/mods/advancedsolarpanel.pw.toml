@@ -1,0 +1,7 @@
+name = "AdvancedSolarPanel"
+filename = "AdvancedSolarPanel-1.7.10-3.5.1.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/AdvancedSolarPanel-1.7.10-3.5.1.jar"
+hash-format = "sha256"
+hash = "55dfd86410fae33ac968682b46bac63a30fe2cf379dc13d5dd0af7cb021787c2"

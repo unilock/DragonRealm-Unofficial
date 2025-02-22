@@ -1,0 +1,7 @@
+name = "DynamicASM"
+filename = "DynamicASM 1.7.10 V33a.jar"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/DynamicASM%201.7.10%20V33a.jar"
+hash-format = "sha256"
+hash = "13fef6b6113de459872411d0eb6f65ab6a7bfc3c1996b153d4d9562de95d9a7c"
