@@ -2,6 +2,6 @@ name = "Thermal-foundation"
 filename = "ThermalFoundation-[1.7.10]1.2.6B1-117.jar"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/blob/main/1.7.10/jars/ThermalFoundation-%5B1.7.10%5D1.2.6B1-117.jar"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ThermalFoundation-%5B1.7.10%5D1.2.6B1-117.jar"
 hash-format = "sha256"
-hash = "62693d6873c392871e3250c372cd1c7e9203a53bd58f65c5cac930e643e96beb"
+hash = "ff8d5b82460939684ca451cc230c606210f0b13c186c426d8f316242b103d8e1"

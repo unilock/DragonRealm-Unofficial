@@ -3678,7 +3678,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "9289907b424423681cbe68dd488828c4519eae852228ac260a7a6da7229cc406"
+hash = "6db993742629ac5a33c6d74d96d53b34ee1b72639e5551c32db8b580f089cd41"
 metafile = true
 
 [[files]]
