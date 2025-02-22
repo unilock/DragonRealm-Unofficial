@@ -1,4 +1,4 @@
-ReikaKaleski's Dragonrealm modpack, converted into packwiz format for easier install and distribution and modified for modernity.
+ReikaKalseki's Dragonrealm modpack, converted into packwiz format for easier install and distribution and modified for modernity.
 
 All credit for the modpack goes to ReikaKaleski, and to Overmindd for hosting the required files.
 
