@@ -2997,6 +2997,26 @@ file = "config/worldedit/worldedit.properties"
 hash = "a239b077f74bb5347d91e1d00fe9a21562d749b8b6773f9e7611d40c4ef1a245"
 
 [[files]]
+file = "mods/1.7.10/baubles.pw.toml"
+hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/codechickenlib.pw.toml"
+hash = "4ea4610e592dcacdf5b288bbb0f6e8b3c1544b90e435ffe819003664c8f3d1e0"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forge-multi-part.pw.toml"
+hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/mrtjpcore.pw.toml"
+hash = "365d0ae319b5bfff4b50ab29b3a8590a9203aebd4ead94f7344e18c4337ae886"
+metafile = true
+
+[[files]]
 file = "mods/advanced-machines-uuum.pw.toml"
 hash = "64cc4bf4608a18478ccc25bbfd22902a1d0620176ae3d758ef9a6765e2bee4b2"
 metafile = true
@@ -3034,11 +3054,6 @@ metafile = true
 [[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
-metafile = true
-
-[[files]]
-file = "mods/baubles.pw.toml"
-hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
@@ -3117,18 +3132,18 @@ hash = "e1d1336dcc74f4811e12aec63641fa6019df999a99d1237242f875544673dd33"
 metafile = true
 
 [[files]]
+file = "mods/chromatifixes.pw.toml"
+hash = "0cba3720fb1709bca0d6e007738abc665a392dfc3377f046b1c024f9a3aa478a"
+metafile = true
+
+[[files]]
 file = "mods/climatecontrol.pw.toml"
 hash = "381d3d3947455f8679a75fdfb4042a7b88393169d55e63a2d070e78230593a02"
 metafile = true
 
 [[files]]
 file = "mods/codechickencore.pw.toml"
-hash = "d7f57583d7ab3c8f212cb5973ecd98f79a32922b274a1b2ecd9485f2b7406d83"
-metafile = true
-
-[[files]]
-file = "mods/codechickenlib.pw.toml"
-hash = "4657b045d6e21a4f2b3687987cd6b15d1573ce32c0e529162559ec9e6b6d9e21"
+hash = "3e85d1eab7aff30086a6398ffdc7d9808ebc22827b86deedd26b34a5319faf56"
 metafile = true
 
 [[files]]
@@ -3184,11 +3199,6 @@ metafile = true
 [[files]]
 file = "mods/dynamicasm.pw.toml"
 hash = "0ec16b17ee84106a58d91410cadfa8da423f974523c5a6cf9c3ffeacc339a09c"
-metafile = true
-
-[[files]]
-file = "mods/ejmlcore.pw.toml"
-hash = "f562f5e16113fcee443855f3a6bfb9994c13d13a495b39209905c70a4ddccdfd"
 metafile = true
 
 [[files]]
@@ -3267,11 +3277,6 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
-file = "mods/forge-multi-part.pw.toml"
-hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
-metafile = true
-
-[[files]]
 file = "mods/foxlib.pw.toml"
 hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
 metafile = true
@@ -3314,6 +3319,11 @@ metafile = true
 [[files]]
 file = "mods/hexwool.pw.toml"
 hash = "54faf7f2306d99e1fc9516aafcdb37d700579605c9091b80edf33ac856e52441"
+metafile = true
+
+[[files]]
+file = "mods/ic2/ejmlcore.pw.toml"
+hash = "f562f5e16113fcee443855f3a6bfb9994c13d13a495b39209905c70a4ddccdfd"
 metafile = true
 
 [[files]]
@@ -3437,8 +3447,8 @@ hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
 
 [[files]]
-file = "mods/mrtjpcore.pw.toml"
-hash = "365d0ae319b5bfff4b50ab29b3a8590a9203aebd4ead94f7344e18c4337ae886"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
 
 [[files]]
@@ -3467,8 +3477,8 @@ hash = "f15d096cbeb2aea0d0fe0017f0c57e4914e85228a9de5ab71e60aa83e5968e2f"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.pw.toml"
-hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
+file = "mods/notenoughitemsgtnh.pw.toml"
+hash = "fe0b703f43b956c4740836d6656a962159a669003839e852a8ef3a6a310309f7"
 metafile = true
 
 [[files]]
@@ -3614,6 +3624,11 @@ metafile = true
 [[files]]
 file = "mods/tails.pw.toml"
 hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
+metafile = true
+
+[[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "29f706b9044a28cd3050625aec371b5a85ddff5152563bf6e500593317a6d482"
 metafile = true
 
 [[files]]
