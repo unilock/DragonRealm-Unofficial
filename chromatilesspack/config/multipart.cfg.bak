@@ -1,0 +1,36 @@
+#Multipart API config file
+
+debug_asm=false
+
+#Set to true to use mc style icons for the saw instead of the 3D model
+useSawIcons=false
+
+sawArdite
+{
+	durability=2400
+}
+
+sawCobalt
+{
+	durability=4096
+}
+
+sawDiamond
+{
+	durability=1562
+}
+
+sawIron
+{
+	durability=261
+}
+
+sawManyullyn
+{
+	durability=5120
+}
+
+sawStone
+{
+	durability=132
+}

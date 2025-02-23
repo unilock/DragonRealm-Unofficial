@@ -1,0 +1,103 @@
+cfg Branches {
+
+	cfg Rocky { UID = "extrabees.rocky" Parent = apidae Scientific = Monapis }
+	
+	cfg Water { UID = "extrabees.aquatic" Parent = apidae Scientific = Aquapis }
+	
+	cfg Nether { UID = "extrabees.volcanic" Parent = apidae Scientific = Irrapis }
+	
+	}
+cfg Bees {
+	//<~~~~~~~~~~~~~~~~~~~~~~ extrabees.rocky Branch ~~~~~~~~~~~~~~~~~~~~~~~>
+cfg Rocky {
+		Dominant = Yes
+		Glowing = No
+		PrimaryColor = 0xA8A8A8
+		SecondaryColor = 0x8A8A8A
+		Secret = No
+		Humidity = Normal
+		Temperature = Normal
+		Nocturnal = No
+		Binominal = Rocky
+		Authority = Binnie
+		Branch = Rocky
+		Products = DropsList()
+		Specialty = DropsList()
+		cfg Traits {
+			Speed = "forestry.speedSlowest"
+			Lifespan = "forestry.lifespanShort"
+			Fertility = "forestry.fertilityLow"
+			Temperature_Tolerance = "forestry.toleranceBoth1"
+			Nocturnal = "forestry.boolTrue"
+			Humidity_Tolerance = "forestry.toleranceBoth1"
+			Tolerant_Flyer = "forestry.boolTrue"
+			Cave_Dwelling = "forestry.boolTrue"
+			Flower_Provider = "forestry.flowersVanilla"
+			Flowering = "forestry.floweringSlower"
+			Territory = "forestry.territoryAverage"
+			Effect = "forestry.effectNone"
+		}
+}
+	//<~~~~~~~~~~~~~~~~~~~~~ extrabees.aquatic Branch ~~~~~~~~~~~~~~~~~~~~~~>
+cfg Aquatic {
+
+		Dominant = Yes
+		Glowing = No
+		PrimaryColor = 0x94A2FF
+		SecondaryColor = 0x0000FF
+		Secret = No
+		Humidity = Damp
+		Temperature = Normal
+		Nocturnal = No
+		Binominal = Rocky
+		Authority = Binnie
+		Branch = Aquatic
+		Products = DropsList()
+		Specialty = DropsList()
+		cfg Traits {
+			Speed = "forestry.speedSlowest"
+			Lifespan = "forestry.lifespanShorter"
+			Fertility = "forestry.fertilityHigh"
+			Temperature_Tolerance = "forestry.toleranceNone"
+			Nocturnal = "forestry.boolFalse"
+			Humidity_Tolerance = "forestry.toleranceBoth1"
+			Tolerant_Flyer = "forestry.boolTrue"
+			Cave_Dwelling = "forestry.boolFalse"
+			Flower_Provider = "forestry.flowersVanilla"
+			Flowering = "forestry.floweringSlow"
+			Territory = "forestry.territoryAverage"
+			Effect = "forestry.effectNone"
+		}
+}
+	//<~~~~~~~~~~~~~~~~~~~~~ extrabees.volcanic Branch ~~~~~~~~~~~~~~~~~~~~~>
+cfg Volcanic {
+
+		Dominant = Yes
+		Glowing = Yes
+		PrimaryColor = 0x4D0C0C
+		SecondaryColor = 0xFF00FF
+		Secret = No
+		Humidity = Arid
+		Temperature = Hellish
+		Nocturnal = No
+		Binominal = Rocky
+		Authority = Binnie
+		Branch = Volcanic
+		Products = DropsList()
+		Specialty = DropsList()
+		cfg Traits {
+			Speed = "forestry.speedSlower"
+			Lifespan = "forestry.lifespanNormal"
+			Fertility = "forestry.fertilityNormal"
+			Temperature_Tolerance = "forestry.toleranceDown2"
+			Nocturnal = "forestry.boolTrue"
+			Humidity_Tolerance = "forestry.toleranceNone"
+			Tolerant_Flyer = "forestry.boolFalse"
+			Cave_Dwelling = "forestry.boolFalse"
+			Flower_Provider = "forestry.flowersNether"
+			Flowering = "forestry.floweringAverage"
+			Territory = "forestry.territoryAverage"
+			Effect = "forestry.effectNone"
+		}
+}
+}

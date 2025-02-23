@@ -1,0 +1,69 @@
+[
+  {
+    "comment": "Brewers yeast is the default yeast, which appears in all other biomes that are filled by the Lager or Ethereal",
+    "item": {
+      "comment": "Brewers Yeast",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 0
+    },
+    "biomes": [
+      "HOT",
+      "SPARSE",
+      "DENSE",
+      "WET",
+      "DRY",
+      "SAVANNA",
+      "CONIFEROUS",
+      "JUNGLE",
+      "SPOOKY",
+      "DEAD",
+      "LUSH",
+      "NETHER",
+      "END",
+      "OCEAN",
+      "RIVER",
+      "WATER",
+      "MESA",
+      "FOREST",
+      "PLAINS",
+      "MOUNTAIN",
+      "HILLS",
+      "SWAMP",
+      "SANDY",
+      "SNOWY",
+      "WASTELAND",
+      "BEACH",
+      "DESERT",
+      "FROZEN"
+    ]
+  },
+  {
+    "comment": "Lager yeast is found in COLD biomes, think snow places!",
+    "item": {
+      "comment": "Lager Yeast",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 1
+    },
+    "biomes": [
+      "COLD"
+    ]
+  },
+  {
+    "comment": "Ethereal yeast is found in MAGICAL or MUSHROOM biomes, because its special",
+    "item": {
+      "comment": "Ethereal Yeast",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 3
+    },
+    "biomes": [
+      "MUSHROOM",
+      "MAGICAL"
+    ]
+  }
+]

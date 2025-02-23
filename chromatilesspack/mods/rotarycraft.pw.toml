@@ -1,0 +1,7 @@
+name = "RotaryCraft"
+filename = "RotaryCraft 1.7.10 V33a.jar"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/RotaryCraft%201.7.10%20V33a.jar"
+hash-format = "sha256"
+hash = "be58a76249d3dade1306670653a0c2454fd2f0f157fd5291fb7b86d9aed46efc"

@@ -1,0 +1,8 @@
+name = "LiteLoader"
+filename = "liteloader-1.7.10.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/liteloader-1.7.10.jar"
+hash-format = "sha256"
+hash = "a30e91e7abfcf482fd740893a207e2e00eb6a24d3909bfa2939a13b3c1703b7b"

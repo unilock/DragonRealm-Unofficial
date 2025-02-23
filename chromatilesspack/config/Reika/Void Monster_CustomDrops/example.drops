@@ -1,0 +1,25 @@
+{
+	customDrop1 = {
+		item = "minecraft:dye"
+		max = 14
+		min = 3
+	}
+	customDrop2 = {
+		item = "minecraft:redstone"
+		max = 6
+		min = 1
+		required_difficulty = 0.4
+	}
+	customDrop3 = {
+		item = "minecraft:diamond_axe"
+		required_difficulty = 1.5
+		item_nbt = {
+			ench = {
+				0 = {
+					id = 35
+					lvl = 2
+				}
+			}
+		}
+	}
+}

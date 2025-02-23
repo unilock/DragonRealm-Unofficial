@@ -1,0 +1,13 @@
+name = "Thaumic Inventory Scanning (Thaumcraft Addon)"
+filename = "tcinventoryscan-mc1.7.10-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3635f8368dcd3f47b6ededf72c887fe5fae249f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2277465
+project-id = 238003

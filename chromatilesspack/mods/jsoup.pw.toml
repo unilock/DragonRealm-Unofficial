@@ -1,0 +1,7 @@
+name = "JSoup"
+filename = "jsoup-1.12.1.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/jsoup-1.12.1.jar"
+hash-format = "sha256"
+hash = "928e3d5ccf16d0492951d05554af9cbcf70d4e6d34ba3b19709b824ae4593bb1"

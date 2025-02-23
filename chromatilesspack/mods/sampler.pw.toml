@@ -1,0 +1,13 @@
+name = "Sampler"
+filename = "sampler-1.60.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9316cc4b4ee89ad8cac916b81875fe6cada82c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2536009
+project-id = 289242

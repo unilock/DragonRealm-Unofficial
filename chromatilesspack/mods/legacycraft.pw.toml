@@ -1,0 +1,7 @@
+name = "LegacyCraft"
+filename = "LegacyCraft 1.7.10 V33a.jar"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/LegacyCraft%201.7.10%20V33a.jar"
+hash-format = "sha256"
+hash = "1f9fb128fc5d923327d325b576a6ab850b4731dbc02ab0abe24019d95cad426c"

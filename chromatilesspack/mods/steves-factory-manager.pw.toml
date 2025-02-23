@@ -1,0 +1,7 @@
+name = "Steves-Factory-Manager"
+filename = "download"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/228626/files/2230424/download"
+hash-format = "sha256"
+hash = "c0dafe3ac28f31265c02b6975b8f31f6981c42902cd8d7eb32b5414012027dbe"

@@ -1,0 +1,13 @@
+name = "MrTJPCore"
+filename = "MrTJPCore-1.1.0.33-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "298e36a519b4c4466c82dcc95e6343579090b13a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2279413
+project-id = 229002

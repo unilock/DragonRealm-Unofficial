@@ -1,0 +1,13 @@
+name = "Enchanting Plus"
+filename = "EnchantingPlus-1.7.10-3.0.2-d.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b84db09fc8875c2726a4b93d3ed37bc6ba16340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2218324
+project-id = 59413

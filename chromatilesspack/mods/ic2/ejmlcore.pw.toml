@@ -1,0 +1,7 @@
+name = "EJMLCore"
+filename = "EJML-core-0.26.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/EJML-core-0.26.jar"
+hash-format = "sha256"
+hash = "ee7840eb553b850bdb32ed5be6194936f02f2cb2c9b915e4996312ec4a812588"

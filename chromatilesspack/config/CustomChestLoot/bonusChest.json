@@ -1,0 +1,203 @@
+{
+  "_name": "bonusChest",
+  "min": 10,
+  "max": 10,
+  "loot": [
+    {
+      "weight": 10,
+      "id": "minecraft:log",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:apple",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "IC2:itemTreetap",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "BiomesOPlenty:wadingBoots",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "BiomesOPlenty:flippers",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 7,
+      "id": "Botania:lexicon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:blackLotus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+	{
+      "weight": 1,
+      "id": "Botania:blackLotus",
+      "damage": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 1,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 2,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 3,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 4,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 5,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 6,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 7,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 8,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 9,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 10,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 11,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 12,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 13,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 14,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 15,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 3,
+      "id": "ChromatiCraft:chromaticraft_item_help",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemThaumonomicon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "keep": "iguanaman.iguanatweakstconstruct.worldgen.RandomWeaponChestContent",
+      "id": "TConstruct:broadsword",
+      "damage": 0,
+      "nbt": false,
+      "count": 1
+    }
+  ]
+}

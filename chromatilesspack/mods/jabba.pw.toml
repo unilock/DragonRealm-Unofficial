@@ -1,0 +1,13 @@
+name = "Jabba"
+filename = "Jabba-1.2.2_1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75184ae9e39cf0df7f1e10338e568d02f9992e97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2302354
+project-id = 73510

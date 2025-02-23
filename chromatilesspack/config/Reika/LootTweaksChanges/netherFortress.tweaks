@@ -1,0 +1,21 @@
+{
+	type = "batchremove"
+	operation = "batch"
+	entry = "removals"
+}
+{
+	type = "batcharmor"
+	operation = "batch"
+	entry = "toolsarmor"
+}
+{
+	type = "removegating"
+	operation = "removetier"
+    tier = "gating"
+}
+{
+	type = "morediamonds"
+	operation = "changeweight"
+	item = "minecraft:diamond"
+	relative_weight = 2
+}

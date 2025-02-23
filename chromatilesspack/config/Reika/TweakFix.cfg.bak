@@ -1,0 +1,43 @@
+# Configuration file
+
+"control setup" {
+    B:"Add purification powder to Vis Filter"=true
+    B:"Arcane Pedestal Requires Casting Stand"=true
+    D:"BC Refinery RF Usage Factor"=1
+    B:"Brown Pendants use Triple Meat Treat"=true
+    B:"Buyable ThaumCraft Research"=false
+    B:"CC Repeaters require Botania materials"=false
+    B:"CC runes require Botania petals"=true
+    B:"Chroma collector uses Enchanted Fabric"=false
+    B:"Clear disallowed dungeon loot"=false
+    B:"Crystal Core uses Salis Mundus"=false
+    B:"Disable BloodMagic Magnetism Ritual"=true
+    B:"Eldritch Eye uses Elven Quartz"=false
+    B:"Eldritch Eye uses Resonant Crystals"=false
+    B:"Ender Crystal uses Dragonstone"=true
+    B:"EnderIO Conduit Binder in Friction Heater"=false
+    B:"EnderStorage recipes use Enderstone powder"=false
+    B:"EnderStorage recipes use Mana pearls"=true
+    B:"EnderStorage recipes use boosted Lime shards"=true
+    I:"Forestry Biogas Biomass RF Output (native=50)"=50
+    B:"Gate ExU Transfer Node Recipes"=false
+    I:"Iron Engine Forestry Ethanol RF Output (native=40)"=40
+    B:"Item Stand uses Mana Steel"=false
+    B:"Magnetostatic requires IC2 coolant pack"=false
+    B:"Magnetostatic requires Redstone Crystal"=true
+    B:"Make TE machine upgrades require an emerald"=false
+    B:"Make high-tier TD ducts more expensive"=true
+    B:"Modify RailCraft engine recipes"=false
+    B:"Move ThermalDynamics Ducts to Worktable"=false
+    B:"Portal Rift requires Ichorium"=true
+    B:"Ritual Table uses Portable Hole focus"=false
+    B:"Runic Matrix requires Mana Pearl"=false
+    B:"Shuffle Music Categories"=true
+    B:"Silverwood wand core uses Focus Dust"=false
+    B:"Silverwood wand core uses Mana Rune"=false
+    I:"TE3 Induction Smelter RF cost factor"=1
+    I:"TE3 Resonant Machine RF Buffer Multiplier"=1
+    B:"Unify Gear Recipes"=true
+}
+
+

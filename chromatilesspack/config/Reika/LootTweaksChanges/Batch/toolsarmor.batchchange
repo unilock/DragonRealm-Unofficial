@@ -1,0 +1,65 @@
+//{
+//	type = "steelhelm"
+//	operation = "remove"
+//	item = "Railcraft:armor.steel.helmet"
+//}
+//{
+//	type = "steelchest"
+//	operation = "remove"
+//	item = "Railcraft:armor.steel.plate"
+//}
+//{
+//	type = "steellegs"
+//	operation = "remove"
+//	item = "Railcraft:armor.steel.legs"
+//}
+//{
+//	type = "steelboots"
+//	operation = "remove"
+//	item = "Railcraft:armor.steel.boots"
+//}
+//{
+//	type = "steelsword"
+//	operation = "remove"
+//	item = "Railcraft:tool.steel.sword"
+//}
+//{
+//	type = "steelaxe"
+//	operation = "remove"
+//	item = "Railcraft:tool.steel.axe"
+//}
+//{
+//	type = "steelpick"
+//	operation = "remove"
+//	item = "Railcraft:tool.steel.pickaxe"
+//}
+//{
+//	type = "steelshovel"
+//	operation = "remove"
+//	item = "Railcraft:tool.steel.shovel"
+//}
+{
+	type = "bronzehelm"
+	operation = "remove"
+	item = "IC2:itemArmorBronzeHelmet"
+}
+{
+	type = "bronzechest"
+	operation = "remove"
+	item = "IC2:itemArmorBronzeChestplate"
+}
+{
+	type = "bronzelegs"
+	operation = "remove"
+	item = "IC2:itemArmorBronzeLegs"
+}
+{
+	type = "bronzeboots"
+	operation = "remove"
+	item = "IC2:itemArmorBronzeBoots"
+}
+{
+	type = "endersword"
+	operation = "remove"
+	item = "EnderIO:item.darkSteel_sword"
+}

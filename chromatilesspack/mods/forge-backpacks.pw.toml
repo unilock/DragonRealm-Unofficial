@@ -1,0 +1,13 @@
+name = "Backpacks"
+filename = "backpack-2.0.1-1.7.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce163fa1a5a27a520817fb8afd2faba4781f3b15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2268883
+project-id = 59143

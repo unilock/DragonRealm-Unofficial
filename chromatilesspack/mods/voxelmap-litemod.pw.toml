@@ -1,0 +1,8 @@
+name = "VoxelMap-litemod"
+filename = "mod_voxelMap_1.5.18_for_1.7.10.litemod"
+side = "client"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/mod_voxelMap_1.5.18_for_1.7.10.litemod"
+hash-format = "sha256"
+hash = "914353c1af38d97fd129f670d934274b547c5742ed72e2279272a07754213454"

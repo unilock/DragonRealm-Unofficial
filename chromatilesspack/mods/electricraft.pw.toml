@@ -1,0 +1,7 @@
+name = "ElectriCraft"
+filename = "ElectriCraft 1.7.10 V33a.jar"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/ElectriCraft%201.7.10%20V33a.jar"
+hash-format = "sha256"
+hash = "606f82e960ed468e2d652402ef31b1d450cf51cd06bfb85740ad1666f707893e"

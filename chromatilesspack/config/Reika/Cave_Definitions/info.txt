@@ -1,0 +1,33 @@
+This file is not loaded as a config; it is here to document the parameters and explain the configs' use.
+CaveControl uses the LuaBlock system, meaning one or more prototypes/definitions are defined similar to lua tables.
+These blocks can be defined in any order, spread across any number of valid files (.txt, .lua, .ini, .cfg, .yml).
+Each block has a number of required parameters, detailed below:
+===========================================================================
+"type": The ID of the biome for which the definition applies. IDs are determined based on the biome name and ID;
+For example, vanilla plains would be 1#Plains, and mega taiga is 32#MegaTaiga
+To specify by ID only, use '*' for the name.
+Note that mutated and subbiomes (eg Ice Spikes (Ice Plains), ForestHills, Extreme Hills Edge, and Flower Forest) cannot have their own definitions; they inherit from the parent biome.
+
+"inherit": Unspecified parameters are inherited from this parent. This prevents you from having to redefine all of the parameters
+repeatedly when only changing one or two values. Inheritance is normally from 'global', which is the base data used for all biomes.
+These two parameters MUST be specified.
+===========================================================================
+Cave generation parameters:
+"density":           	Cave Density Multiplier       	(vanilla and default = 1.0)
+"ravines":           	Ravine Frequency Multiplier   	(vanilla and default = 1.0)
+"mineshafts":        	Mineshafts Frequency Multiplier	(vanilla and default = 1.0)
+"dungeons":          	Dungeon Spawn Factor          	(vanilla and default = 1.0)
+"gen_strongholds":   	Generate Strongholds          	(vanilla and default = true)
+"lava_caves":        	Fill Deep Caves with Lava     	(vanilla and default = true)
+"water_caves":       	Fill Deep Caves with Water    	(vanilla and default = false)
+"cave_size":         	Cave Node Size Multiplier     	(vanilla and default = 1.0)
+"large_cave_chance": 	Large Cave Node Chance        	(vanilla and default = 25.0)
+"large_cave_size":   	Large Cave Node Size Factor   	(vanilla and default = 1.0)
+"large_cave_variance":	Large Cave Node Size Variance 	(vanilla and default = 6.0)
+"min_y":             	Cave Generation Y Min         	(vanilla and default = 0)
+"max_y":             	Cave Generation Y Max         	(vanilla and default = 256)
+"vscale":            	Vertical Scale Factor         	(vanilla and default = 1.0)
+===========================================================================
+Consult global.lua for an example definition file. Feel free to modify it as the base template from which others extend,
+but it should always have one and only one definition - that of the base template.
+Note: If a biome has no specific template specified, it entirely uses the behavior defined in global.

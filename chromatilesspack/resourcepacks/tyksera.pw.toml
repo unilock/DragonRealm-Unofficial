@@ -1,0 +1,8 @@
+name = "Tyksera"
+filename = "Tyksera 1.7 v24.zip"
+side = "client"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/resourcepacks/Tyksera%201.7%20v24.zip"
+hash-format = "sha256"
+hash = "d55f656fb661c7250770755ac234ee6a944cdb0f0f7e349a29c49c498e8108a5"

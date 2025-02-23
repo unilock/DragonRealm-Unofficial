@@ -1,0 +1,401 @@
+[
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider0",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider1",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "nether_wart",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider0",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider1",
+      "amount": 1
+    },
+    "time": 15840
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "glowstone_dust",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider1",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider2",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "glowstone_dust",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider3",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider2",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "redstone",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider1",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider3",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "redstone",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider2",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider3",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 3
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider1",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider4",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 4
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider2",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider5",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 4
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.applecider3",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.applecider5",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake0",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake1",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "nether_wart",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake0",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake1",
+      "amount": 1
+    },
+    "time": 15840
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "glowstone_dust",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake1",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake2",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "glowstone_dust",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake3",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake2",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "redstone",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake1",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake3",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "minecraft",
+      "name": "redstone",
+      "amount": 1,
+      "meta": 0
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake2",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake3",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 3
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake2",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake4",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 3
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake3",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake4",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 4
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake2",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake5",
+      "amount": 1
+    },
+    "time": 24000
+  },
+  {
+    "comment": "",
+    "item": {
+      "comment": "",
+      "mod_id": "Growthcraft|Cellar",
+      "name": "grc.yeast",
+      "amount": 1,
+      "meta": 4
+    },
+    "input_fluid": {
+      "comment": "",
+      "name": "grc.ricesake3",
+      "amount": 1
+    },
+    "output_fluid": {
+      "comment": "",
+      "name": "grc.ricesake5",
+      "amount": 1
+    },
+    "time": 24000
+  }
+]

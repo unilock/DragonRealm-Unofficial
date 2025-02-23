@@ -1,0 +1,13 @@
+name = "Mouse Tweaks"
+filename = "MouseTweaks-2.4.4-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fef53ebcd48f003fa0799de51e86ad113e3af7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2209265
+project-id = 60089

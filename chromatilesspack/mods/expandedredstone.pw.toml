@@ -1,0 +1,7 @@
+name = "ExpandedRedstone"
+filename = "ExpandedRedstone 1.7.10 V33a.jar"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/ExpandedRedstone%201.7.10%20V33a.jar"
+hash-format = "sha256"
+hash = "c8d650e7cbd62f6caf5731a16bf2c89424f9a592f15b0b565418079a151511ed"

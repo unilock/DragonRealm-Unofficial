@@ -1,0 +1,13 @@
+name = "NEI Addons"
+filename = "neiaddons-1.12.14.40-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caf51bb104d309bc8a51d4dffc621f48aaa9e0ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2262120
+project-id = 63352

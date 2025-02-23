@@ -1,0 +1,13 @@
+name = "Big Doors"
+filename = "BigDoors-1.7.10-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfc2162374e896404d6d45a6582a5cc49d6ccd82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2269091
+project-id = 232398

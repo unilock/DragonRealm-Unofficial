@@ -1,0 +1,13 @@
+name = "WR-CBE-Universal"
+filename = "WR-CBE-1.7.10-1.4.1.9-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f5ec22e841ac08a1a27d0bdaf51bc10507ae8cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233235
+project-id = 229314

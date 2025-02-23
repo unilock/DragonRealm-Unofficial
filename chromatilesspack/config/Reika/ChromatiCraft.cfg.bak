@@ -1,0 +1,205 @@
+# Configuration file
+
+"biome ids" {
+    I:"Ender Forest Biome ID"=42
+    S:"Luminous Cliffs Biome ID"=43
+    S:"Luminous Cliffs Edge Biome ID"=44
+    I:"Rainbow Forest Biome ID"=45
+}
+
+
+"control setup" {
+    B:"Adjacency Upgrades Require Energy"=true
+    B:"Allow Danger in Rainbow Forests"=false
+    B:"Allow Structure Bypass Passwords"=true
+    B:"Allow duplication wand to copy TileEntities"=false
+    B:"Always Respawn EnderDragon"=true
+    B:"Auxiliary Fragment Acquisition"=false
+    B:"Blend CC Biome Edges"=true
+    I:"Cave Lighter Range"=128
+    I:"Cave Lighter Zone Size"=8
+    I:"Chest Generation Tier"=4
+    B:"Crystal Plants May Drop Shards"=true
+    B:"Delete End on Unload"=true
+    I:"Dimension Structure Difficulty"=3
+    I:"Duplication Wand Max Volume"=1000
+    B:"Enable Ball Lightning"=true
+    B:"Enable Biome Painter"=true
+    B:"Enable Ender TNT"=true
+    I:"Ender Forest Biome Weight"=12
+    I:"Ender Pool Density from 1 to 3"=3
+    B:"Generate Anti-Taint plants in Rainbow Forest"=true
+    B:"Generate Pylons in Non-Overworld"=false
+    B:"Generate Some Pylons as Broken"=false
+    I:"Guardian Stone Range"=24
+    B:"Guardian Stone is Full Chunk Height"=true
+    B:"Liquid Ender Effect"=true
+    I:"Lumen Relay Range"=24
+    I:"Luminous Cliffs Biome Weight"=4
+    B:"Make Pylon pathfinding attempt shortest path - can be intensive"=true
+    B:"Make ThaumCraft integration require ThaumCraft progression"=true
+    I:"Max Accelerator Lag in NanoSeconds"=1000000
+    B:"Nether Crystals"=true
+    B:"Notify players of progress gains"=true
+    I:"Orchestra MIDI Size Limit (KB)"=80
+    B:"Pylons Chunkload Selves Once Used"=true
+    I:"Rainbow Forest Animal Density"=2
+    I:"Rainbow Forest Biome Weight"=18
+    D:"Rainbow Leaf Gold Apple Drop Percentage"=0.25
+    B:"Rainbow Trees Spread Rainbow Forests"=true
+    B:Retrogeneration=false
+    B:"Run Worldgen in Superflat Worlds"=true
+    B:"Spawn with CC Lexicon"=true
+    I:"Vanilla Dye Drop Percentage"=100
+    B:"World Rifts Chunkload"=false
+    B:"World Shift Can Move TileEntities"=false
+    B:"[CD35196A1] Connected Crystalline Stone Textures"=false
+    B:"[D70E37C97] Dye Block Particles"=true
+    B:"[DDCB8E1D0] Disable Pendant Particles"=true
+    I:"[E5338F154] Energy Buffer Overlay Location"=0
+    B:"[EFF9C7C97] Ender Forest Coloring"=false
+    B:"[L2A585980] Lamp Noises"=true
+    B:"[N26CE83A8] Notify players via chat of their own progress gains"=false
+    I:"[P4426BBFD] Progression Notification Duration"=800
+    B:"[P4D1AF6C6] Play Dimension Join Sound For Others"=true
+    B:"[R34FDA3AB] Reload Handbook Data on Open"=false
+    B:"[U0249EEF6] Use vanilla keybind system for ability selection GUI"=false
+}
+
+
+"dimension biome ids" {
+    I:"Aura Ocean Biome ID"=106
+    I:"Central Biome ID"=109
+    I:"Crystal Forest Biome ID"=104
+    I:"Crystal Mountains Biome ID"=105
+    I:"Crystal Plains Biome ID"=102
+    I:"Glowing Forest Biome ID"=103
+    I:"Island Biome ID"=101
+    S:"Monument Field Biome ID"=112
+    S:"Radiant Fissures Biome ID"=111
+    I:"Skyland Biome ID"=100
+    S:"Sparkling Sands Biome ID"=110
+    I:"Structure Biome ID"=107
+    I:"Voidland Biome ID"=108
+}
+
+
+"enchantment ids" {
+    I:"Aggro Mask ID"=92
+    S:"Air Miner ID"=97
+    S:"Armor Breach ID"=98
+    S:"Capital Strike ID"=99
+    I:"Ender Lock ID"=91
+    S:"Harvest Boost ID"=96
+    S:"Inventory Insertion ID"=100
+    S:"Rapid Descent ID"=95
+    S:"Rare Loot ID"=94
+    I:"Use Repair ID"=93
+    I:"Weapon AOE ID"=90
+}
+
+
+"generate mod logs" {
+    B:Alder=true
+    B:Amaranth=true
+    B:Ash=true
+    B:Bamboo=true
+    B:"Biomes O Plenty Mangrove"=true
+    B:"Biomes O Plenty Willow"=true
+    B:Bloodwood=false
+    B:Canopy=true
+    B:Cherry=true
+    B:Dark=true
+    B:Darkwood=true
+    B:Eucalyptus=true
+    B:"ExtraBiomes XL Redwood"=true
+    B:Fir=true
+    B:Force=true
+    B:Fusewood=false
+    B:Ghostwood=true
+    B:Glow=true
+    B:Greatwood=true
+    B:Hawthorne=true
+    B:Hellbark=true
+    B:Highacacia=true
+    B:Highcanopy=true
+    B:Highfir=true
+    B:Highmangrove=true
+    B:Highpalm=true
+    B:Highredwood=true
+    B:Hopseed=true
+    B:"IndustrialCraft Rubber"=true
+    B:Ironwood=true
+    B:Jacaranda=true
+    B:Lighted=true
+    B:Loftwood=true
+    B:Magic=true
+    B:Mahogany=true
+    B:Mangrove=true
+    B:Maple=true
+    B:"MineFactory Reloaded Rubber"=true
+    B:Minewood=true
+    B:"Natura Darkwood"=true
+    B:Palm=true
+    B:Pine=true
+    B:Poplar=true
+    B:Redwood=true
+    B:Rowan=true
+    B:Sacred=true
+    B:Sakura=true
+    B:Sequoia=true
+    B:Silverbell=true
+    B:Silverwood=true
+    B:Slime=false
+    B:Sorting=true
+    B:Tainted=true
+    B:Tigerwood=true
+    B:Timewood=true
+    B:Transformation=true
+    B:Twilightoak=true
+    B:Willow=true
+    B:Witchwood=true
+}
+
+
+"generate vanilla logs" {
+    B:Acacia=true
+    B:Birch=true
+    B:Darkoak=true
+    B:Jungle=true
+    B:Oak=true
+    B:Spruce=true
+}
+
+
+keybinds {
+    S:"Superbuild Ability Activation"=LCTRL
+}
+
+
+"other ids" {
+    S:"Chromastone Material ID"=90
+    I:"Dimension ID"=60
+}
+
+
+"other options" {
+    S:"Guardian Stone Exceptions" <
+        none#RIGHT_CLICK_AIR
+        none#RIGHT_CLICK_BLOCK
+        none#LEFT_CLICK_BLOCK
+        ExtraUtilities:dark_portal:2#RIGHT_CLICK_BLOCK
+     >
+}
+
+
+"potion ids" {
+    I:"Growth Hormone ID"=36
+    S:"Lumarhea ID"=40
+    S:"Lumen Regen ID"=42
+    I:"Regen ID"=39
+    I:"Saturation ID"=38
+    S:"Void Gaze ID"=41
+}
+
+

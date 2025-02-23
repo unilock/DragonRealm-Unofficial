@@ -1,0 +1,7 @@
+name = "Growthcraft-fishtrap"
+filename = "growthcraft-1.7.10-2.7.2-complete-fishtrap.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/growthcraft-1.7.10-2.7.2-complete-fishtrap.jar"
+hash-format = "sha256"
+hash = "94f189670391e34efd4561a67e013d3674e03bd31054e0b59d2f396e0c6ef619"

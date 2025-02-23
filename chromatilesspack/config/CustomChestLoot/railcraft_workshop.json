@@ -1,0 +1,182 @@
+{
+  "_name": "railcraft:workshop",
+  "min": 10,
+  "max": 16,
+  "loot": [
+    {
+      "weight": 20,
+      "id": "Railcraft:fluid.creosote.bottle",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 20,
+      "id": "minecraft:coal",
+      "damage": 0,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "Railcraft:tool.crowbar",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.magnifying.glass",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:armor.goggles",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "Railcraft:armor.overalls",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:chest_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:tnt_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 30,
+      "id": "minecraft:rail",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:hopper_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.tie",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "Railcraft:part.tie",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.rail",
+      "damage": 0,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.rail",
+      "damage": 1,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.rail",
+      "damage": 2,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.rail",
+      "damage": 3,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:part.rail",
+      "damage": 4,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 20,
+      "id": "Railcraft:fuel.coke",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:part.gear",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:cart.tnt.wood",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 8,
+      "id": "Railcraft:cart.work",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.surveyor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.signal.tuner",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.electric.meter",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

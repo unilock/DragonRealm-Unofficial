@@ -1,0 +1,7 @@
+name = "NEIIntegration"
+filename = "NEIIntegration-MC1.7.10-1.1.0.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/NEIIntegration-MC1.7.10-1.1.0.jar"
+hash-format = "sha256"
+hash = "8e321db51d95233784ad19ea592c9fb79ff3c01ccd091329a5bd70a47bec9c0f"

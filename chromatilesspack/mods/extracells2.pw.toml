@@ -1,0 +1,7 @@
+name = "ExtraCells2"
+filename = "ExtraCells-1.7.10-2.3.14b197.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ExtraCells-1.7.10-2.3.14b197.jar"
+hash-format = "sha256"
+hash = "48735b82e240bcadea62baa3a5ab601d091045579e1ecd1945866393394f4ce1"

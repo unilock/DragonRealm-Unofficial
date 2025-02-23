@@ -1,0 +1,79 @@
+{
+	type = "morephials"
+	operation = "changebounds"
+	item = "Automagy:phialExtra"
+	min_size = 8
+	max_size = 24
+}
+{
+	type = "lessiridium"
+	operation = "changeweight"
+	item = "IC2:itemShardIridium"
+	relative_weight = 0.2
+}
+{
+	type = "moretcbags1"
+	operation = "changeweight"
+	item = "Thaumcraft:ItemLootBag"
+	relative_weight = 5
+}
+{
+	type = "moretcbags2"
+	operation = "changeweight"
+	item = "Thaumcraft:ItemLootBag:1"
+	relative_weight = 5
+}
+{
+	type = "moretcbags3"
+	operation = "changeweight"
+	item = "Thaumcraft:ItemLootBag:2"
+	relative_weight = 4
+}
+{
+	type = "steelhelm"
+	operation = "changeweight"
+	item = "Railcraft:armor.steel.helmet"
+	relative_weight = 0.5
+}
+{
+	type = "steelchest"
+	operation = "changeweight"
+	item = "Railcraft:armor.steel.plate"
+	relative_weight = 0.5
+}
+{
+	type = "steellegs"
+	operation = "changeweight"
+	item = "Railcraft:armor.steel.legs"
+	relative_weight = 0.5
+}
+{
+	type = "steelboots"
+	operation = "changeweight"
+	item = "Railcraft:armor.steel.boots"
+	relative_weight = 0.5
+}
+{
+	type = "steelsword"
+	operation = "changeweight"
+	item = "Railcraft:tool.steel.sword"
+	relative_weight = 0.75
+}
+{
+	type = "steelaxe"
+	operation = "changeweight"
+	item = "Railcraft:tool.steel.axe"
+	relative_weight = 0.5
+}
+{
+	type = "steelpick"
+	operation = "changeweight"
+	item = "Railcraft:tool.steel.pickaxe"
+	relative_weight = 0.33
+}
+{
+	type = "steelshovel"
+	operation = "changeweight"
+	item = "Railcraft:tool.steel.shovel"
+	relative_weight = 0.75
+}

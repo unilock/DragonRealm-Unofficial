@@ -1,0 +1,7 @@
+name = "Chromatifixes"
+filename = "chromatifixes-tgm-patches.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/chromatifixes-tgm-patches.jar"
+hash-format = "sha256"
+hash = "24238e1ff52110f18b33e4e68c40c0825cee3c8508fae89b1279931da68e4bb2"
