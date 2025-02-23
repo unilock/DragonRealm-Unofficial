@@ -1,7 +1,7 @@
-name = "Thermal-expansion"
+name = "thermal-expansion"
 filename = "ThermalExpansion-[1.7.10]4.1.4-247.jar"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/blob/main/1.7.10/jars/ThermalExpansion-%5B1.7.10%5D4.1.4-247.jar"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ThermalExpansion-%5B1.7.10%5D4.1.4-247.jar"
 hash-format = "sha256"
-hash = "4e9cd58999b91f9f27f4391270d14bd8c21be07474de8e14a51a5fe35c592915"
+hash = "27168f2fb2a0e6e6cc002d29590cbe2a565649ddb6d6f742c61b25bd32096d83"
