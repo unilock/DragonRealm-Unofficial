@@ -1,7 +1,0 @@
-name = "MeteorCraft"
-filename = "MeteorCraft 1.7.10 V33a.jar"
-
-[download]
-url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/MeteorCraft%201.7.10%20V33a.jar"
-hash-format = "sha256"
-hash = "b88b241db06394c185f6c6f22a8976f596ee08238edc4651af794a10f3ebb48a"

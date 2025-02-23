@@ -1,7 +1,0 @@
-name = "Growthcraft-cellar"
-filename = "growthcraft-1.7.10-2.7.2-complete-cellar.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/growthcraft-1.7.10-2.7.2-complete-cellar.jar"
-hash-format = "sha256"
-hash = "2a1134bc911168fd0434df909e3b6834e7e1649b0a205ce00e3592f82151069e"

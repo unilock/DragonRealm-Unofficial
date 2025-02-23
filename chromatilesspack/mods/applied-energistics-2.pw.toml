@@ -1,7 +1,0 @@
-name = "applied-energistics-2"
-filename = "appliedenergistics2-rv3-beta-6.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/appliedenergistics2-rv3-beta-6.jar"
-hash-format = "sha256"
-hash = "ebc88e77959d5f479ca7eac964d41b1f523ba86e2ce4258c25c47a14b5778f42"

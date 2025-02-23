@@ -1,7 +1,0 @@
-name = "CoFHCore"
-filename = "CoFHCore-[1.7.10]3.1.3-328.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/CoFHCore-%5B1.7.10%5D3.1.3-328.jar"
-hash-format = "sha256"
-hash = "86770fb5422529d952e3ab08e515f140d3e0b759d222fac5d336bd1f79823591"

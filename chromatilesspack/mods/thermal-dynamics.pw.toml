@@ -1,7 +1,0 @@
-name = "Thermal-dynamics"
-filename = "ThermalDynamics-[1.7.10]1.2.0-171.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ThermalDynamics-%5B1.7.10%5D1.2.0-171.jar"
-hash-format = "sha256"
-hash = "a0003c67195e7524866a041b03a8c68d2e0d4ddece810d32eebd764d6f005b0f"

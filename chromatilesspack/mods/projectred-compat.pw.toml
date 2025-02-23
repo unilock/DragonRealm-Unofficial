@@ -1,7 +1,0 @@
-name = "ProjectRed-compat"
-filename = "ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar"
-hash-format = "sha256"
-hash = "166a8e633bcf25eb2f0dfa743f2ffed07a1694d4d078fab0ede3a62cc1e57259"

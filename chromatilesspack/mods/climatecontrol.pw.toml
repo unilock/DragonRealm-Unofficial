@@ -1,7 +1,0 @@
-name = "ClimateControl"
-filename = "ClimateControl-0.4.beta38.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ClimateControl-0.4.beta38.jar"
-hash-format = "sha256"
-hash = "4393918efb3d667ff72fe8581a2037c40372f8f52bf1809e3ce638d881a7c6c2"

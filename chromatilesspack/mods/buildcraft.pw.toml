@@ -1,7 +1,0 @@
-name = "Buildcraft"
-filename = "buildcraft-7.1.19.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/buildcraft-7.1.19.jar"
-hash-format = "sha256"
-hash = "fd960e10df4f9d4737393596361571f54abb7fa6177855bfc825b7babb8f2f26"
