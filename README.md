@@ -1,3 +1,5 @@
+# Dragonrealm
+
 [ReikaKalseki](https://github.com/ReikaKalseki/)'s Dragonrealm modpack, converted into packwiz format for easier install and distribution and modified for modernity.
 
 All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalseki/), and to Overmindd for hosting the required files.
@@ -6,7 +8,7 @@ All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalsek
 
 ~~Chromatiless version exists for people with poor connections. Additional instructions are in its own README.md~~ Fixed with an Unsup update. Thank you Unascribed!
 
-#Installation (client)
+# Installation (client)
 
 0. Requires between 3072mb and 5120mb of RAM allocated, with an equal amount of spare.
 
@@ -23,7 +25,7 @@ All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalsek
 5. Play Dragonrealm.
 
 
-#Installation (server)
+# Installation (server)
 
 0. Requires between 6144mb and 8192mb of RAM allocated, with an equal amount of spare. If you are using a dedicated server hosting service, don't worry about the spare.
 
