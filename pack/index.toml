@@ -978,11 +978,15 @@ hash = "500a64df0e22bea3e6d802ea2128074fc1924498b4181924bea1d2f583a588eb"
 
 [[files]]
 file = "config/ClimateControl/biomesoplentyInCC.cfg"
-hash = "16ebc7398528a0bd3515d3cc716e4c54ae25e88a9fd3cad5b8543c1c1dba867e"
+hash = "c915e68e3adc1865388ee980d5378b21e6c19c69e2dd15425b27efe1ac9774c8"
 
 [[files]]
 file = "config/ClimateControl/biomesoplentyInCC.cfg.bak"
-hash = "3fe5aed749b5115fc7545ffde6957be0ee864623110214aa7a49e29d2ad2453b"
+hash = "16ebc7398528a0bd3515d3cc716e4c54ae25e88a9fd3cad5b8543c1c1dba867e"
+
+[[files]]
+file = "config/ClimateControl/climatecontrol.cfg"
+hash = "de5988382846c415ed1f0614c3b0fbc95d7e73e9e766b57ba83289bd2f283b82"
 
 [[files]]
 file = "config/ClimateControl/reikasInCC.cfg"
@@ -1326,7 +1330,7 @@ hash = "e6554d23ba13d558d108b0e6c867bce6e0c3608426008fc4583656ba8e3643a0"
 
 [[files]]
 file = "config/OpenComputers.cfg"
-hash = "5bc4631384c2e6e64a46bef967b2096ce55097284644bf4b497967de56085b87"
+hash = "193d1ae76134e91c62e4522ab075dd98ef11dd55bbd568f5b661db24d39ca93e"
 
 [[files]]
 file = "config/OpenMods.cfg"
@@ -2494,7 +2498,7 @@ hash = "1f0059225164f7a24228a6aae0db9d0f7f004ec02eeeb65f58a833b016ebbdbd"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "59995fa226f7b3188baeb7fc0fa6961dec5554dc3c3ec3fb29eba3abdd4945ca"
+hash = "efe9037df1f784b891859fe112b9d6ed34713961e185881e5f0be676e0b0533a"
 
 [[files]]
 file = "config/dualhotbar.cfg"
@@ -3841,3 +3845,7 @@ hash = "7c3690cb7774f3919255264db12a7af246f539fe57b443a39fa5e5e3a06b8c2e"
 [[files]]
 file = "scripts/zero_thaumcraftloot.zs"
 hash = "94f288843c1f2ebff00ced1c27a51cdfc4a91ccadf6838293dac040ba8da53e1"
+
+[[files]]
+file = "unsup.toml"
+hash = "b13801894d3842d07c475eca7f2698f706e549966ddddd094f60a2b6bd7ee853"
