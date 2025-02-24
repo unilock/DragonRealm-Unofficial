@@ -3,11 +3,11 @@ name = "Better Foliage"
 description = "Adds bushy leaves, grassy grass blocks, falling leaf particles, algae and more. Highly configurable, anything can be disabled. Client only."
 side = "client"
 [[flavor_groups.betterfoliage.choices]]
-id = "yes_betterfoliage"
+id = "betterfoliage_on"
 name = "Yes"
 description = "Installs Better Foliage."
 [[flavor_groups.betterfoliage.choices]]
-id = "no_betterfoliage"
+id = "betterfoliage_off"
 name = "No"
 description = "Do not install Better Foliage."
 
@@ -16,11 +16,11 @@ name = "Dual Hotbar"
 description = "Makes the top row of your inventory (can be changed) into a fully functional extra hotbar, by default on top of your normal hotbar (9 columns, two rows), but can be configured into an 18-slot long hotbar. Client grants partial functionality (hotbar slot swapping), if on server as well then full functionality."
 side = "both"
 [[flavor_groups.dualhotbar.choices]]
-id = "yes_dualhotbar"
+id = "dualhotbar_on"
 name = "Yes"
 description = "Installs Dual Hotbar."
 [[flavor_groups.dualhotbar.choices]]
-id = "no_dualhotbar"
+id = "dualhotbar_off"
 name = "No"
 description = "Do not install Dual Hotbar."
 
@@ -29,11 +29,11 @@ name = "Dynamic Surroundings"
 description = "Adds various sounds based on what you are doing and what is happening around and to you as well as an aurora in the sky at night. Can also be used to block out *any* sound. Client only."
 side = "client"
 [[flavor_groups.dynamicsurroundings.choices]]
-id = "yes_dynamicsurroundings"
+id = "dynamicsurroundings_on"
 name = "Yes"
 description = "Installs Dynamic Surroundings."
 [[flavor_groups.dynamicsurroundings.choices]]
-id = "no_dynamicsurroundings "
+id = "dynamicsurroundings_off"
 name = "No"
 description = "Do not install Dynamic Surroundings ."
 
@@ -50,11 +50,11 @@ id = "worldeditcui"
 name = "WorldEdit CUI"
 description = "Installs LiteLoader and WorldEdit CUI, which shows your WorldEdit selection."
 [[flavor_groups.litemods.choices]]
-id = "yes_litemods"
+id = "litemods_on"
 name = "Both"
 description = "Installs LiteLoader, Voxelmap and WorldEdit CUI."
 [[flavor_groups.litemods.choices]]
-id = "no_litemods"
+id = "litemods_off"
 name = "None"
 description = "Do not install LiteLoader or any litemods."
 
@@ -63,11 +63,11 @@ name = "Tyksera"
 description = "Reika's 1.7.10 resourcepack made from a mixture of vanilla textures,  custom textures and recombinated textures from other packs such as Faithful 32x, Sphax and Adventure Island. Only downloads Tyksera, does not enable it. It can also be found at https://dragonrealm.overminddl1.com/texture.php for later installs."
 side = "client"
 [[flavor_groups.tyksera.choices]]
-id = "yes_tyksera"
+id = "tyksera_on"
 name = "Yes"
 description = "Downloads Tyksera."
 [[flavor_groups.tyksera.choices]]
-id = "no_tyksera"
+id = "tyksera_off"
 name = "No"
 description = "Do not download Tyksera."
 
@@ -76,11 +76,11 @@ name = "Chameleon Creepers "
 description = "Shifts the hue of creepers to match their surroundings, giving them camouflage like they originally had. Client only."
 side = "client"
 [[flavor_groups.chameleoncreepers.choices]]
-id = "yes_chameleoncreepers"
+id = "chameleoncreepers_on"
 name = "Yes"
 description = "Installs Chameleon Creepers."
 [[flavor_groups.chameleoncreepers.choices]]
-id = "no_chameleoncreepers"
+id = "chameleoncreepers_off"
 name = "No"
 description = "Do not install Chameleon Creepers."
 
@@ -89,11 +89,11 @@ name = "Sound Filters"
 description = "Adds reverb to caves and underwater/covered up muting. Client only."
 side = "client"
 [[flavor_groups.soundfilters.choices]]
-id = "yes_soundfilters"
+id = "soundfilters_on"
 name = "Yes"
 description = "Installs Sound Filters."
 [[flavor_groups.soundfilters.choices]]
-id = "no_soundfilters"
+id = "soundfilters_off"
 name = "No"
 description = "Do not install Sound Filters."
 
@@ -112,20 +112,20 @@ name = "Hell no"
 description = "Does not install Optifine, why are you even asking this?"
 
 [metafile.better-foliage]
-flavors = "yes_betterfoliage"
+flavors = "betterfoliage_on"
 [metafile.dual-hotbar]
-flavors = "yes_dualhotbar"
+flavors = "dualhotbar_on"
 [metafile.dynamic-surroundings]
-flavors = "yes_dynamicsurroundings"
+flavors = "dynamicsurroundings_on"
 [metafile.liteloader]
-flavors = ["voxelmap, worldeditcui, yes_litemods"]
+flavors = ["voxelmap", "worldeditcui", "litemods_on"]
 [metafile.voxelmap-litemod]
-flavors = ["voxelmap, yes_litemods"]
+flavors = ["voxelmap", "litemods_on"]
 [metafile.worldeditcui-litemod]
-flavors = ["worldeditcui, yes_litemods"]
+flavors = ["worldeditcui", "litemods_on"]
 [metafile.tyksera]
-flavors = "yes_tyksera"
+flavors = "tyksera_on"
 [metafile.chameleoncreepers]
-flavors = "yes_chameleoncreepers"
+flavors = "chameleoncreepers_on"
 [metafile.sound-filters]
-flavors = "yes_soundfilters"
+flavors = "soundfilters_on"
