@@ -14,7 +14,7 @@ All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalsek
 
 1. Download and install an "Empty export" from Releases. It uses [Unsup](https://git.sleeping.town/unascribed/unsup/) to download files, with the files to download being defined in this repo, so it will always be up to date.
 
-2. In the Java arguments/parameters section of the new Minecraft instance, paste `-javaagent:unsup-1.0.1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT`.
+2. In the Java arguments/parameters section of the new Minecraft instance, paste `-javaagent:unsup-1.0.1+test1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT`.
 
 3. Launch.
 
