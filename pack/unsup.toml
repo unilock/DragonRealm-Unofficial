@@ -52,18 +52,19 @@ name = "No"
 description = "Do not install Dynamic Surroundings."
 
 # It *is* an officially supported configuration, after all...
+# Not by me it isn't.
 [flavor_groups.optifine]
 name = "OptiFine"
-description = "Minecraft optimization mod. Client only."
+description = "Install Optifine?."
 side = "client"
 [[flavor_groups.optifine.choices]]
-id = "optifine_on"
-name = "Yes"
-description = "Installs OptiFine."
-[[flavor_groups.optifine.choices]]
-id = "optifine_off"
+id = "no"
 name = "No"
-description = "Do not install OptiFine."
+description = "Does not install Optifine."
+[[flavor_groups.optifine.choices]]
+id = "godsno"
+name = "Hell no"
+description = "Does not install Optifine, why are you even asking this?"
 
 [flavor_groups.soundfilters]
 name = "Sound Filters"
@@ -127,8 +128,6 @@ flavors = "dualhotbar_on"
 flavors = "dynamicsurroundings_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
-[metafile.optifine]
-flavors = "optifine_on"
 [metafile.sound-filters]
 flavors = "soundfilters_on"
 [metafile.voxelmap-litemod]

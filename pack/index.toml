@@ -3511,11 +3511,6 @@ hash = "2443c3601b1c4a68b5d03882b66910eb4a397768cbc8c9487a9e49de491c1075"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "b6cfed1dd65d0af279806ad9d6cdd584390310eeb65c38c4d5e30f91722e902e"
-metafile = true
-
-[[files]]
 file = "mods/projectblue.pw.toml"
 hash = "5e96d89636dcaaed6f17be5f9287451c2928fe5553e4fff8b97760ae123f54aa"
 metafile = true
