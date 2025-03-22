@@ -51,6 +51,19 @@ id = "dynamicsurroundings_off"
 name = "No"
 description = "Do not install Dynamic Surroundings."
 
+[flavor_groups.ears]
+name = "Ears"
+description = "Uses the otherwise-blank space on a modern 64x64 skin in combination with alpha layer encoding to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more. Client only. No effect (other than seeing other players Ears skins) if you do not have an Ears skin. Client only."
+side = "client"
+[[flavor_groups.ears.choices]]
+id = "ears_on"
+name = "Yes"
+description = "Installs Ears."
+[[flavor_groups.ears.choices]]
+id = "ears_off"
+name = "No"
+description = "Do not install Ears."
+
 # It *is* an officially supported configuration, after all...
 # Not by me it isn't.
 [flavor_groups.optifine]
@@ -126,6 +139,8 @@ flavors = "chameleoncreepers_on"
 flavors = "dualhotbar_on"
 [metafile.dynamic-surroundings]
 flavors = "dynamicsurroundings_on"
+[metafile.ears]
+flavors = "ears_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.sound-filters]

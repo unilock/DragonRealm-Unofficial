@@ -3206,6 +3206,11 @@ hash = "890acec9a670c49a0a9a709e89cfb56c11110ffd12148d9e11f27c85c171f05a"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "9442cab9d8a6bf93eaaf900e1142683cb27d419d9a7eb250b169d6246cfc9f50"
+metafile = true
+
+[[files]]
 file = "mods/electricraft.pw.toml"
 hash = "fee93df0eee769a450bf2bebc9fdee987c7de49c13582439122d78befe6504a3"
 metafile = true
@@ -3841,3 +3846,7 @@ hash = "94f288843c1f2ebff00ced1c27a51cdfc4a91ccadf6838293dac040ba8da53e1"
 [[files]]
 file = "scripts/zzz_omegafixes.zs"
 hash = "7f34b8146dac9b25d5d30b3cab29ab8c8f8d919624a071daae79af29d2aa4d06"
+
+[[files]]
+file = "unsup.toml"
+hash = "59cd4e67326bc5750a30beb6f433df81dbd9df02bf89280a15daaff19ff42837"
