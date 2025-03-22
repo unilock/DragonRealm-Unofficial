@@ -51,27 +51,6 @@ id = "dynamicsurroundings_off"
 name = "No"
 description = "Do not install Dynamic Surroundings."
 
-[flavor_groups.litemods]
-name = "Litemods"
-description = "Installs LiteLoader and your choice of litemods. All client only."
-side = "client"
-[[flavor_groups.litemods.choices]]
-id = "voxelmap"
-name = "Voxelmap"
-description = "Installs LiteLoader and Voxelmap, a mini/world map mod. May cause issues on macOS."
-[[flavor_groups.litemods.choices]]
-id = "worldeditcui"
-name = "WorldEdit CUI"
-description = "Installs LiteLoader and WorldEdit CUI, which shows your WorldEdit selection."
-[[flavor_groups.litemods.choices]]
-id = "litemods_on"
-name = "Both"
-description = "Installs LiteLoader, Voxelmap and WorldEdit CUI."
-[[flavor_groups.litemods.choices]]
-id = "litemods_off"
-name = "None"
-description = "Do not install LiteLoader or any litemods."
-
 # It *is* an officially supported configuration, after all...
 [flavor_groups.optifine]
 name = "OptiFine"
@@ -84,7 +63,7 @@ description = "Installs OptiFine."
 [[flavor_groups.optifine.choices]]
 id = "optifine_off"
 name = "No"
-description = "Does not install OptiFine."
+description = "Do not install OptiFine."
 
 [flavor_groups.soundfilters]
 name = "Sound Filters"
@@ -98,6 +77,32 @@ description = "Installs Sound Filters."
 id = "soundfilters_off"
 name = "No"
 description = "Do not install Sound Filters."
+
+[flavor_groups.voxelmap]
+name = "VoxelMap"
+description = "Provides a mini/world map. May cause issues on macOS. Client only.\nEnabling either this or WorldEdit CUI will also install LiteLoader."
+side = "client"
+[[flavor_groups.voxelmap.choices]]
+id = "voxelmap_on"
+name = "Yes"
+description = "Installs Voxelmap."
+[[flavor_groups.voxelmap.choices]]
+id = "voxelmap_off"
+name = "No"
+description = "Do not install VoxelMap."
+
+[flavor_groups.worldeditcui]
+name = "WorldEdit CUI"
+description = "Shows your WorldEdit selection. Client only.\nEnabling either this or VoxelMap will also install LiteLoader."
+side = "client"
+[[flavor_groups.worldeditcui.choices]]
+id = "worldeditcui_on"
+name = "Yes"
+description = "Installs WorldEdit CUI."
+[[flavor_groups.worldeditcui.choices]]
+id = "worldeditcui_off"
+name = "No"
+description = "Do not install WorldEdit CUI."
 
 [flavor_groups.tyksera]
 name = "Tyksera"
@@ -121,14 +126,14 @@ flavors = "dualhotbar_on"
 [metafile.dynamic-surroundings]
 flavors = "dynamicsurroundings_on"
 [metafile.liteloader]
-flavors = ["voxelmap", "worldeditcui", "litemods_on"]
-[metafile.voxelmap-litemod]
-flavors = ["voxelmap", "litemods_on"]
-[metafile.worldeditcui-litemod]
-flavors = ["worldeditcui", "litemods_on"]
+flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.optifine]
-flavors = ["optifine_on"]
+flavors = "optifine_on"
 [metafile.sound-filters]
 flavors = "soundfilters_on"
+[metafile.voxelmap-litemod]
+flavors = "voxelmap_on"
+[metafile.worldeditcui-litemod]
+flavors = "worldeditcui_on"
 [metafile.tyksera]
 flavors = "tyksera_on"

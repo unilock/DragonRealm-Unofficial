@@ -3846,7 +3846,3 @@ hash = "94f288843c1f2ebff00ced1c27a51cdfc4a91ccadf6838293dac040ba8da53e1"
 [[files]]
 file = "scripts/zzz_omegafixes.zs"
 hash = "7f34b8146dac9b25d5d30b3cab29ab8c8f8d919624a071daae79af29d2aa4d06"
-
-[[files]]
-file = "unsup.toml"
-hash = "f6bae828884d970ca05d59207bd7d106299e9b81462ce817859204f61959f953"
