@@ -92,6 +92,19 @@ id = "soundfilters_off"
 name = "No"
 description = "Do not install Sound Filters."
 
+[flavor_groups.tails]
+name = "Sound Filters"
+description = "Adds extra, pre-set 3-dimensional model parts such as wings, ears and tails to the player model, customized via an in-game editor. Client only."
+side = "client"
+[[flavor_groups.tails.choices]]
+id = "tails_on"
+name = "Yes"
+description = "Installs Tails."
+[[flavor_groups.tails.choices]]
+id = "tails_off"
+name = "No"
+description = "Do not install Tails."
+
 [flavor_groups.voxelmap]
 name = "VoxelMap"
 description = "Provides a mini/world map. May cause issues on macOS. Client only.\nEnabling either this or WorldEdit CUI will also install LiteLoader."
@@ -145,6 +158,8 @@ flavors = "ears_on"
 flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.sound-filters]
 flavors = "soundfilters_on"
+[metafile.tails]
+flavors = "tails_on"
 [metafile.voxelmap-litemod]
 flavors = "voxelmap_on"
 [metafile.worldeditcui-litemod]
