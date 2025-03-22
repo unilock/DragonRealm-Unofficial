@@ -1,8 +1,13 @@
-name = "ProjectRed-lighting"
+name = "Project Red - Illumination"
 filename = "ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"
-hash-format = "sha256"
-hash = "d1f96e4d0e100a7c44e1c063acf897a12588953fb355544ee3de9ef1970bbd5e"
+hash-format = "sha1"
+hash = "fe990319d34d0eba33b589470b57e9ae2773eaff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280733
+project-id = 229046

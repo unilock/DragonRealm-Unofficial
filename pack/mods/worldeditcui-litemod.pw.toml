@@ -1,8 +1,13 @@
-name = "worldeditcui-litemod"
+name = "WorldEditCUI"
 filename = "mod_worldeditcui_1.7.10_00_mc1.7.10.litemod"
 side = "client"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/mod_worldeditcui_1.7.10_00_mc1.7.10.litemod"
-hash-format = "sha256"
-hash = "a26cf19c0df114a67087cd8a2d45feb7b2091c842cce29cc959bbdb29a670e7f"
+hash-format = "sha1"
+hash = "cafcf27905a6974d8e5fc1e21c88ee900c03c5c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2352910
+project-id = 254692

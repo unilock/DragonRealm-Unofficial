@@ -3,6 +3,6 @@ filename = "ChameleonCreepers-1.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ChameleonCreepers-1.0.jar"
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ChameleonCreepers-1.0.jar"
 hash-format = "sha256"
 hash = "ceeda327c8fb35120bee606a0a26a72258b4baf27695596469f14170b824870c"

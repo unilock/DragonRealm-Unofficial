@@ -3,6 +3,11 @@ filename = "Mimicry-1.7.10_1492_1.0.10c.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/Mimicry-1.7.10_1492_1.0.10c.jar"
-hash-format = "sha256"
-hash = "8c5aaea3a1d633f5ba1df3aa63b2b3219194cd0478b94180b4f56d848850e5bb"
+hash-format = "sha1"
+hash = "cd5f0d0390c165519aa372e89fbe65fdb9126542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2252359
+project-id = 223904
