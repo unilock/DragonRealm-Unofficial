@@ -11,6 +11,20 @@ id = "betterfoliage_off"
 name = "No"
 description = "Do not install Better Foliage."
 
+[flavor_groups.chameleoncreepers]
+name = "Chameleon Creepers"
+description = "Shifts the hue of creepers to match their surroundings, giving them camouflage like they originally had. Client only."
+side = "client"
+[[flavor_groups.chameleoncreepers.choices]]
+id = "chameleoncreepers_on"
+name = "Yes"
+description = "Installs Chameleon Creepers."
+[[flavor_groups.chameleoncreepers.choices]]
+id = "chameleoncreepers_off"
+name = "No"
+description = "Do not install Chameleon Creepers."
+
+# This is technically not optional in upstream DragonRealm...
 [flavor_groups.dualhotbar]
 name = "Dual Hotbar"
 description = "Makes the top row of your inventory (can be changed) into a fully functional extra hotbar, by default on top of your normal hotbar (9 columns, two rows), but can be configured into an 18-slot long hotbar. Client grants partial functionality (hotbar slot swapping), if on server as well then full functionality."
@@ -24,7 +38,7 @@ id = "dualhotbar_off"
 name = "No"
 description = "Do not install Dual Hotbar."
 
-[flavor_groups.dynamicsurroundings ]
+[flavor_groups.dynamicsurroundings]
 name = "Dynamic Surroundings"
 description = "Adds various sounds based on what you are doing and what is happening around and to you as well as an aurora in the sky at night. Can also be used to block out *any* sound. Client only."
 side = "client"
@@ -35,7 +49,7 @@ description = "Installs Dynamic Surroundings."
 [[flavor_groups.dynamicsurroundings.choices]]
 id = "dynamicsurroundings_off"
 name = "No"
-description = "Do not install Dynamic Surroundings ."
+description = "Do not install Dynamic Surroundings."
 
 [flavor_groups.litemods]
 name = "Litemods"
@@ -44,7 +58,7 @@ side = "client"
 [[flavor_groups.litemods.choices]]
 id = "voxelmap"
 name = "Voxelmap"
-description = "Installs LiteLoader and Voxelmap, a mini/world map mod. Recommended."
+description = "Installs LiteLoader and Voxelmap, a mini/world map mod. May cause issues on macOS."
 [[flavor_groups.litemods.choices]]
 id = "worldeditcui"
 name = "WorldEdit CUI"
@@ -58,31 +72,19 @@ id = "litemods_off"
 name = "None"
 description = "Do not install LiteLoader or any litemods."
 
-[flavor_groups.tyksera]
-name = "Tyksera"
-description = "Reika's 1.7.10 resourcepack made from a mixture of vanilla textures,  custom textures and recombinated textures from other packs such as Faithful 32x, Sphax and Adventure Island. Only downloads Tyksera, does not enable it. It can also be found at https://dragonrealm.overminddl1.com/texture.php for later installs."
+# It *is* an officially supported configuration, after all...
+[flavor_groups.optifine]
+name = "OptiFine"
+description = "Minecraft optimization mod. Client only."
 side = "client"
-[[flavor_groups.tyksera.choices]]
-id = "tyksera_on"
+[[flavor_groups.optifine.choices]]
+id = "optifine_on"
 name = "Yes"
-description = "Downloads Tyksera."
-[[flavor_groups.tyksera.choices]]
-id = "tyksera_off"
+description = "Installs OptiFine."
+[[flavor_groups.optifine.choices]]
+id = "optifine_off"
 name = "No"
-description = "Do not download Tyksera."
-
-[flavor_groups.chameleoncreepers]
-name = "Chameleon Creepers "
-description = "Shifts the hue of creepers to match their surroundings, giving them camouflage like they originally had. Client only."
-side = "client"
-[[flavor_groups.chameleoncreepers.choices]]
-id = "chameleoncreepers_on"
-name = "Yes"
-description = "Installs Chameleon Creepers."
-[[flavor_groups.chameleoncreepers.choices]]
-id = "chameleoncreepers_off"
-name = "No"
-description = "Do not install Chameleon Creepers."
+description = "Does not install OptiFine."
 
 [flavor_groups.soundfilters]
 name = "Sound Filters"
@@ -97,22 +99,23 @@ id = "soundfilters_off"
 name = "No"
 description = "Do not install Sound Filters."
 
-
-[flavor_groups.optifine]
-name = "Optifine"
-description = "Install Optifine?."
+[flavor_groups.tyksera]
+name = "Tyksera"
+description = "Reika's 1.7.10 resourcepack made from a mixture of vanilla textures, custom textures and recombinated textures from other packs such as Faithful 32x, Sphax and Adventure Island. Only downloads Tyksera, does not enable it. It can also be found at https://dragonrealm.overminddl1.com/texture.php for later installs."
 side = "client"
-[[flavor_groups.optifine.choices]]
-id = "no"
+[[flavor_groups.tyksera.choices]]
+id = "tyksera_on"
+name = "Yes"
+description = "Downloads Tyksera."
+[[flavor_groups.tyksera.choices]]
+id = "tyksera_off"
 name = "No"
-description = "Does not install Optifine."
-[[flavor_groups.optifine.choices]]
-id = "godsno"
-name = "Hell no"
-description = "Does not install Optifine, why are you even asking this?"
+description = "Do not download Tyksera."
 
 [metafile.better-foliage]
 flavors = "betterfoliage_on"
+[metafile.chameleoncreepers]
+flavors = "chameleoncreepers_on"
 [metafile.dual-hotbar]
 flavors = "dualhotbar_on"
 [metafile.dynamic-surroundings]
@@ -123,9 +126,9 @@ flavors = ["voxelmap", "worldeditcui", "litemods_on"]
 flavors = ["voxelmap", "litemods_on"]
 [metafile.worldeditcui-litemod]
 flavors = ["worldeditcui", "litemods_on"]
-[metafile.tyksera]
-flavors = "tyksera_on"
-[metafile.chameleoncreepers]
-flavors = "chameleoncreepers_on"
+[metafile.optifine]
+flavors = ["optifine_on"]
 [metafile.sound-filters]
 flavors = "soundfilters_on"
+[metafile.tyksera]
+flavors = "tyksera_on"
