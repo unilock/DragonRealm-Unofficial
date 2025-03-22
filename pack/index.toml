@@ -3692,7 +3692,7 @@ metafile = true
 
 [[files]]
 file = "mods/thistle-computer.pw.toml"
-hash = "09d835c60766a50e56a5e1e4a706706c1a2ecf2e4ebe0271d798c99f8ba0b8cb"
+hash = "c573fbb71e39f7afe196debf796a8131c772da00d06e88a4165a493f54367a14"
 metafile = true
 
 [[files]]
