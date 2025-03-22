@@ -1,5 +1,6 @@
 name = "DragonRealmCore"
 filename = "DragonRealmCore 1.7.10 V33a.jar"
+side = "both"
 
 [download]
 url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/DragonRealmCore%201.7.10%20V33a.jar"

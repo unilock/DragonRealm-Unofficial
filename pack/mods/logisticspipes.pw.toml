@@ -1,7 +1,8 @@
 name = "LogisticsPipes"
 filename = "logisticspipes-0.9.3.128.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/logisticspipes-0.9.3.128.jar"
+url = "https://dragonrealm.overminddl1.com/downloads/mods/logisticspipes-0.9.3.128.jar"
 hash-format = "sha256"
 hash = "0f5ceec918105a09e55f14e414c3a67217ae27e3925ef94b6318dcd7dc1edd07"

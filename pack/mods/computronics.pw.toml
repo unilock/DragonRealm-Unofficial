@@ -1,5 +1,6 @@
 name = "Computronics"
 filename = "Computronics-1.7.10-1.6.0.jar"
+side = "both"
 
 [download]
 url = "https://files.vexatos.com/Computronics/Computronics-1.7.10-1.6.0.jar"

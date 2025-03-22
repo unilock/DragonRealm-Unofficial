@@ -1,7 +1,8 @@
 name = "Minetweaker"
 filename = "MineTweaker3-1.7.10-3.0.10B.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/MineTweaker3-1.7.10-3.0.10B.jar"
+url = "https://dragonrealm.overminddl1.com/downloads/mods/MineTweaker3-1.7.10-3.0.10B.jar"
 hash-format = "sha256"
 hash = "6756b33668f0c63fd4a4b05ccbbd70e365f5e753b56cf07cc39d564e6e4fdced"

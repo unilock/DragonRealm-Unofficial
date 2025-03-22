@@ -1,4 +1,4 @@
-name = "Dragonrealm Unofficial"
+name = "DragonRealm Unofficial"
 author = "ReikaKaleski"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,6 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+
 hash = "613c6b10254b1e892279c846727a8e0b50e29b0a7ccbe38ccd90840655f2b7f0"
 
 [versions]

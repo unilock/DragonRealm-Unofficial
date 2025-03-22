@@ -1,5 +1,6 @@
 name = "ProjectBlue"
 filename = "ProjectBlue-1.1.4-mc1.7.10.jar"
+side = "both"
 
 [download]
 url = "https://www.csse.canterbury.ac.nz/greg.ewing/minecraft/mods/ProjectBlue/download/ProjectBlue-1.1.4-mc1.7.10.jar"

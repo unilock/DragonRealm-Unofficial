@@ -1,7 +1,13 @@
-name = "ProjectRed-world"
+name = "Project Red - Exploration"
 filename = "ProjectRed-1.7.10-4.7.0pre12.95-World.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/ProjectRed-1.7.10-4.7.0pre12.95-World.jar"
-hash-format = "sha256"
-hash = "3d7981ab6e4b0162bd3d6d98a048461d7b7066b72b16eeb79c4648fcb76b2137"
+hash-format = "sha1"
+hash = "7573fbb8cfc3e6228724dbe1da5cf0e641f132cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280735
+project-id = 229049

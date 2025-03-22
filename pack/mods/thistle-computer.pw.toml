@@ -1,7 +1,15 @@
-name = "Thistle-Computer"
+name = "Thistle"
 filename = "Thistle-1.7.10-1.1.0.jar"
+side = "both"
 
 [download]
 url = "https://github.com/BlueAmulet/Thistle/releases/download/v1.1.0/Thistle-1.7.10-1.1.0.jar"
 hash-format = "sha256"
 hash = "7112ae0cd3436841c31503cd3c7788b3f4b24a929da0b833bf6a239797c5a90b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "1.7.10"
+slug = "BlueAmulet/Thistle"
+tag = "v1.1.0"

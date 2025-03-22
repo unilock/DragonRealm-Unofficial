@@ -1,0 +1,15 @@
+name = "CodeChickenCore"
+filename = "CodeChickenCore-1.3.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.11/CodeChickenCore-1.3.11.jar"
+hash-format = "sha256"
+hash = "62c5b6d25cd4867a549f7127a66ac1337640ea860d790a3f3690c20194e02a1b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/CodeChickenCore"
+tag = "1.3.11"

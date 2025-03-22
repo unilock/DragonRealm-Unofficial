@@ -1,7 +1,0 @@
-name = "notenoughitemsGTNH"
-filename = "NotEnoughItems-2.4.13-GTNH.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.4.13-GTNH/NotEnoughItems-2.4.13-GTNH.jar"
-hash-format = "sha256"
-hash = "436ca907e170d7438545a79b2a4d7231fe4d4a85823c8f79090deddc208a4058"

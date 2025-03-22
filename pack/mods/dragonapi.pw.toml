@@ -1,5 +1,6 @@
 name = "DragonAPI"
 filename = "DragonAPI 1.7.10 V33b.jar"
+side = "both"
 
 [download]
 url = "https://dragonrealm.overminddl1.com/downloads/ReikaMods/DragonAPI%201.7.10%20V33b.jar"
