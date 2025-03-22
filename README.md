@@ -14,15 +14,19 @@ All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalsek
 
 1. Download and install an "Empty export" from Releases. It uses [unsup](https://git.sleeping.town/unascribed/unsup/) to download files, with the files to download being defined in this repo, so it will always be up to date.
 
-2. In the Java arguments/parameters section of the new Minecraft instance, paste `-javaagent:unsup-1.0.1+test1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT`.
+2. In the Java arguments/parameters section of the new Minecraft instance, paste `-javaagent:unsup-1.0.1+test1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT`. Not required if using Prism and the Prism release.
 
-3. Launch.
+3. Set your desired world radius in `/config/DragonAPI.cfg` on line 64. Default is 25000 radius, so you'll have to go a good distance to find many biomes on that.
 
-4. Create world with seed `6671894640346020928`.
+4. Launch.
 
-4.5. If you want to use another seed, or this does not work (world's biome map is broken), follow the final four instructions on the [DragonRealm Installation](https://dragonrealm.overminddl1.com/installation.php) page. Alternatively, copy the contents of `/saves/<worldname>/worldSpecificConfig/ClimateControl` to `/config/ClimateControl`, delete the world, then recreate it. This step is **experimental**, and if you are unsure you should verify.
+5. Create world with seed `6671894640346020928`.
 
-5. Play DragonRealm.
+5.4 Something needs to be done with TerritoryZone, however there is no documentation about *what* that is, and the Territory Planner block (`DragonRealmCore:tile.terrloc`) causes crashes in singleplayer, so until such a time as I can figure out exactly what needs to happen... *shrug*. Hopefully it works.
+
+5.5. If you want to use another seed, or this does not work (world's biome map is broken), follow the final four instructions on the [DragonRealm Installation](https://dragonrealm.overminddl1.com/installation.php) page. Alternatively, copy the contents of `/saves/<worldname>/worldSpecificConfig/ClimateControl` to `/config/ClimateControl`, delete the world, then recreate it. This step is **experimental**, and if you are unsure you should verify.
+
+6. Play DragonRealm.
 
 
 # Installation (server)
@@ -37,6 +41,10 @@ All credit for the modpack goes to [ReikaKalseki](https://github.com/ReikaKalsek
 
 4. In `server.properties`, set `level-seed` to `level-seed=6671894640346020928`
 
+4.4 Something needs to be done with TerritoryZone, however there is no documentation about *what* that is, and the Territory Planner block (`DragonRealmCore:tile.terrloc`) causes crashes in singleplayer, so until such a time as I can figure out exactly what needs to happen... *shrug*. Hopefully it works.
+
 4.5. If you want to use another seed, or this does not work (world's biome map is broken), follow the final four instructions on the [DragonRealm Installation](https://dragonrealm.overminddl1.com/installation.php) page. Alternatively, start the server and generate the world, stop the server, copy the contents of `/world/worldSpecificConfig/ClimateControl` to `/config/ClimateControl`, delete `world`, then start the server again. This step is **experimental**, and if you are unsure you should verify.
 
-5. Launch your client instance of DragonRealm, join and play.
+5. After Unsup has downloaded the pack files, set your desired world radius in `/config/DragonAPI.cfg` on line 64. Default is 25000 radius, so you'll have to go a good distance to find many biomes on that, but servers require a larger max world than singleplayer worlds, so it is likely acceptable.
+
+6. Launch your client instance of DragonRealm, join and play.
