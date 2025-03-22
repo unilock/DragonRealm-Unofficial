@@ -1,5 +1,6 @@
 name = "OpenPeripheral"
 filename = "OpenPeripheral-1.7.10-AIO-7.jar"
+side = "both"
 
 [download]
 url = "https://openmods.info/downloads/OpenPeripheral-1.7.10-AIO-7.jar"

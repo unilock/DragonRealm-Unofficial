@@ -1,5 +1,6 @@
 name = "Minetweaker"
 filename = "MineTweaker3-1.7.10-3.0.10B.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/MineTweaker3-1.7.10-3.0.10B.jar"

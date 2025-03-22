@@ -1,5 +1,6 @@
 name = "thermal-expansion"
 filename = "ThermalExpansion-[1.7.10]4.1.4-247.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ThermalExpansion-%5B1.7.10%5D4.1.4-247.jar"

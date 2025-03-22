@@ -1,5 +1,6 @@
 name = "Thaumic-Tinker"
 filename = "ThaumicTinkerer-2.5-1.7.10-517.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/ThaumicTinkerer-2.5-1.7.10-517.jar"

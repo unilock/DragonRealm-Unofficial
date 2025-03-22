@@ -1,5 +1,6 @@
 name = "ProjectRed-lighting"
 filename = "ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"

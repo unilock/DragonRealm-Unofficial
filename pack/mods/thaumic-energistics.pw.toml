@@ -1,5 +1,6 @@
 name = "Thaumic-Energistics"
 filename = "thaumicenergistics-1.0.0.6-j7.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/thaumicenergistics-1.0.0.6-j7.jar"

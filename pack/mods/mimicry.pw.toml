@@ -1,5 +1,6 @@
 name = "Mimicry"
 filename = "Mimicry-1.7.10_1492_1.0.10c.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/Mimicry-1.7.10_1492_1.0.10c.jar"

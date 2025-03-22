@@ -1,5 +1,6 @@
 name = "Thistle-Computer"
 filename = "Thistle-1.7.10-1.1.0.jar"
+side = "both"
 
 [download]
 url = "https://github.com/BlueAmulet/Thistle/releases/download/v1.1.0/Thistle-1.7.10-1.1.0.jar"

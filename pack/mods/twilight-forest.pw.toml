@@ -1,5 +1,6 @@
 name = "Twilight-Forest"
 filename = "twilightforest-1.7.10-2.3.8dev.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/Dragonrealm/twilightforest-1.7.10-2.3.8dev.jar"

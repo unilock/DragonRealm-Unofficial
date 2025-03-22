@@ -1,5 +1,6 @@
 name = "Chromatifixes"
 filename = "chromatifixes-tgm-patches.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/chromatifixes-tgm-patches.jar"

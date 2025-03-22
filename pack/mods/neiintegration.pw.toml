@@ -1,5 +1,6 @@
 name = "NEIIntegration"
 filename = "NEIIntegration-MC1.7.10-1.1.0.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/NEIIntegration-MC1.7.10-1.1.0.jar"

@@ -1,5 +1,6 @@
 name = "AsieLib"
 filename = "AsieLib-1.7.10-0.4.5.jar"
+side = "both"
 
 [download]
 url = "https://files.vexatos.com/AsieLib/AsieLib-1.7.10-0.4.5.jar"
