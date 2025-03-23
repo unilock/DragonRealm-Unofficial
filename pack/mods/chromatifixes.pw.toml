@@ -1,8 +1,15 @@
-name = "Chromatifixes"
-filename = "chromatifixes-tgm-patches.jar"
+name = "ChromatiFixes"
+filename = "chromatifixes-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/chromatifixes-tgm-patches.jar"
+url = "https://github.com/unilock/ChromatiFixes/releases/download/1.3.1/chromatifixes-1.3.1.jar"
 hash-format = "sha256"
-hash = "24238e1ff52110f18b33e4e68c40c0825cee3c8508fae89b1279931da68e4bb2"
+hash = "c982c373e4c1ac81f9edf3e84861116e6603199c9a8aeec662deff676cc0e436"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "unilock/ChromatiFixes"
+tag = "1.3.1"

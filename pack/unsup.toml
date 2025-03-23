@@ -27,7 +27,7 @@ description = "Do not install Chameleon Creepers."
 # This is technically not optional in upstream DragonRealm...
 [flavor_groups.dualhotbar]
 name = "Dual Hotbar"
-description = "Makes the top row of your inventory (can be changed) into a fully functional extra hotbar, by default on top of your normal hotbar (9 columns, two rows), but can be configured into an 18-slot long hotbar. Client grants partial functionality (hotbar slot swapping), if on server as well then full functionality."
+description = "Makes the top row of your inventory (configurable) into a fully functional extra hotbar, by default on top of your normal hotbar (9 columns, two rows), but can be configured into an 18-slot long hotbar. Client grants partial functionality (hotbar slot swapping), if on server as well then full functionality."
 side = "both"
 [[flavor_groups.dualhotbar.choices]]
 id = "dualhotbar_on"
@@ -51,7 +51,19 @@ id = "dynamicsurroundings_off"
 name = "No"
 description = "Do not install Dynamic Surroundings."
 
-# It *is* an officially supported configuration, after all...
+[flavor_groups.ears]
+name = "Ears"
+description = "Uses the otherwise-blank space on a modern 64x64 skin in combination with alpha layer encoding to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more. Client only. No effect (other than seeing other players Ears skins) if you do not have an Ears skin. Client only."
+side = "client"
+[[flavor_groups.ears.choices]]
+id = "ears_on"
+name = "Yes"
+description = "Installs Ears."
+[[flavor_groups.ears.choices]]
+id = "ears_off"
+name = "No"
+description = "Do not install Ears."
+
 [flavor_groups.optifine]
 name = "OptiFine"
 description = "Minecraft optimization mod. Client only."
@@ -77,6 +89,19 @@ description = "Installs Sound Filters."
 id = "soundfilters_off"
 name = "No"
 description = "Do not install Sound Filters."
+
+[flavor_groups.tails]
+name = "Tails"
+description = "Adds extra, pre-set 3-dimensional model parts such as wings, ears and tails to the player model, customized via an in-game editor. Client only."
+side = "client"
+[[flavor_groups.tails.choices]]
+id = "tails_on"
+name = "Yes"
+description = "Installs Tails."
+[[flavor_groups.tails.choices]]
+id = "tails_off"
+name = "No"
+description = "Do not install Tails."
 
 [flavor_groups.voxelmap]
 name = "VoxelMap"
@@ -125,15 +150,19 @@ flavors = "chameleoncreepers_on"
 flavors = "dualhotbar_on"
 [metafile.dynamic-surroundings]
 flavors = "dynamicsurroundings_on"
+[metafile.ears]
+flavors = "ears_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.optifine]
 flavors = "optifine_on"
 [metafile.sound-filters]
 flavors = "soundfilters_on"
-[metafile.voxelmap-litemod]
+[metafile.tails]
+flavors = "tails_on"
+[metafile.voxelmap]
 flavors = "voxelmap_on"
-[metafile.worldeditcui-litemod]
+[metafile.worldeditcui]
 flavors = "worldeditcui_on"
 [metafile.tyksera]
 flavors = "tyksera_on"

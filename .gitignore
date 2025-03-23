@@ -1,8 +1,8 @@
-#Exclude packwiz and its ignore files
+#Exclude packwiz
 *.bat
 *.exe
-*.packwizignore
 
 #Garbage
 ._*
 .DS_Store
+.idea

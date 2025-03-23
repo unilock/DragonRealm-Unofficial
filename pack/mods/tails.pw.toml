@@ -1,6 +1,6 @@
 name = "Tails"
 filename = "Tails-1.7.10-1.4.1a.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
