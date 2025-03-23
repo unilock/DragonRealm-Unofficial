@@ -3147,7 +3147,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_gtnh.pw.toml"
-hash = "65f335302f3cf85136701157a32f50dd64ce3ff93396468dd91900cbf679f79d"
+hash = "6d9ffaa17d6c6e007b441a0a6afe8d01cf8a5c9aae122dc6b75d0ef5c54f6ae5"
 metafile = true
 
 [[files]]
@@ -3168,11 +3168,6 @@ metafile = true
 [[files]]
 file = "mods/condensedores.pw.toml"
 hash = "4d89fef87545814f50accc8784749add8f29c2ce49ac6d035bc4ee406db8417e"
-metafile = true
-
-[[files]]
-file = "mods/crafting-tweaks.pw.toml"
-hash = "c914471769db4ca431c1170e095442557937510e86822b8512817a178de70093"
 metafile = true
 
 [[files]]
@@ -3326,6 +3321,11 @@ hash = "28566f69cbdf6b85b5e20e1bc607afca9c1c2ebf90e81094809bd5014861fffb"
 metafile = true
 
 [[files]]
+file = "mods/gtnhlib_gtnh.pw.toml"
+hash = "0e39ab08eacd3c07970231ffccf4c3517e7ff22d65cdd60afe5addece936464c"
+metafile = true
+
+[[files]]
 file = "mods/hexwool.pw.toml"
 hash = "101db2aedd9d35e95f0064d2da1985afbf63baa9ce9c82d46e4df9dc862a3757"
 metafile = true
@@ -3358,6 +3358,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "2d339801ff5da22c23c7227f1b962ad056c0023bceab06eed9729728fa05ffbe"
+metafile = true
+
+[[files]]
+file = "mods/inventorybogosorter_gtnh.pw.toml"
+hash = "a00967c1a119445e7c2390d5e0992e33e5b5cdc6af598a2724678605a94630fb"
 metafile = true
 
 [[files]]
@@ -3451,13 +3456,18 @@ hash = "a7ad440b5c7b113357cfd21b8c9b120dffaf1d7fb330d59d022f69274e2f6004"
 metafile = true
 
 [[files]]
-file = "mods/morpheus.pw.toml"
-hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+file = "mods/modularui2_gtnh.pw.toml"
+hash = "1bcf7f6aaef008708819a15acd12278706de5e0d4328529c9bb723b397b0a715"
 metafile = true
 
 [[files]]
-file = "mods/mousetweaks_gtnh.pw.toml"
-hash = "c13d88d25f6685822690dc7f5f464a02e2e59e31c2cba4f7be6b321d1b97261d"
+file = "mods/modularui_gtnh.pw.toml"
+hash = "a0665041074827c70d09daf9527f7b71aa70b4f39b21c13cc383b5fc39d950bc"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
 
 [[files]]
@@ -3521,24 +3531,29 @@ hash = "b6cfed1dd65d0af279806ad9d6cdd584390310eeb65c38c4d5e30f91722e902e"
 metafile = true
 
 [[files]]
-file = "mods/project-red-compat.toml"
+file = "mods/project-red-compat.pw.toml"
 hash = "988aa1be6d8d25c5386d3ecb725360b1d97f9acf78b512a1c2e8d60311f5f532"
+metafile = true
 
 [[files]]
-file = "mods/project-red-core.toml"
+file = "mods/project-red-core.pw.toml"
 hash = "e2c2abf9b9bb95ef5cf4f7c1a82d270c407657509831543f07e67eb3ac833316"
+metafile = true
 
 [[files]]
-file = "mods/project-red-exploration.toml"
+file = "mods/project-red-exploration.pw.toml"
 hash = "d164fd75445b5347e0a8b6adf8e1194da45db884768f5093db0383e0a2536077"
+metafile = true
 
 [[files]]
-file = "mods/project-red-fabrication.toml"
+file = "mods/project-red-fabrication.pw.toml"
 hash = "8a4d94a0998498240d5d7a082cb286dec3a95d888e7ec4348862af5d27261d6c"
+metafile = true
 
 [[files]]
-file = "mods/project-red-illumination.toml"
+file = "mods/project-red-illumination.pw.toml"
 hash = "04fd6d7217ed863f8cea08283babf5e12ab68bb8ac23697d02331e602eb11ee5"
+metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"

@@ -1,0 +1,15 @@
+name = "ModularUI"
+filename = "modularui-1.2.18.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.18/modularui-1.2.18.jar"
+hash-format = "sha256"
+hash = "56696a096a21f22664ef8a1726888e2c22dff5f88a12a9dd05363cf7ea83c77d"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ModularUI"
+tag = "1.2.18"
