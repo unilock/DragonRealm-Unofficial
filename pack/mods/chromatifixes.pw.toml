@@ -1,15 +1,15 @@
 name = "ChromatiFixes"
-filename = "chromatifixes-1.3.1.jar"
+filename = "chromatifixes-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/unilock/ChromatiFixes/releases/download/1.3.1/chromatifixes-1.3.1.jar"
+url = "https://github.com/unilock/ChromatiFixes/releases/download/1.4.0/chromatifixes-1.4.0.jar"
 hash-format = "sha256"
-hash = "c982c373e4c1ac81f9edf3e84861116e6603199c9a8aeec662deff676cc0e436"
+hash = "8f58704880cfcf6f2d5f0bd7832c12c3f5eb1f38b036d6c7d66f0a45ec1d8c78"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "unilock/ChromatiFixes"
-tag = "1.3.1"
+tag = "1.4.0"

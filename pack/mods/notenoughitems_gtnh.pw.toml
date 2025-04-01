@@ -1,15 +1,15 @@
 name = "NotEnoughItems"
-filename = "NotEnoughItems-2.7.32-GTNH-pre.jar"
+filename = "NotEnoughItems-2.7.37-GTNH-pre.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.32-GTNH-pre/NotEnoughItems-2.7.32-GTNH-pre.jar"
+url = "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.37-GTNH-pre/NotEnoughItems-2.7.37-GTNH-pre.jar"
 hash-format = "sha256"
-hash = "4fca4677f6246fb5bd171d6f05c7aee578ebaa2764e49914697d782ffbcc6c81"
+hash = "368232b599ec90180f29ddd5ee7cbd419716f03a59d1df0e041d1f9b1d128bd2"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/NotEnoughItems"
-tag = "2.7.32-GTNH-pre"
+tag = "2.7.37-GTNH-pre"
