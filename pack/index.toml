@@ -3006,11 +3006,6 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
-file = "mods/1.7.10/codechickenlib_gtnh.pw.toml"
-hash = "fd63d7844c212be4ddb6a7bb6fa5b1a24a60fbe51d72342f64e978f4184f57ac"
-metafile = true
-
-[[files]]
 file = "mods/1.7.10/forge-multi-part.pw.toml"
 hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
 metafile = true
@@ -3147,7 +3142,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_gtnh.pw.toml"
-hash = "6d9ffaa17d6c6e007b441a0a6afe8d01cf8a5c9aae122dc6b75d0ef5c54f6ae5"
+hash = "8ed4a5db83ab437c5c4fdb009ca72158308666e81973a035ee0bdda92afb30c7"
 metafile = true
 
 [[files]]
@@ -3497,7 +3492,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_gtnh.pw.toml"
-hash = "516ae9b5eeefe90e8b9b7927b212a6022e7fcd6ea95461eb6713904686a54f4b"
+hash = "aae019d437b2b838e17ed25b739538597dadc95bb743b8ab3bff80c1855a9b8d"
 metafile = true
 
 [[files]]

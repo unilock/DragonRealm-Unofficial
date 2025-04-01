@@ -1,15 +1,13 @@
-name = "NotEnoughItems"
+name = "NotEnoughItems Unofficial 1.7.10"
 filename = "NotEnoughItems-2.7.37-GTNH-pre.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.37-GTNH-pre/NotEnoughItems-2.7.37-GTNH-pre.jar"
-hash-format = "sha256"
-hash = "368232b599ec90180f29ddd5ee7cbd419716f03a59d1df0e041d1f9b1d128bd2"
+hash-format = "sha1"
+hash = "60ba6290b5cdbb283f1ed3bbffcd82d62719e83d"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "GTNewHorizons/NotEnoughItems"
-tag = "2.7.37-GTNH-pre"
+[update.curseforge]
+file-id = 6362553
+project-id = 358228
