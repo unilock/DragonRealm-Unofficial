@@ -29,14 +29,6 @@ file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "e357b68950f9553a172ec8aa40638fbdc05e4d26093f65fdd319d29263b170c9"
 
 [[files]]
-file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg.bak"
-hash = "9a18f6b9ff2372834270af910066aecc96b3c6fb5fa14c88356b68ea8a8826f0"
-
-[[files]]
-file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg.bak.bak"
-hash = "1589cf06f8e2f169aab28037fc1c1c110447f8bef72505fe9f1fdbfee1d24913"
-
-[[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6e2bf9018ed5e25aab719725b047554de0134f61bb484f665ee0d9b645e6ecd3"
 
@@ -46,7 +38,7 @@ hash = "c8e26982eb0d4d734b42880b3500545cec8d077daf4fbc9654dd26ef05ee7eb4"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "9b2d00dc4952f76af19a71e4ecd0059527a5872713c159eac1a4666bc02d2268"
+hash = "c77b5f74d77b11f592ff06ed033312daf4d55bc26fa4a07fb93f839c18a78cd1"
 
 [[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
@@ -398,7 +390,7 @@ hash = "ceeb4476bfcc0c25cf9442ed49e482a61e038008a4d983c0124726f21c7e74ce"
 
 [[files]]
 file = "config/Automagy.cfg"
-hash = "e4032d04395364820d17db1a17668536e27f6d87787d72aa853a6142ae4da144"
+hash = "c469a753bfe29c0e4b80319dc4c3d91ee7c17c82019459516d630c2cb583f8d9"
 
 [[files]]
 file = "config/Backpack.cfg"
@@ -414,7 +406,7 @@ hash = "6fb247d6c0a8404dee6f6b6cb2dd9407bcce089527545255979548422e585920"
 
 [[files]]
 file = "config/BiblioCraft.cfg"
-hash = "99fb32cb7b143c98d34140f6e8bcc4b2e9733759aaaa223121fc965f1df1d2f7"
+hash = "3d604361a67a5423613692abc31529e6e5841f6c2797bbd7fd369807cc634fe1"
 
 [[files]]
 file = "config/BiomeTweaker/BiomeTweaker.cfg"
@@ -950,11 +942,7 @@ hash = "f76b7cbffb0e88ff46b7b01f400626ac7516ea2d35adec2c455ced28fa2c3308"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "c12a76cc86eb0f4c618c90266408f6f05404a9018635f34e28074e40beae9be4"
-
-[[files]]
-file = "config/Botania.cfg.bak"
-hash = "de974c70a1e729926ee2f01a53c6d456018d8b33fc06ff27299f662109045d93"
+hash = "6015a7fc93814a982586ef3a7a33c377266947b56cb9f7958f2f23412430f09b"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -962,7 +950,7 @@ hash = "a3308773da438f45d9b80dcd11de4c01b3169b86400a804850b3e5f9604547a5"
 
 [[files]]
 file = "config/ChickenChunks.cfg"
-hash = "89278f9b14238123640c9d49910470e059c1afd02deec3862829f485c5baa295"
+hash = "bd5ca4227e323ce288454c0749471c89a3b2bf46fac397b951679d81140e6ef9"
 
 [[files]]
 file = "config/ClimateControl/CCDimensions.cfg"
@@ -977,10 +965,6 @@ file = "config/ClimateControl/biomesoplentyInCC.cfg"
 hash = "c915e68e3adc1865388ee980d5378b21e6c19c69e2dd15425b27efe1ac9774c8"
 
 [[files]]
-file = "config/ClimateControl/biomesoplentyInCC.cfg.bak"
-hash = "16ebc7398528a0bd3515d3cc716e4c54ae25e88a9fd3cad5b8543c1c1dba867e"
-
-[[files]]
 file = "config/ClimateControl/climatecontrol.cfg"
 hash = "de5988382846c415ed1f0614c3b0fbc95d7e73e9e766b57ba83289bd2f283b82"
 
@@ -990,15 +974,11 @@ hash = "92c3b47abc42774235f48bcfcf517bc7390823e63a8b206ed0fae1a003578871"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
-hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
+hash = "6968c1fede7fdac74a774773358f38e9b67be759d3d9d4554bbbd400b276a037"
 
 [[files]]
 file = "config/ComputerCraft.cfg"
 hash = "ec1c6cc0e6d759063d182c9e6785aa7a5b88b3c63c645adf41f58ccc43876389"
-
-[[files]]
-file = "config/ComputerCraft.cfg.bak"
-hash = "fd61793db4948dac5478eefd176d33f17d6de5880ea1c2b1b884744ea98b7bfd"
 
 [[files]]
 file = "config/CustomChestLoot/bonusChest.json"
@@ -1058,19 +1038,11 @@ hash = "1a20d4994cea3164061985f5d5931aeb8ec8eaf0b1c532a58df422f128011c05"
 
 [[files]]
 file = "config/EnderStorage.cfg"
-hash = "cd5b99175417ea880cb725de0fc2af7bcb88802277cb0aaa3e2122d888b9200a"
-
-[[files]]
-file = "config/EnderStorage.cfg.bak"
-hash = "2f6a01053c87791bc3f3501a612ddb0dd633e2ab6f099574757e10631e25bad6"
+hash = "bbb7d23305eadee4f5eb81278597dcbc0f55003ec4df5a4a47d95c2a215d27f7"
 
 [[files]]
 file = "config/ExtraUtilities.cfg"
 hash = "022ff358b32c7e1f85bd1471290c13b1b90407112e99eef6861f6b156a16e75f"
-
-[[files]]
-file = "config/ExtraUtilities.cfg.bak"
-hash = "0e7097a454f42bc11ec225faeada81e740b2b72e72828fb31ef52bba5452e9c3"
 
 [[files]]
 file = "config/FlatSigns.cfg"
@@ -1078,10 +1050,6 @@ hash = "f02768d9a555a174f5db476640c612d0223805419e1628c5f1c5f476f911e786"
 
 [[files]]
 file = "config/ForbiddenMagic.cfg"
-hash = "41e99d132bcfd137639d31062e3b081540dd71cee5f80f4006aa1b3b7b4e69ed"
-
-[[files]]
-file = "config/ForbiddenMagic.cfg.bak"
 hash = "41e99d132bcfd137639d31062e3b081540dd71cee5f80f4006aa1b3b7b4e69ed"
 
 [[files]]
@@ -1101,10 +1069,6 @@ file = "config/IC2.ini"
 hash = "b1e1187757477f4dab9b6c00ff497bd975977a2181ee74cc0e90134b9ae1af3f"
 
 [[files]]
-file = "config/IC2.ini.bak"
-hash = "fc8e1ed4fa91a39763fd6d1461e89dffc64169dd0ad6e234e38b2f022af83a00"
-
-[[files]]
 file = "config/IC2NuclearControl.cfg"
 hash = "d36f0590f963b675a4e0587488123d35efb323eff58b639ff01f747f57331b35"
 
@@ -1114,7 +1078,7 @@ hash = "b009114e923af3b280640ec647d2c497b45ebfdce053a8ff60f08f10441cdcff"
 
 [[files]]
 file = "config/INpureProjects/INpureCore/INpureCore.cfg"
-hash = "c1fb0997cb03a09dcb6b1342f31c82ff2483d1cbb467808754c9ceabc4e93682"
+hash = "0a4b7025093d6b0766b9a5b50a6152e4083468d953b54350027e3546f70c41db"
 
 [[files]]
 file = "config/INpureProjects/custom_nei_filters/AppliedEnergistics2.js"
@@ -1221,10 +1185,6 @@ file = "config/IguanaTinkerTweaks/main.cfg"
 hash = "43ad5a8dd0e3c0f76152ae9e32bf58eb91150657a97df40c5d22cffa94e12f17"
 
 [[files]]
-file = "config/IguanaTinkerTweaks/main.cfg.bak"
-hash = "c9119618e81c5290b8ded0c12166aa17fa0d4d9948372c0071dbc052363b4b8f"
-
-[[files]]
 file = "config/IguanaTinkerTweaks/restrictions.cfg"
 hash = "20ff65ab96480edc463e125314004c18d026a1b2b2ad81ec082a9094054d95e4"
 
@@ -1246,7 +1206,7 @@ hash = "0cd1b401c97816db0e0f8b3cf1973af4248b7bc837ab43bdc432aa78c3cdd545"
 
 [[files]]
 file = "config/LogisticsPipes.cfg"
-hash = "e6433b344a99d3280511556937b4315b26ccb42122fd0262f9259ca548302ece"
+hash = "072bc9120c04848cc5be93df450a9f14aa6376d252eb4bf2247f806993c3895a"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -1254,11 +1214,7 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 
 [[files]]
 file = "config/MagicBees.cfg"
-hash = "ec429169d9928202890d62d7998412c4f3ec4b2c50fb0aa8f65c1efb76f2304e"
-
-[[files]]
-file = "config/MagicBees.cfg.bak"
-hash = "7ec1b00d56ac7c24e9fea59456900074aa73bd8a7617c4a09634f1240b51277d"
+hash = "083fdaafd396bafc3e05a3e020f0ba22d47a4e2a6a97ed0c4699a9819e849ee7"
 
 [[files]]
 file = "config/MapWriter.cfg"
@@ -1277,20 +1233,12 @@ file = "config/Morph.cfg"
 hash = "faead6d04a8d3aa391aa57017f04d1cc2b27a8409f591a441fe1d2eaff38de57"
 
 [[files]]
-file = "config/Morph.cfg.bak"
-hash = "f811081e626aeee98bed6c9457bcf3402368d36ed7fca6a68cca9cb9c5b720a3"
-
-[[files]]
 file = "config/Morpheus.cfg"
 hash = "c79b7a229e6a760892b3d527f2e6ea4666e3ca0a81c17abe8744b681d479b0b8"
 
 [[files]]
-file = "config/Morpheus.cfg.bak"
-hash = "93f45784e2562338f438a47a73a84996ef5e60ff0925324fe1710882e1aee9c3"
-
-[[files]]
 file = "config/MrTJPCore.cfg"
-hash = "8bb3fa24a53ffe036e144955579bbe7b412e74b53416d53d37e7cbbb151f9f55"
+hash = "c237d9697ab4d9b87620f5accc779b42ad18c0bfd5e0055bcc2d2bde298d6aa5"
 
 [[files]]
 file = "config/NBTEdit.cfg"
@@ -1298,7 +1246,7 @@ hash = "780bab6e74a577b9ec5eaedfe088b23c6ef56e00ac5113fbe121b2d1f6d47878"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "998b228b51bed9bd5b9ff1bb95d66e4a2c2ae9776d0b39e8cc15ab25c332d168"
+hash = "6ce9ee53f5005ed49176789621ad38a3e69a96b876e493dcaed711f17221a015"
 
 [[files]]
 file = "config/NEIAddons.cfg"
@@ -1313,16 +1261,8 @@ file = "config/Natura.cfg"
 hash = "bd92c7bbbcb6aae0415de64248c284b719c01fe1fb7901b2b9986b3b2102bab6"
 
 [[files]]
-file = "config/Natura.cfg.bak"
-hash = "5af907197183703c69c5d1e75abf83232231e5ef3cdf4ff6415cee50ee7ec39f"
-
-[[files]]
 file = "config/OpenBlocks.cfg"
 hash = "0a8e07b65bd578aec53ad3f3d72767a773cc71d70a0d712c6a96c8aa1bcae7a5"
-
-[[files]]
-file = "config/OpenBlocks.cfg.bak"
-hash = "e6554d23ba13d558d108b0e6c867bce6e0c3608426008fc4583656ba8e3643a0"
 
 [[files]]
 file = "config/OpenComputers.cfg"
@@ -1366,7 +1306,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "b56417345f7b1432081d2ae7e939e331e62f5ab72e6f4ed5b3cbb64ce95cdcad"
+hash = "96d03fc483d16c3f75697782eca2b8a0df6e8886c26fe4a82b0cb43410c0fcd9"
 
 [[files]]
 file = "config/Reika/ArchiSections.cfg"
@@ -1389,10 +1329,6 @@ file = "config/Reika/CaveControl.cfg"
 hash = "9413b85e3162c1230a9139daafabd76fcbcfd59dae858d11053669074b038341"
 
 [[files]]
-file = "config/Reika/CaveControl.cfg.bak"
-hash = "425e10f4afb1b207db2221925140ee4e0769d7fe37a2ddbeee34080c6ee75e4f"
-
-[[files]]
 file = "config/Reika/Cave_Definitions/global.lua"
 hash = "048de9696180184a549ccac6896aca06508dff1381d56dd7dacadf82be207c88"
 
@@ -1407,10 +1343,6 @@ hash = "5d71d834163afb4a6708735e3594c9bf0c82897cac59217ec6025e7f3916a878"
 [[files]]
 file = "config/Reika/ChromatiCraft.cfg"
 hash = "f945fbed0eab4e1200df5bd4a8f6e370ddaaddc52fa510d66b696220bb2ed05b"
-
-[[files]]
-file = "config/Reika/ChromatiCraft.cfg.bak"
-hash = "752571901c63e82be7ce88ab3e6d439858168ed6c251432f834e582cad2d51a3"
 
 [[files]]
 file = "config/Reika/CondensedOres.cfg"
@@ -1473,20 +1405,12 @@ file = "config/Reika/GeoStrata.cfg"
 hash = "eb5071d9989ffbe743f832da162b3b83c636b8a397980b501e8dbda2c1b87640"
 
 [[files]]
-file = "config/Reika/GeoStrata.cfg.bak"
-hash = "88d65f211e37977cafe92cc158fa725378492fd96366f11f8a62a6fddcd44812"
-
-[[files]]
 file = "config/Reika/GeoStrataOreVeinConfig.lua"
 hash = "4fbc43d098909bcbe6ca1ef21e4ce1abeea2c81b9d1e2ffe5c014a2a7de4daef"
 
 [[files]]
 file = "config/Reika/LegacyCraft.cfg"
 hash = "6e62f25c926964fab168dd44c51e7a2eea2927f924b01b63a4ddbf4fee6b797c"
-
-[[files]]
-file = "config/Reika/LegacyCraft.cfg.bak"
-hash = "7c2f1dd46d084704a1491b7bbb0ad18cea4ffcded07a82fb2356113d50e981b5"
 
 [[files]]
 file = "config/Reika/LootTweaks.cfg"
@@ -2061,10 +1985,6 @@ file = "config/Reika/MeteorCraft.cfg"
 hash = "2906e5c43f3c201800f9a53c4c66e1320a39dfc9b71dec8109610792ff1ec5bc"
 
 [[files]]
-file = "config/Reika/MeteorCraft.cfg.bak"
-hash = "f971ace05e4486bdf7ca290752919a2993b44441da5374adae6fa279a2d4d694"
-
-[[files]]
 file = "config/Reika/MeteorCraft_CustomOres.cfg"
 hash = "90a51a00ab02994e2f53468baa4bb3fee49e0fda5a7d8e524019d7aca5af227d"
 
@@ -2081,16 +2001,8 @@ file = "config/Reika/ReactorCraft.cfg"
 hash = "ba280f6876665dfb3eb42f336868d5dffd4bf3f0b21a33688b1eb256ef6c545c"
 
 [[files]]
-file = "config/Reika/ReactorCraft.cfg.bak"
-hash = "1b3f96668cf75b45d78b4d5fcb81435e2edd92c08a0d08092ab315bdad571a46"
-
-[[files]]
 file = "config/Reika/RotaryCraft.cfg"
 hash = "2dba5f8987dd26d0aae46aa6117750e014f93cd8ebce63c18ad43692f7a9e182"
-
-[[files]]
-file = "config/Reika/RotaryCraft.cfg.bak"
-hash = "7dabbd4252b271f235c2184baaac7b53f409ca9176f5f5d51ef53a31dd696e5e"
 
 [[files]]
 file = "config/Reika/RotaryCraft_CustomExtracts.cfg"
@@ -2145,10 +2057,6 @@ file = "config/Reika/TweakFix.cfg"
 hash = "5bbc4803a6bbf9878ed22c98963cf73de7c8e908094706a77cffa7aa66ca4260"
 
 [[files]]
-file = "config/Reika/TweakFix.cfg.bak"
-hash = "ef212b4add416d3bbb2565037be941f4d9ee7feffa90c5299146e0ecb3c9931d"
-
-[[files]]
 file = "config/Reika/Void Monster_CustomDrops/example.drops"
 hash = "37e6e566a9019120cca004f8d5d4d8daa540900746e5dc5bb8091ec1feec6df7"
 
@@ -2165,10 +2073,6 @@ file = "config/RunicDungeons/RunicDungeons.cfg"
 hash = "8680d250a9bd04737dad0fc837c74edc37256fc23dd129bc27fd7caeaa07a412"
 
 [[files]]
-file = "config/RunicDungeons/RunicDungeons.cfg.bak"
-hash = "734b978d2b3db80b050597dc55411c2567b62aaba945ae1628153e6af876bd6a"
-
-[[files]]
 file = "config/RunicDungeons/Textures.cfg"
 hash = "a585a3f88cd94a3ad93c4cd581c467d63017525d9a118aeb9b3cf869e3eb2182"
 
@@ -2179,10 +2083,6 @@ hash = "4ff227794a6e69caf060d4790ad4f4c3a86e9a6f18e3cd9379294af791d478ad"
 [[files]]
 file = "config/SparrMods/Mimicry.cfg"
 hash = "dd6a71655890d419697dbdb2a270b249b7f9406dc36623bf2fddd48e22c84934"
-
-[[files]]
-file = "config/SparrMods/Mimicry.cfg.bak"
-hash = "d4c4917caf1b63b701b914baa9853e334a9fbc30b5e635abf7bcc0b620e6c887"
 
 [[files]]
 file = "config/SparrMods/MimicryAux.cfg"
@@ -2201,10 +2101,6 @@ file = "config/StorageDrawers.cfg"
 hash = "fac1e0772e78821728d95e8acfabf7235b862fcea8ed606f655a1239f0ab89cd"
 
 [[files]]
-file = "config/StorageDrawers.cfg.bak"
-hash = "64195d7e2d122a2baef1bc2d4aab551dc241a4e23400d2ef4e6a717f4b128711"
-
-[[files]]
 file = "config/TMechworks.cfg"
 hash = "0009d989479d60b69340a814ad5e648a6ac7686c00bcc02f364c45b806a85355"
 
@@ -2213,24 +2109,12 @@ file = "config/Thaumcraft.cfg"
 hash = "5a616fa4f0a08727fba59e47dd6654f200169fbd29982b078a55ae53537959ec"
 
 [[files]]
-file = "config/Thaumcraft.cfg.bak"
-hash = "3e29bda0e3be3feffe45703bb5000dc0e62a49cd9bd02f19abfd31fd2de25d87"
-
-[[files]]
 file = "config/ThaumicTinkerer.cfg"
 hash = "9b8dc491eaad47e1ccf78044b34c02903c2a972951c011d29bedb96fbb33f20a"
 
 [[files]]
-file = "config/ThaumicTinkerer.cfg.bak"
-hash = "afacbe23cdbda53dc314f03af02e06a6a37a1eeba11e833d5f02d62658dea985"
-
-[[files]]
 file = "config/TinkersConstruct.cfg"
 hash = "dc37f312e09ed0d79313414e9f0e68789447b675eba617561ce3fcfca229ec1d"
-
-[[files]]
-file = "config/TinkersConstruct.cfg.bak"
-hash = "8019580819fe12e83ae7148509865bc18da466dab0a95986e4348a14dc99d5b1"
 
 [[files]]
 file = "config/TinkersModules.cfg"
@@ -2238,23 +2122,15 @@ hash = "6fedf09c7ee62d431b7ac8bf0bd5eb3dec16494ea20c195f63efb735d9ff39a1"
 
 [[files]]
 file = "config/Translocator.cfg"
-hash = "5ff9a8bb4f16baadf8580627ee0bd366ed7587d331a03e79c5d59ac5f72e198d"
+hash = "4c1102a880118392459284e5e46f6a55a10a2fee0bfeb335400c6f93ad24512e"
 
 [[files]]
 file = "config/TwilightForest.cfg"
 hash = "600601c14b194258deb660a89ea41eb0eff28d726548d704a5f0e01e383d5994"
 
 [[files]]
-file = "config/TwilightForest.cfg.bak"
-hash = "8b71436c3c975d9c989e503c5f1fabe0295d543bfbc49ed7ff65f0800b915755"
-
-[[files]]
 file = "config/Waila.cfg"
 hash = "a51ad99890701323cfdc4e394bc1774bd73e0a5412339d68198f275c0ac9b65f"
-
-[[files]]
-file = "config/Waila.cfg.bak"
-hash = "912a409bc14023cb4c0f4ede6d1d0712b9931087e82b008746260c45fd548e4c"
 
 [[files]]
 file = "config/WailaHarvestability.cfg"
@@ -2262,7 +2138,7 @@ hash = "0cad3d4e5933b5be85e887d6c6600997081e0b8126dd163e9a55b6246eb7809b"
 
 [[files]]
 file = "config/WirelessRedstone.cfg"
-hash = "abffdd61bb853f4a812c5fb23d1cc937a4b89d30cf1c56d0bde3b9d84ff0a25f"
+hash = "d8e727918132b95999013c6de883a1b9ddfa72748fac8028aabc0cb7401d80a0"
 
 [[files]]
 file = "config/Ztones.cfg"
@@ -2271,10 +2147,6 @@ hash = "3fa7af71bea13e468368aa18dadae9e7c0ecd69265d80b60227c46a874b622d2"
 [[files]]
 file = "config/agricraft/Configuration.cfg"
 hash = "603a72954fb407a31365c093a53549055bfc7921ba290c9fc4a9ad31afe66bee"
-
-[[files]]
-file = "config/agricraft/Configuration.cfg.bak"
-hash = "f0c205d46d614c278c01bcb24732bea7de9e29d03b9f0e4d94d0e9d93177ca90"
 
 [[files]]
 file = "config/agricraft/GrassDrops.txt"
@@ -2314,7 +2186,7 @@ hash = "05c4914af0f4e5117e7e248100a63b743e310eb4058a35d3536270b30cdf19eb"
 
 [[files]]
 file = "config/armourersWorkshop/common.cfg"
-hash = "9e310ea012769b6a631ee2bc126615a5cf16f5f3deae32195708e63db813944a"
+hash = "279c06c5dbfae4a9754dc4f4eddf469ebe6dc7a73d1548e0671d038d51ae8da4"
 
 [[files]]
 file = "config/asielib.cfg"
@@ -2327,10 +2199,6 @@ hash = "4f59d9aa8ff1bf0ac1304e57fe30f61e5f2651437879c3be969e65ce91fef160"
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
 hash = "b0de1f5d8f64d1ac0f365f809449ed753a32a54cace3ebb942eda79be316a72e"
-
-[[files]]
-file = "config/biomesoplenty/biomegen.cfg.bak"
-hash = "8f4880a507c625d1eb0232006450f25c676774852d52b76e772ab9e6b2be987c"
 
 [[files]]
 file = "config/biomesoplenty/biomeweights.cfg"
@@ -2357,10 +2225,6 @@ file = "config/biomesoplenty/structures/villages.cfg"
 hash = "3d41770653de0b2c1263b5d432dc40fe883ecdc08495438c4018ede44f16b5e0"
 
 [[files]]
-file = "config/biomesoplenty/structures/villages.cfg.bak"
-hash = "0bbbd0ac4427bdba5b091fb4f508e3b20ca3abb8a7db9583e023d16bc59ed6f4"
-
-[[files]]
 file = "config/biomesoplenty/terraingen.cfg"
 hash = "26f57cd859a735725e18c235170f932e09da6a32548dc264c7505d211699be40"
 
@@ -2370,11 +2234,7 @@ hash = "10ba57291b213faa118df6b23325d54c29840eab3c9308d4fba3d27ffe86e593"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "5043c75b4eac9d514b930d83ea213c8a1bd3a790cf7f0dd3549618e9a13b3703"
-
-[[files]]
-file = "config/buildcraft/main.cfg.bak"
-hash = "481e1b28c974f3ed4c0ef9630d9597f0d7b3c41d6f964e8a91f90bfb25469d5b"
+hash = "fbbcd6c075e92b6ccbf18b4a87d2d8562d2bcbff5be7719ee5c86df7fef9a475"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -2385,16 +2245,8 @@ file = "config/chisel.cfg"
 hash = "45180d089e620c90c5c47a5accd2706f1b8ac0a5410d4db927fe5f46ca632d06"
 
 [[files]]
-file = "config/chisel.cfg.bak"
-hash = "59b3e7ceff8d3aa71ecc5872e513324b11722b38fab4683e3b646afbf780d67d"
-
-[[files]]
 file = "config/climatecontrol.cfg"
 hash = "d10570f01eab7eb95fe126a8237267e9b67bece8c93500cf47cce803ef3da195"
-
-[[files]]
-file = "config/climatecontrol.cfg.bak"
-hash = "d993e8fad7784b536202c7631bcf5fdd6fa8ba8ca7a66d8063ab3164b4857a3f"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
@@ -2402,11 +2254,7 @@ hash = "a07b96a28a174b0199992110be8938e5d23c7b949b3a1e1bd664c24eb11caf0a"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "4892e83ec14d2b5abaf4b9ad709832486fa84b6e0c12c958cdcab928e1150236"
-
-[[files]]
-file = "config/cofh/core/common.cfg.bak"
-hash = "5d509b5b05fcfc06cb312bc99a7a6fc44979b2fcdb30b1f9207bf7878f795aa3"
+hash = "e76d35c46a0f03eb1645d008c96430877e431204b761b3f57e99b195238850f5"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -2429,20 +2277,12 @@ file = "config/cofh/thermaldynamics/common.cfg"
 hash = "4dc56e9596e6d154888e0a89874dbb88165f5caaa85817bc81d9346d9a218051"
 
 [[files]]
-file = "config/cofh/thermaldynamics/common.cfg.bak"
-hash = "4dc56e9596e6d154888e0a89874dbb88165f5caaa85817bc81d9346d9a218051"
-
-[[files]]
 file = "config/cofh/thermalexpansion/client.cfg"
 hash = "221fabde5c6d3ab818625866387194e6a77149864195c6f0a9b80510b2f29f41"
 
 [[files]]
 file = "config/cofh/thermalexpansion/common.cfg"
 hash = "ca10a7e9dc05e85d4cd927d99728d0fccf881beba0b4b1de5cec48a996e0af0a"
-
-[[files]]
-file = "config/cofh/thermalexpansion/common.cfg.bak"
-hash = "30fd59bc2d91c751ab284a961019bf774b1138a0e0cc0c1182971de16f341c7c"
 
 [[files]]
 file = "config/cofh/thermalexpansion/florbs.cfg"
@@ -2453,20 +2293,12 @@ file = "config/cofh/thermalexpansion/fuels.cfg"
 hash = "e32b9685a1be714c98261db7480b06a5143587b48c9430520e3d6655f7d03bf7"
 
 [[files]]
-file = "config/cofh/thermalexpansion/fuels.cfg.bak"
-hash = "42770ee06614fadb5ed2c03698bb298131901b0216931b3a0d056e876802ec63"
-
-[[files]]
 file = "config/cofh/thermalfoundation/client.cfg"
 hash = "5cd70a4757448cc4103564c6d948c3a955ef077967ccca02dfdcff8bd212b992"
 
 [[files]]
 file = "config/cofh/thermalfoundation/common.cfg"
 hash = "01b6cadb6c89d0a76a9777c9798ac069d775d9576782d29a16e34b82dc9cc1e2"
-
-[[files]]
-file = "config/cofh/thermalfoundation/common.cfg.bak"
-hash = "6576d6916bdcdf16516a9619d26403b887d47dfb324695b3082841b0a8c4713d"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
@@ -2529,10 +2361,6 @@ file = "config/enderio/EnderIO.cfg"
 hash = "6d2d63c4d0929e1b6163f24899e3c9db222c4084a45e05e6bfdc718f8ffe15c5"
 
 [[files]]
-file = "config/enderio/EnderIO.cfg.bak"
-hash = "0ccb6b9539a233637f5ba9b97fabf9ebcedc99f1a45b8eaabfde04144aa6ed92"
-
-[[files]]
 file = "config/enderio/OreDictionaryPreferences_Core.xml"
 hash = "e41d01c6c0d73358d685f2c0f2e631111613bce80f2f0c4d143a1c3fae787d23"
 
@@ -2583,10 +2411,6 @@ hash = "e5556310b265aa0765eb1386e6636401d9eb142bec6d620477ecdec551c78079"
 [[files]]
 file = "config/eplus.cfg"
 hash = "3703001066a2110654fd99fd5f3e953fbf320fdffa4ffc935952eb30187e9abd"
-
-[[files]]
-file = "config/eplus.cfg.bak"
-hash = "59b5dd3081a069284581fc751c7e2595f6d7edd31bd8e47b237e86d4722dd5e6"
 
 [[files]]
 file = "config/fairylights.cfg"
@@ -2662,7 +2486,7 @@ hash = "e468d022ba9767704952e7572113681c2519aba13cb5e45cb947ad381fc35026"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "a0d7c57221455e645c1c88d115e8c0a128ee9b25fb58328989b99e26f6c390c5"
+hash = "2d3e5f69e7b7277b066f1bb8a75d324d70260fc90243dd381c08ffb8db0793eb"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
@@ -2822,7 +2646,7 @@ hash = "c7660a3dea7ed574702b5cb03c48a493e352f22bc592d29c00548c3b77a82a88"
 
 [[files]]
 file = "config/iChunUtil.cfg"
-hash = "cc3499b066f55651b68c0e680b3c01a3f72a648882b2015008bee080b4c6348a"
+hash = "d25852d6e852005aa6f46f6295f5ac15ee45b3c4ead26e251300b14594e8f4fd"
 
 [[files]]
 file = "config/iChunUtil_KeyBinds.cfg"
@@ -2839,10 +2663,6 @@ hash = "c3a80719cb47d08fa3a6cacd3fdf0ab0f4a6e156c403d863447df59c99326e0f"
 [[files]]
 file = "config/immibis.cfg"
 hash = "2c8d97705131c9bf6d6273cbcb869ae55744c5ea3498e16e72266faeb83c0062"
-
-[[files]]
-file = "config/immibis.cfg.bak"
-hash = "35ccd7200ff1770283ee53b4d4567d8f40e5a82c5fbcd413e9e7076d5bc550f9"
 
 [[files]]
 file = "config/journeymap_ModInfo.cfg"
@@ -2865,20 +2685,12 @@ file = "config/multipart.cfg"
 hash = "f04752c4e83e3e4db8e857bd544cccf96c34374436e8577145e428d8fc6ac842"
 
 [[files]]
-file = "config/multipart.cfg.bak"
-hash = "c1066f3584a12feec45c21359cc356cf67d9220503a6b0a09cc3559fac574b63"
-
-[[files]]
 file = "config/mystcraft/balance.cfg"
 hash = "fd423ad597b7864fb9963484fd87312b145f3d91121aad41ad4bc73cf16535a1"
 
 [[files]]
 file = "config/mystcraft/core.cfg"
 hash = "d064be21d60c82b80491983fbd7c3f3b33c03085b0fd4ebb1a074aea8eb848aa"
-
-[[files]]
-file = "config/mystcraft/core.cfg.bak"
-hash = "0f98e826353224aec9c18feacb0ae1f3a58eb9a6ffd842d5e21ba9b77fe14cbd"
 
 [[files]]
 file = "config/mystcraft/instabilities.cfg"
@@ -2891,10 +2703,6 @@ hash = "536a79638b5fb089d7f52d2197a5914495d0b14873467f5bf745a98636573d3c"
 [[files]]
 file = "config/neiintegration.cfg"
 hash = "7157e950018576c988897f3f9cf42cde51d95a7654ca8a14ef2261af524c50b3"
-
-[[files]]
-file = "config/neiintegration.cfg.bak"
-hash = "0ea1c8f56affbf972574a26a0741c03a4d7bd92d6c33183e3cc5e71dad21d7b8"
 
 [[files]]
 file = "config/opencomputers/default.recipes"
@@ -2938,11 +2746,7 @@ hash = "c95bad32fb0f769bf8040be6d8dd86ad33fb55678e05b27385585ea1210e4cf8"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "efcd9a0d3447fddb1465b077192d9b5690ee11a50dd60dc4a142190d6f0153df"
-
-[[files]]
-file = "config/railcraft/railcraft.cfg.bak"
-hash = "8434e72a2b72143dc71fbbddbebbb02ea2f9b025407e26624f8f0951896ef9a5"
+hash = "ec2f877d189ac261fbb905fc53de2fb14a8a7ae23edb230a38ba6ede82a17831"
 
 [[files]]
 file = "config/railcraft/version.prop"
