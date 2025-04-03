@@ -1342,7 +1342,7 @@ hash = "5d71d834163afb4a6708735e3594c9bf0c82897cac59217ec6025e7f3916a878"
 
 [[files]]
 file = "config/Reika/ChromatiCraft.cfg"
-hash = "f945fbed0eab4e1200df5bd4a8f6e370ddaaddc52fa510d66b696220bb2ed05b"
+hash = "41b89654e4cf092e122fed3174caec6f5b883babbf7cb566fec8b9c5b1ebba1e"
 
 [[files]]
 file = "config/Reika/CondensedOres.cfg"
@@ -1370,7 +1370,7 @@ hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
 
 [[files]]
 file = "config/Reika/DragonAPI.cfg"
-hash = "b5ac2878f35e0387dc6b40bc4f0a64c5d70cec12992965ab1a5b4cb1f365bd39"
+hash = "6b5a29b526bcc8494af08976eb42e99bfdc0101f00a6c1d0767f9536db404798"
 
 [[files]]
 file = "config/Reika/DragonAPI_Aux_Retrogen.cfg"
@@ -1378,7 +1378,7 @@ hash = "9f5ca5be63126ead02fa3d8f25b4ba941cd2a73ce26cc52eddf8f1ceb437a8ab"
 
 [[files]]
 file = "config/Reika/DragonRealmCore.cfg"
-hash = "c00ef6f741e6737944f9477d10575b7fcdb0e5eb13986ec4761cf3177eaeaed8"
+hash = "a668ee9928b958e7ae2cef99219b32395a4bb94753e7ed66dc75c7aff9865b2e"
 
 [[files]]
 file = "config/Reika/DragonRealmCoreBiomeHeightConfig.lua"
@@ -1398,11 +1398,11 @@ hash = "9970b5e89749e072d013cdb69a878128a1155561f1a36f503be8da8f5064f517"
 
 [[files]]
 file = "config/Reika/ExpandedRedstone.cfg"
-hash = "dae535d38cb1102ac8cbefd859ec88263154b93cdebc685c01fde9706ac83a18"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
 
 [[files]]
 file = "config/Reika/GeoStrata.cfg"
-hash = "eb5071d9989ffbe743f832da162b3b83c636b8a397980b501e8dbda2c1b87640"
+hash = "f3b700ac9f29405a3dc0a24d7b08c8c63a3fde6f8852ac39385ecad5c8bebbba"
 
 [[files]]
 file = "config/Reika/GeoStrataOreVeinConfig.lua"
@@ -1982,7 +1982,7 @@ hash = "3ce13a0593dc80b7c909ef68dc5523dd47faad18879783cd0fc62fbd7282c242"
 
 [[files]]
 file = "config/Reika/MeteorCraft.cfg"
-hash = "2906e5c43f3c201800f9a53c4c66e1320a39dfc9b71dec8109610792ff1ec5bc"
+hash = "76a9d6d2322a6ed69e9ba34dc20115e75fabcce60b9ce45cb37491177207d534"
 
 [[files]]
 file = "config/Reika/MeteorCraft_CustomOres.cfg"
@@ -1998,11 +1998,11 @@ hash = "0d303750f94749eb7602db2c85566c155d23b346a1ee8af6abf65f14da032493"
 
 [[files]]
 file = "config/Reika/ReactorCraft.cfg"
-hash = "ba280f6876665dfb3eb42f336868d5dffd4bf3f0b21a33688b1eb256ef6c545c"
+hash = "ca3389f2f80163f2b9d1f4b6b0a5ea06116f6459e1deebb2ca7cebeccfda568b"
 
 [[files]]
 file = "config/Reika/RotaryCraft.cfg"
-hash = "2dba5f8987dd26d0aae46aa6117750e014f93cd8ebce63c18ad43692f7a9e182"
+hash = "8a78551f460495a359ded3284354d369d6cb2ac0ca58f9859630af1d4b29c686"
 
 [[files]]
 file = "config/Reika/RotaryCraft_CustomExtracts.cfg"
@@ -2018,7 +2018,7 @@ hash = "25693c730cd77ddea064761021b0597d5b1275e7d4d37bc75d3e3e0f5821bfc3"
 
 [[files]]
 file = "config/Reika/Satisforestry.cfg"
-hash = "c64594ee77e7bddcfc0140fe1da7a422df7ad1730c6221a4922d28c67799a0b3"
+hash = "a33f3101dd4fb79547b791c65c093b39229505ffda9d9e550d96c42aeb9438dc"
 
 [[files]]
 file = "config/Reika/Satisforestry_Files/doggo.lua"
