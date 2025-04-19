@@ -29,7 +29,7 @@ The [DragonRealm Warnings](https://dragonrealm.overminddl1.com/warning.php) are 
 
 2. Download `unsup-1.1-pre8.jar` from [Sleeping Town](https://git.sleeping.town/unascribed/unsup/releases/tag/v1.1-pre8), and place it in the root of your server instance.
 
-3. Download `unsup.ini` from the [misc-files](https://github.com/unilock/DragonRealm-Unofficial/tree/main/misc-files) folder and place it in the root of your server instance.
+3. Download `unsup.ini` from the [bin](https://github.com/unilock/DragonRealm-Unofficial/tree/main/bin) folder and place it in the root of your server instance.
 
 4. Add `-javaagent:unsup-1.1-pre8.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT` as Java args.
 
