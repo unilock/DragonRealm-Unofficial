@@ -3653,7 +3653,7 @@ hash = "20bada15259f69f4ea3417857380f7c5c3ac917784160113909102da4b77589f"
 
 [[files]]
 file = "scripts/tweaks.zs"
-hash = "21afe24dc93de14cc0f5270ab7864f6b39e1d0350b9e794bd468b0087734e9c7"
+hash = "62f068a307a681dffdf6dae1660b5d51192b8d34579742df98394cc3f9d87460"
 
 [[files]]
 file = "scripts/uncrafting.zs"
