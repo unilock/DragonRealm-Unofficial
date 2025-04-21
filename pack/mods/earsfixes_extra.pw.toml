@@ -1,0 +1,15 @@
+name = "EarsFixes"
+filename = "earsfixes-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/unilock/EarsFixes/releases/download/1.0.0/earsfixes-1.0.0.jar"
+hash-format = "sha256"
+hash = "5f5301b8dfe7f5c29be439a2582b6847a80f990015ec9c789b9d9e4a23fdbc5a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "unilock/EarsFixes"
+tag = "1.0.0"

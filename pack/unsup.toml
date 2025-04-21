@@ -152,6 +152,8 @@ flavors = "dualhotbar_on"
 flavors = "dynamicsurroundings_on"
 [metafile.ears_extra]
 flavors = "ears_on"
+[metafile.earsfixes_extra]
+flavors = "ears_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.optifine]

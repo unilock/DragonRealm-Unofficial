@@ -3009,6 +3009,11 @@ hash = "75c35f862264cb9d152265a19f13d25050adca2d61a426afa05febffe0bafd45"
 metafile = true
 
 [[files]]
+file = "mods/earsfixes_extra.pw.toml"
+hash = "f5176ea6038da3ee5dfc8b604c41292e59264ab87768ec29c78b86c2f8211fc2"
+metafile = true
+
+[[files]]
 file = "mods/electricraft.pw.toml"
 hash = "fee93df0eee769a450bf2bebc9fdee987c7de49c13582439122d78befe6504a3"
 metafile = true
