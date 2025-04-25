@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromatifixes_extra.pw.toml"
-hash = "ab73d83ab0756d9ae52fce11803af4d4188d926f2fb3b5cd770da9a7626d5a27"
+hash = "a62b89de581c577237373e559a5a1c0f08bd80b9e40077231bc5b7032a1b7238"
 metafile = true
 
 [[files]]
@@ -3130,7 +3130,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "f9e7b9a07f61a0c2cbde5a20896fed6946c9d813ac6d0fd63443c256e7b8dbc5"
+hash = "d70b8f0f20cbe5576a6dc1cea4523c14d4dac6dc90caadd6893699172714a90f"
 metafile = true
 
 [[files]]
@@ -3305,7 +3305,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "503c861522b6b7392ba6a2b411d08c28af56eb8db2778a565d6c7bb2848f9195"
+hash = "ba044731e4aefea7592da9cefd5895101612ed857cd8a6d05a45237a0ec975a2"
 metafile = true
 
 [[files]]
