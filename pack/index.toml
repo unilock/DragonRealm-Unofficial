@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromatifixes_extra.pw.toml"
-hash = "a62b89de581c577237373e559a5a1c0f08bd80b9e40077231bc5b7032a1b7238"
+hash = "43a021253cca026c71171781f1c41e9a63058b3db47b8525e72696b702a009d8"
 metafile = true
 
 [[files]]
