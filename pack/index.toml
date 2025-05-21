@@ -2894,6 +2894,11 @@ hash = "4113356b522cc5cfa069c4ec98dea37ed5b713f55cd7b8f1d21e7870c25fce68"
 metafile = true
 
 [[files]]
+file = "mods/biome-decoration-fix.pw.toml"
+hash = "47b24da5cc3263445b3aaf0f8f2131903adb419c5ddf456584ed5ca948745c36"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "551475a7a334de875cb9ce983b633234057f83749ab660643a75955d3b4c8da4"
 metafile = true

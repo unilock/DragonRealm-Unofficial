@@ -1,0 +1,13 @@
+name = "Biome Decoration Fix"
+filename = "alreadydecoratingfix-1.0a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8296281ae3a71b82c7bd5762f474206621c7df74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3479308
+project-id = 533258
