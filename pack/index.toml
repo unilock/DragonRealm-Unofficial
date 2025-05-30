@@ -2945,7 +2945,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromatifixes_extra.pw.toml"
-hash = "365424788bde13ad1e1426567dd84d7261db1a2e40b7ced11904eeec57c7eedb"
+hash = "d0b1b47b73a8fe4f8788b13333e86d67d5d431aa0155e070da26593071a6dbe2"
 metafile = true
 
 [[files]]
@@ -2955,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_extra.pw.toml"
-hash = "afdb9677968ebe226ba1243efa604d99985a699b38012af02799ca8810d6ac55"
+hash = "99a5f67ee9d30cf3fe31b82721d87a1d2e18ad44979010a0cfca1aeeb988e9d2"
 metafile = true
 
 [[files]]
@@ -3135,7 +3135,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "8c2b693b191c732d34565cfa4209d01cbe1fb37ed7b358df51e8ff167b01d69e"
+hash = "c9ccaf08c2a10bdfb000a038e4f612f2a0ee5b41b1f092b566c921c9016771c1"
 metafile = true
 
 [[files]]
@@ -3175,7 +3175,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorybogosorter_extra.pw.toml"
-hash = "fac70d82e9cc38bdc4571d5742850c8f204beac4f67f4398531c961cb5e7a8fa"
+hash = "82c6e80f4de522181d543bc6c9c04dc55767dd5a9af971941507f220bb3d5b3e"
 metafile = true
 
 [[files]]
@@ -3270,7 +3270,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui2_extra.pw.toml"
-hash = "9f37a2f8a2bd28b299189c2e584bfc60f96edff68e2171afd339c87f78d9a060"
+hash = "c1ceb3342066d5acc4bf5574e491e6b77fa983dc86bcedb9c08106add381dd5b"
 metafile = true
 
 [[files]]
@@ -3310,7 +3310,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "ba044731e4aefea7592da9cefd5895101612ed857cd8a6d05a45237a0ec975a2"
+hash = "42c876b628e799d312ca1978c7ecf73cb8ce803b83254cfec428420e147cb176"
 metafile = true
 
 [[files]]
