@@ -2181,6 +2181,10 @@ file = "config/arcanearteries.cfg"
 hash = "df0235e79a42aee103d5f3102b7f8ca16038bc1cefbad495e2089c3ffbe5a014"
 
 [[files]]
+file = "config/archaicfix.cfg"
+hash = "004c68bf6834074bc930d7fc1d377ff0053e27299dfc17542359056b95193958"
+
+[[files]]
 file = "config/armourersWorkshop/client.cfg"
 hash = "05c4914af0f4e5117e7e248100a63b743e310eb4058a35d3536270b30cdf19eb"
 
@@ -2649,6 +2653,10 @@ file = "config/hexcraft.cfg"
 hash = "c7660a3dea7ed574702b5cb03c48a493e352f22bc592d29c00548c3b77a82a88"
 
 [[files]]
+file = "config/hodgepodge.cfg"
+hash = "7a154e9e5a9acdb744c7675306f50ea2d39b13ddac52026f17a19ab5b3a97429"
+
+[[files]]
 file = "config/iChunUtil.cfg"
 hash = "d25852d6e852005aa6f46f6295f5ac15ee45b3c4ead26e251300b14594e8f4fd"
 
@@ -2846,6 +2854,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "84554f0ec5564212299ecb75f861ce389c31d514eda51af9a928f8474b0ffb46"
+metafile = true
+
+[[files]]
+file = "mods/archaicfix_extra.pw.toml"
+hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
 metafile = true
 
 [[files]]
@@ -3141,6 +3154,11 @@ metafile = true
 [[files]]
 file = "mods/hexwool.pw.toml"
 hash = "101db2aedd9d35e95f0064d2da1985afbf63baa9ce9c82d46e4df9dc862a3757"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge_extra.pw.toml"
+hash = "a2974fe574ea4355ff1913f46e208c3dde573d2bd33b1fd7c70dc6ba6c802825"
 metafile = true
 
 [[files]]
