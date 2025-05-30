@@ -2177,6 +2177,10 @@ file = "config/agricraft/VanillaPlantingExceptions.txt"
 hash = "b8fd15f5a9f1eb1409e86a2e240423f35445c1419b03b1714ee0380b41bd8152"
 
 [[files]]
+file = "config/angelica-modules.cfg"
+hash = "eaec269323b067479a95ac74abc7bfdde8f74034467b1bc398094e7699edd1de"
+
+[[files]]
 file = "config/arcanearteries.cfg"
 hash = "df0235e79a42aee103d5f3102b7f8ca16038bc1cefbad495e2089c3ffbe5a014"
 
@@ -2852,6 +2856,11 @@ hash = "a9c9c4427426675d6352d49dad0c4932246d07fd9bbcba4de364b1279b47082d"
 metafile = true
 
 [[files]]
+file = "mods/angelica_extra.pw.toml"
+hash = "4052d64b6f1b91d1af9adc637092114acb704d5dd4130dd99b337487d13c85b5"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "84554f0ec5564212299ecb75f861ce389c31d514eda51af9a928f8474b0ffb46"
 metafile = true
@@ -3354,11 +3363,6 @@ metafile = true
 [[files]]
 file = "mods/openperipheral.pw.toml"
 hash = "2443c3601b1c4a68b5d03882b66910eb4a397768cbc8c9487a9e49de491c1075"
-metafile = true
-
-[[files]]
-file = "mods/optifine.pw.toml"
-hash = "b6cfed1dd65d0af279806ad9d6cdd584390310eeb65c38c4d5e30f91722e902e"
 metafile = true
 
 [[files]]

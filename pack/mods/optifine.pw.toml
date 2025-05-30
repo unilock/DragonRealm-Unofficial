@@ -1,8 +1,0 @@
-name = "OptiFine"
-filename = "OptiFine_1.7.10_HD_U_C1.jar"
-side = "client"
-
-[download]
-url = "https://dragonrealm.overminddl1.com/downloads/mods/OptiFine_1.7.10_HD_C1.jar"
-hash-format = "sha256"
-hash = "aeb0ac02521631d85e3a1bfd1f867679a5361bc1e3e1ee2bcb71dc17e7238ca6"

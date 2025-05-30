@@ -64,19 +64,6 @@ id = "ears_off"
 name = "No"
 description = "Do not install Ears."
 
-[flavor_groups.optifine]
-name = "OptiFine"
-description = "Minecraft optimization mod. Client only."
-side = "client"
-[[flavor_groups.optifine.choices]]
-id = "optifine_on"
-name = "Yes"
-description = "Installs OptiFine."
-[[flavor_groups.optifine.choices]]
-id = "optifine_off"
-name = "No"
-description = "Do not install OptiFine."
-
 [flavor_groups.soundfilters]
 name = "Sound Filters"
 description = "Adds reverb to caves and underwater/covered up muting. Client only."
@@ -156,8 +143,6 @@ flavors = "ears_on"
 flavors = "ears_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
-[metafile.optifine]
-flavors = "optifine_on"
 [metafile.sound-filters]
 flavors = "soundfilters_on"
 [metafile.tails]
