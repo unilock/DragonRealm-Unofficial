@@ -2894,7 +2894,7 @@ hash = "4113356b522cc5cfa069c4ec98dea37ed5b713f55cd7b8f1d21e7870c25fce68"
 metafile = true
 
 [[files]]
-file = "mods/biome-decoration-fix.pw.toml"
+file = "mods/biome-decoration-fix_extra.pw.toml"
 hash = "47b24da5cc3263445b3aaf0f8f2131903adb419c5ddf456584ed5ca948745c36"
 metafile = true
 
@@ -3653,7 +3653,7 @@ hash = "20bada15259f69f4ea3417857380f7c5c3ac917784160113909102da4b77589f"
 
 [[files]]
 file = "scripts/tweaks.zs"
-hash = "62f068a307a681dffdf6dae1660b5d51192b8d34579742df98394cc3f9d87460"
+hash = "27cefd0d8d4c3e7f525582bfc4f922e37dcb24791f78c44daaec9ecb36c68e9f"
 
 [[files]]
 file = "scripts/uncrafting.zs"
