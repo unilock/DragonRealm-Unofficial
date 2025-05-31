@@ -1,0 +1,15 @@
+name = "LiteloaderLoader"
+filename = "liteloaderloader-v0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Midnight145/LiteloaderLoader/releases/download/v0.0.7/liteloaderloader-v0.0.7.jar"
+hash-format = "sha256"
+hash = "273f2e9649e5d6e8e7ba1bffdcd94641d44e2ecf0651f809caf9e5008f870e98"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Midnight145/LiteloaderLoader"
+tag = "v0.0.7"

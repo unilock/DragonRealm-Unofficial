@@ -3231,6 +3231,11 @@ hash = "72eb1b6471186529b88fff5edd0509940c053dd07a873cdbe09cbf8a317ed6b8"
 metafile = true
 
 [[files]]
+file = "mods/liteloaderloader_extra.pw.toml"
+hash = "9757716faa6cb4f162396cfc5f1951d1234c139e3409b188a82691337dc5671f"
+metafile = true
+
+[[files]]
 file = "mods/logisticspipes.pw.toml"
 hash = "5f4b3a7a6066f59c6b955d03b481c0cf631b1bd862b0b3261df9a8e9ee181b68"
 metafile = true
