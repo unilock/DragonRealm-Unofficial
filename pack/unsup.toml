@@ -143,6 +143,8 @@ flavors = "ears_on"
 flavors = "ears_on"
 [metafile.liteloader]
 flavors = ["voxelmap_on", "worldeditcui_on"]
+[metafile.liteloaderloader_extra]
+flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.sound-filters]
 flavors = "soundfilters_on"
 [metafile.tails]
