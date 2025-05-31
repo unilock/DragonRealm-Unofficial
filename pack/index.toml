@@ -3091,11 +3091,6 @@ hash = "c2a088743c3dc59f16d44aef07db599429c1a5fb76d43df1737399eacc27a400"
 metafile = true
 
 [[files]]
-file = "mods/fastcraft.pw.toml"
-hash = "1142a07dbc3c00b5eb5a7509d68e75a8b2ba63566d39d8e17de1163ea3409cbb"
-metafile = true
-
-[[files]]
 file = "mods/flatsigns.pw.toml"
 hash = "bbe94c4fe907b30ba18ee81d84ad38d7ab091cdae7ef8a9a576cf4e98cfbd96a"
 metafile = true
