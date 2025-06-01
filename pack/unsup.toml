@@ -1,3 +1,16 @@
+[flavor_groups.angelica]
+name = "Angelica"
+description = "Drastically increases the game's rendering performance, at the occasional cost of a few rendering glitches. Client only."
+side = "client"
+[[flavor_groups.angelica.choices]]
+id = "angelica_on"
+name = "Yes"
+description = "Installs Angelica."
+[[flavor_groups.angelica.choices]]
+id = "angelica_off"
+name = "No"
+description = "Do not install Angelica."
+
 [flavor_groups.betterfoliage]
 name = "Better Foliage"
 description = "Adds bushy leaves, grassy grass blocks, falling leaf particles, algae and more. Highly configurable, anything can be disabled. Client only."
@@ -129,6 +142,8 @@ id = "tyksera_off"
 name = "No"
 description = "Do not download Tyksera."
 
+[metafile.angelica]
+flavors = "angelica_on"
 [metafile.better-foliage]
 flavors = "betterfoliage_on"
 [metafile.chameleoncreepers]
