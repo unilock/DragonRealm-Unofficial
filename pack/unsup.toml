@@ -5,7 +5,7 @@ side = "client"
 [[flavor_groups.angelica.choices]]
 id = "angelica_on"
 name = "Yes"
-description = "Installs Angelica."
+description = "Install Angelica."
 [[flavor_groups.angelica.choices]]
 id = "angelica_off"
 name = "No"
@@ -18,7 +18,7 @@ side = "client"
 [[flavor_groups.betterfoliage.choices]]
 id = "betterfoliage_on"
 name = "Yes"
-description = "Installs Better Foliage."
+description = "Install Better Foliage."
 [[flavor_groups.betterfoliage.choices]]
 id = "betterfoliage_off"
 name = "No"
@@ -31,7 +31,7 @@ side = "client"
 [[flavor_groups.chameleoncreepers.choices]]
 id = "chameleoncreepers_on"
 name = "Yes"
-description = "Installs Chameleon Creepers."
+description = "Install Chameleon Creepers."
 [[flavor_groups.chameleoncreepers.choices]]
 id = "chameleoncreepers_off"
 name = "No"
@@ -45,7 +45,7 @@ side = "both"
 [[flavor_groups.dualhotbar.choices]]
 id = "dualhotbar_on"
 name = "Yes"
-description = "Installs Dual Hotbar."
+description = "Install Dual Hotbar."
 [[flavor_groups.dualhotbar.choices]]
 id = "dualhotbar_off"
 name = "No"
@@ -58,7 +58,7 @@ side = "client"
 [[flavor_groups.dynamicsurroundings.choices]]
 id = "dynamicsurroundings_on"
 name = "Yes"
-description = "Installs Dynamic Surroundings."
+description = "Install Dynamic Surroundings."
 [[flavor_groups.dynamicsurroundings.choices]]
 id = "dynamicsurroundings_off"
 name = "No"
@@ -71,7 +71,7 @@ side = "client"
 [[flavor_groups.ears.choices]]
 id = "ears_on"
 name = "Yes"
-description = "Installs Ears."
+description = "Install Ears."
 [[flavor_groups.ears.choices]]
 id = "ears_off"
 name = "No"
@@ -84,7 +84,7 @@ side = "client"
 [[flavor_groups.soundfilters.choices]]
 id = "soundfilters_on"
 name = "Yes"
-description = "Installs Sound Filters."
+description = "Install Sound Filters."
 [[flavor_groups.soundfilters.choices]]
 id = "soundfilters_off"
 name = "No"
@@ -97,7 +97,7 @@ side = "client"
 [[flavor_groups.tails.choices]]
 id = "tails_on"
 name = "Yes"
-description = "Installs Tails."
+description = "Install Tails."
 [[flavor_groups.tails.choices]]
 id = "tails_off"
 name = "No"
@@ -110,7 +110,7 @@ side = "client"
 [[flavor_groups.voxelmap.choices]]
 id = "voxelmap_on"
 name = "Yes"
-description = "Installs Voxelmap."
+description = "Install Voxelmap."
 [[flavor_groups.voxelmap.choices]]
 id = "voxelmap_off"
 name = "No"
@@ -123,7 +123,7 @@ side = "client"
 [[flavor_groups.worldeditcui.choices]]
 id = "worldeditcui_on"
 name = "Yes"
-description = "Installs WorldEdit CUI."
+description = "Install WorldEdit CUI."
 [[flavor_groups.worldeditcui.choices]]
 id = "worldeditcui_off"
 name = "No"
@@ -136,7 +136,7 @@ side = "client"
 [[flavor_groups.tyksera.choices]]
 id = "tyksera_on"
 name = "Yes"
-description = "Downloads Tyksera."
+description = "Download Tyksera."
 [[flavor_groups.tyksera.choices]]
 id = "tyksera_off"
 name = "No"
