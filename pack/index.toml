@@ -2338,7 +2338,7 @@ hash = "1f0059225164f7a24228a6aae0db9d0f7f004ec02eeeb65f58a833b016ebbdbd"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "efe9037df1f784b891859fe112b9d6ed34713961e185881e5f0be676e0b0533a"
+hash = "22fdc90ae8a5bd00bcecb25894019ce00313a07d8733b6e335f29ae44566d685"
 
 [[files]]
 file = "config/dualhotbar.cfg"
