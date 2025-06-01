@@ -3022,7 +3022,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "2bd2a959b388e466b47e59f8519ed41dcc0ee6399132f40cf09a7542d5d98d1a"
+hash = "44198347f3f097d10d97132c645bc2b89d03be237ad98a9cca1b583a5c118222"
 metafile = true
 
 [[files]]
@@ -3592,7 +3592,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap.pw.toml"
-hash = "af4dd2d987959dacf92c92bb041e73430644f1a0a7c4869e78d65462bb29f1fc"
+hash = "a7197567f4eb621b13aef16c47578d6ca34f1b6a4b48d27ca791553c583f49a0"
 metafile = true
 
 [[files]]
