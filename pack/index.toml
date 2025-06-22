@@ -3152,7 +3152,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "eda92fe2453493a3b11f447f7a6e9759ff3c7561e0b99e731359fc4f4cd71622"
+hash = "62fd4b1234444e6edeb1cf5630a6b36aa08ffaaa36a071dd65565d76d2ff72fb"
 metafile = true
 
 [[files]]
@@ -3162,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "958ae175cfd6d1aff0f5816e9fa61250a37153a49c316a9cccfbfe4a36f67e59"
+hash = "cc1fb5d8f13da973a6c7d267a38469a8abe8dacb80a51ffd3d80a6b5e8ef2a08"
 metafile = true
 
 [[files]]
@@ -3197,7 +3197,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorybogosorter_extra.pw.toml"
-hash = "efe7f40a6ac971ce39b3157fc982c8895cdb0be3de17da14d91b4d28055c78be"
+hash = "46466c9af4d541efb777973ba09be8034858c1e58777e2a9fabefd9cd4679c89"
 metafile = true
 
 [[files]]
@@ -3337,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "7be7395e051fe186b8646fa7eb6489de62ecb4c1f91ba284e9f3b989c52272b2"
+hash = "4755ae314c3ae4169886ddaa2afe48b8e05f80a04e90799742ca2dc6c930b3c6"
 metafile = true
 
 [[files]]
