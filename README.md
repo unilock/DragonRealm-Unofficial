@@ -33,11 +33,11 @@ The [DragonRealm Warnings](https://dragonrealm.overminddl1.com/warning.php) are 
 
 3. Download the [MinecraftForge 10.13.4.1614](https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar) installer and install the server version to the server root folder
 
-4. Download `unsup-1.1-pre8.jar` from [Sleeping Town](https://git.sleeping.town/unascribed/unsup/releases/tag/v1.1-pre8), and place it in the server root folder
+4. Download `unsup-1.2.0-pre1.jar` from [Sleeping Town](https://git.sleeping.town/unascribed/unsup/releases/tag/v1.2.0-pre1), and place it in the server root folder
 
 5. Download `unsup.ini` from the [bin](https://github.com/unilock/DragonRealm-Unofficial/tree/main/bin) folder and place it in the server root folder
 
-6. Run unsup once - either double-click the jar file, or execute `java -jar unsup-1.1-pre8.jar`
+6. Run unsup once - either double-click the jar file, or execute `java -jar unsup-1.2.0-pre1.jar`
 
 7. Set your desired maximum world radius in `<server_root>/config/DragonAPI.cfg` on line 33. The default is 25000 blocks, which will require a decent amount of walking for certain things - but keep in mind that servers generally require a larger max world size than singleplayer, so the default should be fine.
 
@@ -46,8 +46,8 @@ The [DragonRealm Warnings](https://dragonrealm.overminddl1.com/warning.php) are 
      1. Delete "mediumIslands.txt" and "largeIslands.txt" from the modpack's ".minecraft" folder
      2. Follow the final four instructions on the [DragonRealm Installation](https://dragonrealm.overminddl1.com/installation.php) page
 
-9. Add `-javaagent:unsup-1.1-pre8.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT` as Java args
-   - For example, execute `java -Xms6G -Xmx6G -javaagent:unsup-1.1-pre8.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar`
+9. Add `-javaagent:unsup-1.2.0-pre1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT` as Java args
+   - For example, execute `java -Xms6G -Xmx6G -javaagent:unsup-1.2.0-pre1.jar -DragonAPI_disable_ASM_RIVERGENLAYEREVENT -DragonAPI_enable_ASM_NOOCWORLDRIFT -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar`
 
 10. Start the server
 
