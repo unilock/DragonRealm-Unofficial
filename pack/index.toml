@@ -2967,7 +2967,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromatifixes_extra.pw.toml"
-hash = "d0b1b47b73a8fe4f8788b13333e86d67d5d431aa0155e070da26593071a6dbe2"
+hash = "9ae103353d4080228813d395d1c5e76f006d7afa0b5606214542eea7a060b2df"
 metafile = true
 
 [[files]]
@@ -3162,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "cc1fb5d8f13da973a6c7d267a38469a8abe8dacb80a51ffd3d80a6b5e8ef2a08"
+hash = "68e87825c2dbd818b146b9915c72748b8241179c785240b667e288ebf1d4dd10"
 metafile = true
 
 [[files]]
@@ -3337,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "4755ae314c3ae4169886ddaa2afe48b8e05f80a04e90799742ca2dc6c930b3c6"
+hash = "897eeabdf22973d40483948fa2b15c19bd5804961ec2dc05d5e68340e4bb440a"
 metafile = true
 
 [[files]]
