@@ -1,8 +1,8 @@
-name = "LogisticsPipes"
-filename = "logisticspipes-0.9.3.128.jar"
+name = "Logistics Pipes"
+filename = "logisticspipes-1.7.10-0.9.4.5.7-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://dragonrealm.overminddl1.com/downloads/mods/logisticspipes-0.9.3.128.jar"
+url = "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/0.9.4.5.7-GTNH/logisticspipes-1.7.10-0.9.4.5.7-GTNH.jar"
 hash-format = "sha256"
-hash = "0f5ceec918105a09e55f14e414c3a67217ae27e3925ef94b6318dcd7dc1edd07"
+hash = "e0e1d7831aa0feb9fe9fb225a8913b90e10e3f6655fbf657d868b0c772c2e103"

@@ -1,8 +1,8 @@
 name = "Gadomancy"
-filename = "gadomancy-1.7.10-1.0.7.2-DevReika.jar"
+filename = "gadomancy-1.0.8.9.jar"
 side = "both"
 
 [download]
-url = "https://dragonrealm.overminddl1.com/downloads/mods/gadomancy-1.7.10-1.0.7.2-DevReika.jar"
+url = "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.0.8.9/gadomancy-1.0.8.9.jar"
 hash-format = "sha256"
-hash = "2c3f05df89cf4732870044b81233ccecb18cf4cde3260295851cb6f6aa3a3999"
+hash = "ef559e9b05ff6b64217b81f269a0caa6fabd59a684809e5e507a840e964a9f08"

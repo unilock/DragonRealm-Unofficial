@@ -2685,6 +2685,10 @@ file = "config/journeymap_ModInfo.cfg"
 hash = "438d93af26cb5ea1fe1d5ae5342bffedae6551370ca35271e7e5437ce93ff784"
 
 [[files]]
+file = "config/lwjgl3ify-early.json"
+hash = "b39aae9edb08495939afd65bcfcba06bd92db60c5687a0fcab2df76ed72753cd"
+
+[[files]]
 file = "config/malisisdoors.cfg"
 hash = "18af8815593a77323c1c756ac37b287fab47d9be11df1efe88f17120d35ea08c"
 
@@ -2906,13 +2910,8 @@ hash = "6045e9f0d28c2d35f2afabbd07f0472a4b3d917c284c15f7b519e8c3019a5648"
 metafile = true
 
 [[files]]
-file = "mods/binniepatcher.pw.toml"
-hash = "d5f8602e0ac0858a4ebd3b7a85c694af69cbef9dd5aced558351044ba32e4927"
-metafile = true
-
-[[files]]
 file = "mods/binnies-mods.pw.toml"
-hash = "4113356b522cc5cfa069c4ec98dea37ed5b713f55cd7b8f1d21e7870c25fce68"
+hash = "ca7f42af66d3a8de30414274c91a14bf5d69c176963a9a04734082255b62f242"
 metafile = true
 
 [[files]]
@@ -2966,9 +2965,8 @@ hash = "cd3dd72c9f4dfa915d5635804b0cda267516cb6097b9c1eeacf91193a8f125a4"
 metafile = true
 
 [[files]]
-file = "mods/chromatifixes_extra.pw.toml"
-hash = "9ae103353d4080228813d395d1c5e76f006d7afa0b5606214542eea7a060b2df"
-metafile = true
+file = "mods/chromatifixes-1.11.0-lwjgl3ify.1+52df06e8ea.jar"
+hash = "08c62ff5f4998aeec47490a7e33d989545e0eb11e61b6cbb9fafcc378dfbbc28"
 
 [[files]]
 file = "mods/climatecontrol.pw.toml"
@@ -3117,7 +3115,7 @@ metafile = true
 
 [[files]]
 file = "mods/gadomancy.pw.toml"
-hash = "92d91062b805975409a4925dbafd4799201344e197aaf4ada15b4f5970e43086"
+hash = "802e12af58c1514ce698bdbb351df948af19ec48fea0a3aa59fb4f1990a47604"
 metafile = true
 
 [[files]]
@@ -3237,12 +3235,17 @@ metafile = true
 
 [[files]]
 file = "mods/logisticspipes.pw.toml"
-hash = "5f4b3a7a6066f59c6b955d03b481c0cf631b1bd862b0b3261df9a8e9ee181b68"
+hash = "cb3dd4a636b761480ed07eefc284ac8c50542574f43bbc1ef8f6523ea5482bf8"
 metafile = true
 
 [[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "dedf0a058c7c7258b37fcfcdbb6a5247b23ccfc525f3ced929f58ce301832e93"
+metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "a5f7359c74150756fee610906fccfdc28129d8532df8bd2aec3190b9aa629766"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Binnie's Mods"
-filename = "binnie-mods-2.0-pre14.jar"
+filename = "binnie-mods-2.0-pre15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a54e2b790a0061446d81f608451b63e9ad079c79"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jcZf13lh/versions/TvjslYZz/binnie-mods-2.0-pre15.jar"
+hash-format = "sha512"
+hash = "d3b532f1a603bde49cf01931fce3b4f04dc8433b6af6c1b6f81203e4798b31c11d4819ddb81c3f3b0641ba0f65f905ac3d15e455ea018d80493645708fde7a2d"
 
 [update]
-[update.curseforge]
-file-id = 2246131
-project-id = 223525
+[update.modrinth]
+mod-id = "jcZf13lh"
+version = "TvjslYZz"
