@@ -1,15 +1,15 @@
 name = "InventoryBogoSorter"
-filename = "bogosorter-1.2.40-GTNH.jar"
+filename = "bogosorter-1.2.51-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.40-GTNH/bogosorter-1.2.40-GTNH.jar"
+url = "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.51-GTNH/bogosorter-1.2.51-GTNH.jar"
 hash-format = "sha256"
-hash = "4a3b8c41a665641c1c70ffce40936cea9627ce1586c238abc8ac8c7b02bc00e3"
+hash = "20cbdcf0c03240117ddfed0711f158d09c79f6260b1b9c5ef5b5998ca558c732"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/InventoryBogoSorter"
-tag = "1.2.40-GTNH"
+tag = "1.2.51-GTNH"

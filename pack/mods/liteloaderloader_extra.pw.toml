@@ -1,15 +1,15 @@
 name = "LiteloaderLoader"
-filename = "liteloaderloader-v0.0.7.jar"
+filename = "liteloaderloader-v0.0.9.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Midnight145/LiteloaderLoader/releases/download/v0.0.7/liteloaderloader-v0.0.7.jar"
+url = "https://github.com/Midnight145/LiteloaderLoader/releases/download/v0.0.9/liteloaderloader-v0.0.9.jar"
 hash-format = "sha256"
-hash = "273f2e9649e5d6e8e7ba1bffdcd94641d44e2ecf0651f809caf9e5008f870e98"
+hash = "2f1af8b6cd879465dd5dc62e0347f9657ce499f889e65fdcc694c75e64fbd3a3"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Midnight145/LiteloaderLoader"
-tag = "v0.0.7"
+tag = "v0.0.9"

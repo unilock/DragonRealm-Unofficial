@@ -1,13 +1,13 @@
 name = "Angelica"
-filename = "angelica-1.0.0-beta46.jar"
+filename = "angelica-1.0.0-beta53.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "b5749059927cc83d181833631630ee3557976c64"
+hash = "c82667f10af199ef8dfd6e3824d59f7279ca53e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6635051
+file-id = 6794325
 project-id = 988067

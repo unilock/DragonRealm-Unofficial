@@ -1,13 +1,13 @@
 name = "Thaumcraft 4 Tweaks"
-filename = "Thaumcraft4Tweaks-1.5.35.jar"
+filename = "Thaumcraft4Tweaks-1.5.36.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b7185b272927595a92cfac2ee728cd796d83294"
+hash = "ce38f5a2e16be0393904dbb7fafedbf3eea71cf1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6625001
+file-id = 6751114
 project-id = 431297
