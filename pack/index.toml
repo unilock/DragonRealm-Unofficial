@@ -2857,7 +2857,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica_extra.pw.toml"
-hash = "31c60765f002893a4ff326c81d91c359260a10c0fb68dd36746299918a948b16"
+hash = "807aaa1577b58e34c415914d460a3b50538b96e1dd19ee7312fb2de078a96ae7"
 metafile = true
 
 [[files]]
@@ -2977,7 +2977,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_extra.pw.toml"
-hash = "99a5f67ee9d30cf3fe31b82721d87a1d2e18ad44979010a0cfca1aeeb988e9d2"
+hash = "cce16701c186c342f4ce0b20a41cafc4ae7af1a00e0bf85b6a26d89ee1ba99e7"
 metafile = true
 
 [[files]]
@@ -3152,7 +3152,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "22f893ba07e0a0e716aa499ff3e20c4c9c3e6dcaf647e46abd7eb980728ffd59"
+hash = "ca605b79ac1b613e28efa8d3f7efe19f34679df02a87a6a7a21feb594bfd6692"
 metafile = true
 
 [[files]]
@@ -3162,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "f4ddc9cdd2ecde92ce3cde040b013a256a5debfec2c28ab29ce9e7779d9709db"
+hash = "8771801860890c3217f87c3af78f73c28835ebc713ab1d6cbb453b9affa46075"
 metafile = true
 
 [[files]]
@@ -3337,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "accff7526ba55595a7534d07e4ab9593746856d543e0206a42771e6e981a4a42"
+hash = "d84aa359b459b13b8100ab30b78ecc9f7410d20a9fd67b34cb0ce3476400ced1"
 metafile = true
 
 [[files]]
@@ -3487,7 +3487,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks_extra.pw.toml"
-hash = "b65ad6e682326c0f1a2d13600912c26fc7d5619417e1413bf6a0671c4071b86b"
+hash = "1dbccebee9da8c1f8c904e094126b52a8c9e0063cdfa23a16ef92899a338c430"
 metafile = true
 
 [[files]]
