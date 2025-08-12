@@ -2658,7 +2658,7 @@ hash = "c7660a3dea7ed574702b5cb03c48a493e352f22bc592d29c00548c3b77a82a88"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "1b9bf504f6c8f44bb01077537f678bb4eeeb34c6c0f0556d9b557f69cb5375b4"
+hash = "c5a63fc7249e46828757fffdf2a132f98917fc0e8fe5762a6d7dfce00fddb5bc"
 
 [[files]]
 file = "config/iChunUtil.cfg"
