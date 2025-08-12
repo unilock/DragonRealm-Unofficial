@@ -103,32 +103,6 @@ id = "tails_off"
 name = "No"
 description = "Do not install Tails."
 
-[flavor_groups.voxelmap]
-name = "VoxelMap"
-description = "Provides a mini/world map. May cause issues on macOS. Client only.\nEnabling either this or WorldEdit CUI will also install LiteLoader."
-side = "client"
-[[flavor_groups.voxelmap.choices]]
-id = "voxelmap_on"
-name = "Yes"
-description = "Install Voxelmap."
-[[flavor_groups.voxelmap.choices]]
-id = "voxelmap_off"
-name = "No"
-description = "Do not install VoxelMap."
-
-[flavor_groups.worldeditcui]
-name = "WorldEdit CUI"
-description = "Shows your WorldEdit selection. Client only.\nEnabling either this or VoxelMap will also install LiteLoader."
-side = "client"
-[[flavor_groups.worldeditcui.choices]]
-id = "worldeditcui_on"
-name = "Yes"
-description = "Install WorldEdit CUI."
-[[flavor_groups.worldeditcui.choices]]
-id = "worldeditcui_off"
-name = "No"
-description = "Do not install WorldEdit CUI."
-
 [flavor_groups.tyksera]
 name = "Tyksera"
 description = "Reika's 1.7.10 resourcepack made from a mixture of vanilla textures, custom textures and recombinated textures from other packs such as Faithful 32x, Sphax and Adventure Island. Only downloads Tyksera, does not enable it. It can also be found at https://dragonrealm.overminddl1.com/texture.php for later installs."
@@ -156,17 +130,9 @@ flavors = "dynamicsurroundings_on"
 flavors = "ears_on"
 [metafile.earsfixes_extra]
 flavors = "ears_on"
-[metafile.liteloader]
-flavors = ["voxelmap_on", "worldeditcui_on"]
-[metafile.liteloaderloader_extra]
-flavors = ["voxelmap_on", "worldeditcui_on"]
 [metafile.sound-filters]
 flavors = "soundfilters_on"
 [metafile.tails]
 flavors = "tails_on"
-[metafile.voxelmap]
-flavors = "voxelmap_on"
-[metafile.worldeditcui]
-flavors = "worldeditcui_on"
 [metafile.tyksera]
 flavors = "tyksera_on"

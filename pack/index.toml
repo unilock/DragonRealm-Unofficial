@@ -2821,6 +2821,14 @@ file = "config/worldedit/worldedit.properties"
 hash = "a239b077f74bb5347d91e1d00fe9a21562d749b8b6773f9e7611d40c4ef1a245"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "08211f117a21de1904f89145cee21df283ee86b9f22a46fda69ec664646636b3"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "646110ff5670343b0a3e5b05e9ec3eb19b00b4ed98dfe0c2cb9bc54b3d688abf"
+
+[[files]]
 file = "mods/1.7.10/baubles.pw.toml"
 hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
@@ -3226,16 +3234,6 @@ hash = "e6ace8298fbc1a836a4b2b87a6b4e09f8ae77865ef3bedeffca7e9a1d08a37e1"
 metafile = true
 
 [[files]]
-file = "mods/liteloader.pw.toml"
-hash = "72eb1b6471186529b88fff5edd0509940c053dd07a873cdbe09cbf8a317ed6b8"
-metafile = true
-
-[[files]]
-file = "mods/liteloaderloader_extra.pw.toml"
-hash = "4cb1db5319279d218960055fdb304f659339f4fbb8630dd2f26672220b0efdab"
-metafile = true
-
-[[files]]
 file = "mods/logisticspipes.pw.toml"
 hash = "5f4b3a7a6066f59c6b955d03b481c0cf631b1bd862b0b3261df9a8e9ee181b68"
 metafile = true
@@ -3591,11 +3589,6 @@ hash = "8058f10f3e60860ee2bc96ab977abc505a8c9b24c8268fd1263d040005b0399f"
 metafile = true
 
 [[files]]
-file = "mods/voxelmap.pw.toml"
-hash = "a7197567f4eb621b13aef16c47578d6ca34f1b6a4b48d27ca791553c583f49a0"
-metafile = true
-
-[[files]]
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
@@ -3611,13 +3604,18 @@ hash = "1136be022cb7fd03c6160f6c708c5c7b40727b4081c30a5fed86078ae2cee929"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui.pw.toml"
-hash = "fed932aaebff3517a73591c38c8cdda15c39f3a2be48ba2c706a70f04e3dcab1"
+file = "mods/wr-cbe-universal.pw.toml"
+hash = "8cd33833b05977ea540979c0261e234f06c4df82551b645f36673803d247350b"
 metafile = true
 
 [[files]]
-file = "mods/wr-cbe-universal.pw.toml"
-hash = "8cd33833b05977ea540979c0261e234f06c4df82551b645f36673803d247350b"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9e245a84a817c077c5450708327b3e9959cf810004fd9a2735cd575678cd96ab"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "565b2f68688e8675875ba2ad4c989fa08527c2d074be359baeb641632763d41d"
 metafile = true
 
 [[files]]
