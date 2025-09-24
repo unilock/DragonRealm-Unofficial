@@ -2865,7 +2865,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica_extra.pw.toml"
-hash = "807aaa1577b58e34c415914d460a3b50538b96e1dd19ee7312fb2de078a96ae7"
+hash = "55fe23d69ee38e497b209dbd0c5979e9e4e701e2f24f25bd5782295548ad039d"
 metafile = true
 
 [[files]]
@@ -3170,7 +3170,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "8771801860890c3217f87c3af78f73c28835ebc713ab1d6cbb453b9affa46075"
+hash = "855d36b5d19c60bbe505f3d5e7a88382acf80e36cff896b4f06ea9fbd3c70427"
 metafile = true
 
 [[files]]
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorybogosorter_extra.pw.toml"
-hash = "14409b75699d7056ed937d558de887d1f3c31a6f6b2754a5179a8b2732494a65"
+hash = "8df6a4d253ad6649373bcc8a781faf83ad4de3dc0666475699fca43f87cac8cf"
 metafile = true
 
 [[files]]
@@ -3295,7 +3295,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui2_extra.pw.toml"
-hash = "9a7db7f03e716b954e9b9a97fc16ea2a6074400907c34432de6a919f464d6ed3"
+hash = "e941216007b39785c589aa3d4a1497ad9201ee385de0dd43f0f4a4a5ef0e6fd9"
 metafile = true
 
 [[files]]
@@ -3335,7 +3335,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "d84aa359b459b13b8100ab30b78ecc9f7410d20a9fd67b34cb0ce3476400ced1"
+hash = "8e4f7fa37c02fd980b610411384dc66f1856a724cd9c27197d6d28601a2524b8"
 metafile = true
 
 [[files]]
@@ -3485,7 +3485,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks_extra.pw.toml"
-hash = "1dbccebee9da8c1f8c904e094126b52a8c9e0063cdfa23a16ef92899a338c430"
+hash = "4f0248e147979b4664affb2d551947086d913cde1e1068ad9d4bd290c6f99917"
 metafile = true
 
 [[files]]
@@ -3575,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins_extra.pw.toml"
-hash = "f89a13b510492cc5ecaafa59e4f69db7e107160eb80e33a226f0da14d3a1cdcf"
+hash = "9b84a015e887f80d3443d09298620587c8cf743a9dda35df98e10e538af7a2fe"
 metafile = true
 
 [[files]]

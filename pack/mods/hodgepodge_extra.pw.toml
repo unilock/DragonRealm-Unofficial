@@ -1,13 +1,13 @@
 name = "Hodgepodge"
-filename = "hodgepodge-2.6.97.jar"
+filename = "hodgepodge-2.6.107.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "94fb32541453f9e563161a49145b369a8b7744bd"
+hash = "6f796271b1675050da2e1578fd6489166eab2af6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6875237
+file-id = 7026865
 project-id = 688899
