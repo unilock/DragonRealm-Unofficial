@@ -1,13 +1,13 @@
 name = "UniMixins"
-filename = "+unimixins-all-1.7.10-0.1.23.jar"
+filename = "+unimixins-all-1.7.10-0.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "758ddc3f969d22f85da74fc8b1680d9ea822d8be"
+hash = "21db670c715e2a24eda05bd0c1d3b834e3949857"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6953804
+file-id = 7446239
 project-id = 826970
