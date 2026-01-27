@@ -3,11 +3,11 @@ filename = "ears-forge-1.7-1.4.7.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "442c6989e0f5b1d1961c55466199ed86c7d8d67f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/cOJECJY4/ears-forge-1.7-1.4.7.jar"
+hash-format = "sha512"
+hash = "c7a0d76a8a4fde3d301ce4359005354c22551aacfaff8166b545c5d45301f6f0553bd689de66b8502d366e86cbd098d1d6836d0f0ab12bc254c4ff720656b413"
 
 [update]
-[update.curseforge]
-file-id = 6166541
-project-id = 412013
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "cOJECJY4"

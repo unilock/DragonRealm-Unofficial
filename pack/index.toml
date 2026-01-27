@@ -2865,7 +2865,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica_extra.pw.toml"
-hash = "6c248feacb29501f52d72c955ac4a7b328174ce53faeca3c385d2a5e8b9d04e8"
+hash = "6106c2550d35a273ae6249facb014ccfce3c2d2c62892c03c8dacc49058c0a80"
 metafile = true
 
 [[files]]
@@ -2875,7 +2875,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaicfix_extra.pw.toml"
-hash = "52167fe78f9cc08a6bc6fb5005db660b02ffb89e16bc8331510416fe23416050"
+hash = "c57697806ba7ff5d4b88011e20cabdbb476a58a1b544cb759032292be4992cba"
 metafile = true
 
 [[files]]
@@ -2985,7 +2985,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_extra.pw.toml"
-hash = "9fb0370845230010306576f5963d80899c2b46514bcb9b7ec4eed8ecc7924394"
+hash = "1f711dffa64921759ad09f4e6d4e12173353ab5c60b214d9956a2ec67ff332d2"
 metafile = true
 
 [[files]]
@@ -3040,7 +3040,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears_extra.pw.toml"
-hash = "75c35f862264cb9d152265a19f13d25050adca2d61a426afa05febffe0bafd45"
+hash = "13e8feb4d3bf800aab46521a443e50e05d353a2b34ad4cf381fadbdac526d280"
 metafile = true
 
 [[files]]
@@ -3160,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "7dd6c9bfa73336982fe41102409406d4b91cd5cc729a621f90d4172c61bf7959"
+hash = "0a454a7bf2749f02c9519a7aa77989ccde2b3b38b74b0a59b6cf7db02b668aa4"
 metafile = true
 
 [[files]]
@@ -3170,7 +3170,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "bcb4ad4b3735977dc6cfad2491370fec938a5cf5a8fdaa9b3d4d55c199600b78"
+hash = "cd4aa98feea750d6e1627f398ec098a8d9a607fd9dc89c6d7d2b1189cb608335"
 metafile = true
 
 [[files]]
@@ -3335,7 +3335,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "b7fe1743243a50e7d04df16b792951eb3c6447eede483ba89b8f99751ce35273"
+hash = "27bf6ec47fffa09ddca96a992a3611efd5f7897edc9ee1d69848676b11329eda"
 metafile = true
 
 [[files]]
@@ -3575,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins_extra.pw.toml"
-hash = "cc8898129ee51fd830b4d0675966d6893bf082864ab70126f06d4cd159112158"
+hash = "cb026f337dbf7777e573233edca713a96eca54f3b7bab0d3207368b524ff6d2f"
 metafile = true
 
 [[files]]

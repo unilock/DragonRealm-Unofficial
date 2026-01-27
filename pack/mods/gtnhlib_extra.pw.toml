@@ -1,13 +1,13 @@
-name = "GTNHLib"
+name = "GTNH Lib"
 filename = "gtnhlib-0.9.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "44903ab8736310f9ae35adf430450e83b1bddf38"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/18pyYOAy/gtnhlib-0.9.6.jar"
+hash-format = "sha512"
+hash = "7eb36a6b34f37f47021afb5f7dad5e57b7bbd57285277f79944a2805dd9604d4b13706dcc598307768a0f303e3e4c11966647f97df77509e7fb635b4f856d225"
 
 [update]
-[update.curseforge]
-file-id = 7510334
-project-id = 688894
+[update.modrinth]
+mod-id = "vTvnv7qp"
+version = "18pyYOAy"

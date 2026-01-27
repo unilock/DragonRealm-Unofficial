@@ -3,11 +3,11 @@ filename = "CodeChickenCore-1.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "133e5c7b1c9bf410b8ebfed664d5769e9d946d93"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qMOdaUOs/versions/jmimfpRN/CodeChickenCore-1.4.10.jar"
+hash-format = "sha512"
+hash = "5ee0a9dcad20b58742db8cea7c5ca9b7f9aa7f541032f4afb21949397f7b1752e77a9a8b7be9fb1deee671c9af4b99bc7b465b9b1f9b15a210a70b8890c6b0fd"
 
 [update]
-[update.curseforge]
-file-id = 7304831
-project-id = 746279
+[update.modrinth]
+mod-id = "qMOdaUOs"
+version = "jmimfpRN"

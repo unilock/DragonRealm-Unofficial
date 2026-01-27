@@ -3,11 +3,11 @@ filename = "NotEnoughItems-2.8.55-GTNH.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6dbfd2638c2c896bbe194f04309eb7f46c228c5f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/FXZHaHwc/NotEnoughItems-2.8.55-GTNH.jar"
+hash-format = "sha512"
+hash = "74584e795d1911628b34f71065a131b3bc02359e6997761bbe7b0eb5276a5e1f641dd19b005fefcd960f7ac858c00972b355356448f41b24909cbcfdf2960f8b"
 
 [update]
-[update.curseforge]
-file-id = 7515227
-project-id = 358228
+[update.modrinth]
+mod-id = "iNPc3Onu"
+version = "FXZHaHwc"

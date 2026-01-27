@@ -3,11 +3,11 @@ filename = "hodgepodge-2.7.56.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "50889fea9853011c813b63c81c607bb9c209ce93"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6QQe8Ldy/versions/hLzOwR46/hodgepodge-2.7.56.jar"
+hash-format = "sha512"
+hash = "c21a6e759b23a94c22552cea12df1fb08a15e5de8786daee79d57cf8f3444dccd6f7ccd92d7400c7015a446866c10dbe64cf3c64b37f6d051e394246c9b8f354"
 
 [update]
-[update.curseforge]
-file-id = 7531247
-project-id = 688899
+[update.modrinth]
+mod-id = "6QQe8Ldy"
+version = "hLzOwR46"

@@ -3,11 +3,11 @@ filename = "archaicfix-0.7.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ce994a9b81e1b1e0408138e68f66985298c313cf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xTJanN3v/versions/KnvgPIAT/archaicfix-0.7.7.jar"
+hash-format = "sha512"
+hash = "bfad61cd3a964447a9a409b859cab929d89a5691335b93671b941623ba6510ff7185491bd2b5e50e73736a5d7c1dcb42573dc4b4422be2ad841c1944149f1d5b"
 
 [update]
-[update.curseforge]
-file-id = 6785841
-project-id = 677782
+[update.modrinth]
+mod-id = "xTJanN3v"
+version = "KnvgPIAT"
