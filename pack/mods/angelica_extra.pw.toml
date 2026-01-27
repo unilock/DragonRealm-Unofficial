@@ -1,13 +1,13 @@
 name = "Angelica"
-filename = "angelica-2.0.0-alpha15.jar"
+filename = "angelica-1.0.0-beta68a.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XN5jnYB4/versions/77qkaQow/angelica-2.0.0-alpha15.jar"
+url = "https://cdn.modrinth.com/data/XN5jnYB4/versions/eErTfV3O/angelica-1.0.0-beta68a.jar"
 hash-format = "sha512"
-hash = "3ecafa56e3ee30db9142afc15ea92d0fb247ed0bae918601419430a1b8d0c137e7f1c114ec4e8bc40c6fb48857a3a9893270f19eb53bb27905a931a6c52e0618"
+hash = "3ff36988816ff6e112349489aeb977601a9f0b06d5ea107ff74c0ec3bd091d72279a88f68a26e6c57d222f063c0ddd88f4715f6ee347d98ba9ef6cf436ed917b"
 
 [update]
 [update.modrinth]
 mod-id = "XN5jnYB4"
-version = "77qkaQow"
+version = "eErTfV3O"

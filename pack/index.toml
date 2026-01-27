@@ -2865,7 +2865,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica_extra.pw.toml"
-hash = "6106c2550d35a273ae6249facb014ccfce3c2d2c62892c03c8dacc49058c0a80"
+hash = "ed004ac638cbbd2aae43f59a157df4887f5d418bfacb8f08d75c33b9f1a585e4"
 metafile = true
 
 [[files]]
