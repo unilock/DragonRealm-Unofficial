@@ -2178,7 +2178,7 @@ hash = "b8fd15f5a9f1eb1409e86a2e240423f35445c1419b03b1714ee0380b41bd8152"
 
 [[files]]
 file = "config/angelica-modules.cfg"
-hash = "eaec269323b067479a95ac74abc7bfdde8f74034467b1bc398094e7699edd1de"
+hash = "d41b1c404777299f1f89851d0a06e893aae20bd5577680f5da7533d310b1321b"
 
 [[files]]
 file = "config/arcanearteries.cfg"
