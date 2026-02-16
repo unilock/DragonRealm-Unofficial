@@ -3160,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib_extra.pw.toml"
-hash = "a9c82a62c3b80a00b631b415f90e18d73c5c77b8047eff96c10842ff99707ee0"
+hash = "0a454a7bf2749f02c9519a7aa77989ccde2b3b38b74b0a59b6cf7db02b668aa4"
 metafile = true
 
 [[files]]
