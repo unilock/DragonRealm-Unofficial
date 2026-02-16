@@ -1,13 +1,13 @@
 name = "NotEnoughItems Unofficial 1.7.10"
-filename = "NotEnoughItems-2.8.55-GTNH.jar"
+filename = "NotEnoughItems-2.8.69-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/FXZHaHwc/NotEnoughItems-2.8.55-GTNH.jar"
+url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/cIse25yj/NotEnoughItems-2.8.69-GTNH.jar"
 hash-format = "sha512"
-hash = "74584e795d1911628b34f71065a131b3bc02359e6997761bbe7b0eb5276a5e1f641dd19b005fefcd960f7ac858c00972b355356448f41b24909cbcfdf2960f8b"
+hash = "d75b194f12fb9d4be61d30e63c87b9a2d7846bfbece6d54ae7451e5ab832b809360b9b900d81fd80418fdcf23a09066a90b46a17db2a9f53a2cdb1385cd3848c"
 
 [update]
 [update.modrinth]
 mod-id = "iNPc3Onu"
-version = "FXZHaHwc"
+version = "cIse25yj"
