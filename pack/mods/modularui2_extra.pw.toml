@@ -1,15 +1,15 @@
 name = "ModularUI2"
-filename = "modularui2-2.3.44-1.7.10.jar"
+filename = "modularui2-2.3.54-1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.44-1.7.10/modularui2-2.3.44-1.7.10.jar"
+url = "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.54-1.7.10/modularui2-2.3.54-1.7.10.jar"
 hash-format = "sha256"
-hash = "6cfb68cd9fc7ceadb63e51fd3ba0de09c75daadfa2c611ea67bab3737f571686"
+hash = "95b0e16d5a30871e739985b9f894a1f67e90c3e58af571d4921f2e3fba9e8910"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ModularUI2"
-tag = "2.3.44-1.7.10"
+tag = "2.3.54-1.7.10"

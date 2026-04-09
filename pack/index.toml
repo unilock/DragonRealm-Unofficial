@@ -2875,7 +2875,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaicfix_extra.pw.toml"
-hash = "c57697806ba7ff5d4b88011e20cabdbb476a58a1b544cb759032292be4992cba"
+hash = "19d12d89c9df19da9a45988b247cd0ba8a7ade8f4d098feabb3ce8b0a119a3d3"
 metafile = true
 
 [[files]]
@@ -2985,7 +2985,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore_extra.pw.toml"
-hash = "1f711dffa64921759ad09f4e6d4e12173353ab5c60b214d9956a2ec67ff332d2"
+hash = "15dbe65585174b35575d2ac33ed642e8a2bb1676550bedb3e29374a1a1c1d8c1"
 metafile = true
 
 [[files]]
@@ -3170,7 +3170,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge_extra.pw.toml"
-hash = "16cc60432c508a915069653acf7160a3d83848bbf0df30aedd30b4f5792e6abb"
+hash = "3f4d7eb60dec3302ad2db1fe0987adcfe751d88699e75e80c92272eef6f1632f"
 metafile = true
 
 [[files]]
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorybogosorter_extra.pw.toml"
-hash = "68ecf0d6583825d4cd34bb738f0ae181b5dabcd5d19c1e533b4d7cac838a1272"
+hash = "2c50747f13e11a1aff5f42179c3101156214bdcc5d30bd118deafdbbaabe3ef5"
 metafile = true
 
 [[files]]
@@ -3295,12 +3295,12 @@ metafile = true
 
 [[files]]
 file = "mods/modularui2_extra.pw.toml"
-hash = "38bc3dd36ce62eaa0efdbda1cd3efa4588ef32f8b5be7f99959d64665e45cba5"
+hash = "c8d1d9cd5a6abde4d8a9f47c0ff585ec6039e68fb247eeb3206b3ab75bfa0906"
 metafile = true
 
 [[files]]
 file = "mods/modularui_extra.pw.toml"
-hash = "0bab9672e9a91503ea4c0d57384c36891b65ad41ae97b279fdaa3991191f329e"
+hash = "f2acf02b31bd67c16c50ac39fbc04ceb0f11ee6a37e03692801a20176aa89260"
 metafile = true
 
 [[files]]
@@ -3335,7 +3335,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems_extra.pw.toml"
-hash = "e1cb192fc03e741fa7cc779e20da16c2e672bfd1c897d4e07b347b897ab3e71b"
+hash = "7bfefda1af2d42c2bc836e26af489d66d0937d439bc54bbdf149cb1ba2ea68cc"
 metafile = true
 
 [[files]]
@@ -3485,7 +3485,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks_extra.pw.toml"
-hash = "3b5ab4a0d072888afb084cade9cbff4e21fd18df7053a3f1ee81c8bc05443d7f"
+hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
 metafile = true
 
 [[files]]
